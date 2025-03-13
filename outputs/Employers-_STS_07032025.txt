@@ -1,0 +1,29 @@
+=== employers- sts ===
+Employers- STS	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9
+Employers									
+Name	Phone	Forfait Orange							
+Fethi Chaouachi	21658588804	50							
+Hela ELghoul	21650841601	50							
+Aziza Hamrouni	21658050191	20							
+Hamdi Fhal	21658024499	20							
+Nizar Gharsalli	21658280874	40							
+Aymen Gobji	21658024997	20							
+Mohamed Firas Bellotef	21656588966	40							
+Fatma Guermassi	21656588965	20							
+Souhail Yaakoubi	21656589033	50							
+Taha Khiari	21658588844	50							
+Ahmed Ayadi	21658598706	20							
+Amira Aydi	21652090704	20							
+Motaz farwa	21652138181	20							
+Chaima ben yahia	21652252455	20							
+Hamza RIAHI	21651780826	30							
+Hadil SAKOUHI	21651780851	30							
+Hatem Bouaicha	21658280871	20							
+Leila Mokni	21651782140	30							
+Mohamed NOUILI	21656588994	40							
+Mohamed Rzig	21658588830	30							
+Chiraz BEN ABBES	21658588849	20							
+International 	21658588807	100 B2B							640.0
+Non affecté 	21651782141	30							
+
+

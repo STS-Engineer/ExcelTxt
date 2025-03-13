@@ -1,0 +1,296 @@
+=== Sheet1 ===
+Supplier_name
+Soprec Interplex
+C&J Metal Products Inc.
+C. SJOBERG & SON INC.
+ETCO Incorporated
+FOX VALLEY MOLDING INC.
+LISI Automotive LLC
+PLASTICUM TUNISIE
+PLASTEEL Tunisie
+Inteplast
+MAT-KONTAK
+FORMINSA
+GONZALEZ CATALAN
+NAIPI
+Indo Tools
+Zhangjiagang HAIDA Products
+TESLA
+TESLA STROPKOV A.S.
+PLASTICOS HERRERO S.A.
+TYRSA
+VM Industries
+GLUTZ AG
+AXON' MECHATRONICS SAS
+MARIO SCHAAF
+MECATRACTION
+OSTERRATH
+SOPIL
+CYCLAM
+DEVILLE TPC SAS CHASSENEUIL
+Deville Ouest Plastique
+ANNECY Technology
+HONG KONG AMBITION RUBBER PLASTIC
+Escubedo
+Balkhausen
+Erce Plasturgie
+ESCUBEDO
+ZHANGJIAGANG CITY HAIDA METAL
+MERSEN
+PRECISION Plastic & Hardware Co Ltd
+MICROTECHNIC SAM
+PLASTIC ELECTROMECHANIC COMPANY
+Usotor SA
+Somica
+Reydelet Dumoulin
+Sacred
+Tatly Technology (Suzhou) Co.
+LongTai
+JinFeng
+HANSUNG IMP
+CHEIL CHEMICAL
+JianXin
+INJECTOPLAST Pvt. Ltd.
+Indo tools
+Presmec
+L N Tech
+Macro Metals Pvt Ltd
+Technocrats India
+Venus Industries
+Die Crafts
+Precision Plastic & Hardware Co. Ltd
+AUGE Microtechnique
+HOP SHIN (POLYBEST)
+Poly-Best (H.K.) Limited
+Yan Pu
+PEC Zaghouan
+AVO Cn (Kunshan)
+SHUN KAIXIN
+AMES
+UNITED SPRINGS SAS
+KERN-LIEBERS Texas Inc.
+KONZELMANN GmbH
+DUROPLAST
+TDK Electronic Europe
+HAIDA
+Kunshan FeiXiong Electronic Technology Co.
+FUYU
+FEIYA
+SFP Thermoformage
+HEMA
+ELBIK - DIETZE Group
+JAVAUX
+AXPRO
+Mould Monitor
+Production site
+LONGRUN RUBBER Co. Ltd
+Shouke electronic Co Ltd
+Shouke Electronic Co. Ltd
+SEEBER
+Suzhou Duozheng Electronics
+Shanghai Yixu electronics co.
+Gerun Xinna
+GERUN XINA
+MORTECS
+PLASTICUM (sub contractor)
+JIANTONG Hardware
+Suzhou HAIHE Intelligent Technology Co
+XinZhiYou Electronic Company
+Suzhou HAIHE Intelligent Technology Co.
+AVO Kunshan
+
+
+=== Sheet2 ===
+Program or Project
+B8
+PTNA
+TERMINAL B&D
+No program/project
+TERMINAL KIRBY
+GW
+LXB
+First Plast
+TI Caro
+B & D
+10C-10T
+EPSILON
+11TA
+CMF1
+10T-11TA
+11TA BSUV
+Genny 3
+PCB
+Global Wiper
+HB5
+DY
+MNG2
+Dremel
+Cable Header
+NEM / NEM2
+10T - 11TA
+FIAT 3+3
+NEM2
+10T
+Platine 11TA - B SUV
+Platine 10T
+NEM 1
+PQ35
+NGM
+NGM AP
+NEM
+NEM/NEM2
+PRB4
+MNG
+11TA - P32L
+MNG3
+MNG2 3L/3C
+Dual Motor
+FLEX
+VM4-2B
+"VM4-2B
+VM4C"
+SW4
+"VM4-2B - SW4
+VM4C"
+10T Bresil
+10T Bresil - corsa
+7P Madrid
+10C - 10T
+BRS
+DUCATO
+MERSEN
+Valeo Angers
+Valeo Pologne
+Fx PRB4-X56
+Fx X70
+Fx Laguna
+Fx
+FORD - F552
+UP28X
+PPC AR
+PPC AR First
+VM4C
+MAZDA
+T10/T11 A
+SW4/VM4
+"SW4/VM4
+VM4C"
+SW3 Chine
+SW4 Chine
+LETRIKA
+PFC Stay brush holder
+BOSCH
+LTVS
+10T/10C
+UP28
+VP2S, VP7G / CP8G1U
+NTA02
+VM4
+MELCO 393
+New Sander
+MNG2 - E
+Platine 10C
+5AQGen3
+SCANIA
+Trico
+HAMMER
+BOSCH HAMMER
+NTA02 V
+TYCO
+T7
+CMFB
+M2 NISSAN
+EUROTA (N2)
+HB10
+MELCO 407
+TMG 24V Sunroof
+Sunroof
+GEN1
+SIM2 AS
+B515 NEO
+SIM2 (AS & Elec)
+GEN2 VM4
+DW618 Router
+B2E MAZDA
+MNG2E
+MNG2 3L2C
+Fiat 356 (TIPO)
+MK
+DCK
+SIM2 Elec
+GEM JBUB
+GEN2 VM4 (continu)
+Router
+FWM - TLC
+NEP3
+EVP40
+Reversing motor
+UP30
+MELCO 421
+FWM
+TMG 12V
+CM3
+CM4
+CM3/CM4
+SLIM AS
+SLIM Elec
+NTA U611 U625
+SKP42
+THOR (B&D)
+AIRTEX
+TMG 12V with PCB
+B479 FCA
+Rotozip
+NTA 02
+Back up antenna
+NTA05 CN7A
+Kinetec (golf car)
+Golf car
+3rd brush earth M3-M4
+"3rd brush earth
+M3 - M4"
+3rd brush earth M3 - M4
+10T / 11TA
+Program/project
+-
+MAHLE OBCP2
+TRICO DT Stellantis
+GEN2 VM4 (reversible)
+SKF SMART Motor
+OBCP2
+BOSCH - DREMEL
+KINETEC
+MAHLE DCLV OBC2P
+NIDEC
+NTA GEM MX5 BL7
+NTA GME MX5 BL7
+EMC
+MX5 Hyundai FWS
+MX5 Hyunday FWS
+PFC
+JFC
+GEN1 - VM4
+ICS Switch Bank Solenoid
+MEB ECO
+MEC ECO
+TNQ13001
+NTA05 AP
+MELCO 492 GX
+MESAC 492 GX
+VW MEB ECO
+FEILONG 120W EWP
+MELCO 421 GX
+TI Auto
+
+
+=== Sheet3 ===
+Avo_site
+AVO El Fahs
+AVO Monterrey
+AVO Poitiers
+AVO Chennai
+AVO Kunshan
+AVO Tianjin
+AVO Korea
+
+

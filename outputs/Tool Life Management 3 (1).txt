@@ -1,0 +1,1126 @@
+=== Tool Life Management ===
+Title	Tool Master	Tool Record	Month	Customer Type	Year	No of Parts	Machine clamping force (T)	Tooling cost	Currency	Tool description	Master Type	Warranty (Parts)	Tool Owner	Type of Sprue	Overall Cycle time (s)	Type of press	Standard daily capacity (Parts)	Max daily capacity (Parts)	Part Gross Weight (g)	Part Net Weight (g)	Strip width (mm)	Pitch (mm)	Lead Time (months)	Plant	Tool Type	Plant:Title	Plant:Site	Tool Type:Title	End_of_production	EOP	ID	Created	Modified	MasterRecord	ParentTitle	ToolCurrentStatus	Data	Created By	Modified By	TestCurrency	Property	Part per cycle	PartNumberReference	PartReference	Tool Maker	Warranty Alert	Attachments
+ST-2006-01-XX-364					2006	1	364.0			Languette connecteur 11TA B8		12000000	NIDEC			V							2.76	AVO El Fahs	Stamping			ST																A993429T			
+ST-1987-01-25-157					1987	1	157.0			TERMINAL		10000000	BOSCH			V							2.99	AVO Monterrey	Stamping			ST								Mold scraped								53-2003			
+ST-1987-01-25-158					1987	1	158.0			TERMINAL		10000000	BOSCH			V							2.99	AVO Monterrey	Stamping			ST								Mold scraped								53-2004			
+ST-1987-01-25-159					1987	1	159.0			TERMINAL		2000000	BOSCH			V							2.99	AVO Monterrey	Stamping			ST								Mold scraped								53-2005			
+ST-1987-01-25-156					1987	1	156.0			TERMINAL		10000000	B&D			V	31304.0						2.99	AVO Monterrey	Stamping			ST								In use								53-0711			
+ST-1973-01-25-154					1973	1	154.0			TERMINAL		10000000	FIDELITONE				31304.0						2.99	AVO Monterrey	Stamping			ST								In use								53-0723			
+ST-1973-01-25-155					1973	1	155.0			TERMINAL		10000000	KIRBY				31304.0						2.99	AVO Monterrey	Stamping			ST								In use								53-0725A			
+ST-1997-01-25-177					1997	1	177.0			TERMINAL CSJOBERG TB		10000000	No tool owner			V	31304.0						2.99	AVO Monterrey	Stamping			ST								In use								53-0729			
+ST-1999-01-60-365					1999	1	365.0			RH LEAD FRAME WITH GROUND(NEW)		50000000	VALEO			V	216000.0						3.68	AVO Monterrey	Stamping			ST								In use								50-0323			
+ST-1999-01-60-272					1999	1	272.0			LH LEAD FRAME WITH GROUND(NEW)		50000000	VALEO			V	216000.0						3.68	AVO Monterrey	Stamping			ST								In use								50-0325			
+ST-2007-01-60-366					2007	1	366.0			POS BBOX VP3S4U-11061-BB		50000000	COMSTAR			V	216000.0						2.99	AVO Monterrey	Stamping			ST								In use								50-0414A			
+ST-2007-01-60-367					2007	1	367.0			BRASS NEGATIVE BRUSH BOX		50000000	COMSTAR			V	216000.0						2.99	AVO Monterrey	Stamping			ST								In use								50-0415A			
+ST-2007-01-80-707					2007	1	707.0			F6RU-11A039-AA		20000000	COMSTAR			V								AVO Monterrey	Stamping			ST								In use											
+ST-2007-01-40-708					2007	1	708.0			F6RU-11062-AA 		800000	COMSTAR			V								AVO Monterrey	Stamping			ST								In use											
+ST-2005-01-60-273					2005	1	273.0			TRACK(SHORT) CB TI FRST PLASTQ		100000000	VALEO			V	216000.0						2.99	AVO Monterrey	Stamping			ST								In use								50-0540			
+ST-XXXX-01-100-274					XXXX	1	274.0			TRACK LONG CB TI FRST PLASTQUE		50000000	VALEO				72000.0						3.68	AVO Monterrey	Stamping			ST								In use								50-0541			
+ST-XXXX-01-100-275					XXXX	1	275.0			TRACK BORNIER CB TI FRST PLSTQ		0	VALEO				72000.0							AVO Monterrey	Stamping			ST								In use								50-0542			
+ST-1996-01-22-149					1996	1	149.0			TERMINAL, REV A1		50000000	COMSTAR			V	576000.0						2.99	AVO Monterrey	Stamping			ST								In use								53-0556			
+ST-1996-01-22-150					1996	1	150.0			TERMINAL, REV A1		50000000	COMSTAR			V	576000.0						2.99	AVO Monterrey	Stamping			ST								In use								53-0558			
+ST-1996-01-30-368					1996	1	368.0			TERMINAL SREA285644		50000000	COMSTAR			V	576000.0						2.99	AVO Monterrey	Stamping			ST								In use								53-0576			
+ST-1996-01-30-403					1996	1	403.0			TERMINAL FOR PM POSITIVE ASSY		50000000	PM			V	360000.0						2.99	AVO Monterrey	Stamping			ST								In use								53-0584A			
+ST-1998-01-22-178					1998	1	178.0			INDUCTOR TERMINAL - GLOBAL		50000000	VALEO			V	792000.0						2.99	AVO Monterrey	Stamping			ST								In use								53-0592			
+ST-1996-01-30-369					1996	1	369.0			24023030 REV C / ETCO 51840		50000000	No tool owner			V	576000.0						2.99	AVO Monterrey	Stamping			ST								In use								53-0599			
+ST-1999-01-30-276					1999	1	276.0			EP36-56 REV 4		50000000	No tool owner			V	288000.0						3.22	AVO Monterrey	Stamping			ST								In use								53-0601			
+ST-1999-01-30-277					1999	1	277.0			EP36-57 REV 4		50000000	No tool owner			V	324000.0						3.22	AVO Monterrey	Stamping			ST								In use								53-0602			
+ST-2000-01-30-188					2000	1	188.0			TERMINAL 05-0378 EP35-16 REV 4		50000000	No tool owner				216000.0						2.99	AVO Monterrey	Stamping			ST								In use								53-0603			
+ST-2000-01-30-250					2000	1	250.0			TERMINAL 05-0379		50000000	No tool owner				216000.0						2.99	AVO Monterrey	Stamping			ST								In use								53-0604			
+ST-2002-01-30-370					2002	1	370.0			CAP, REV 10		50000000	No tool owner			V	216000.0						2.99	AVO Monterrey	Stamping			ST								In use								53-0612			
+ST-1996-01-22-151					1996	1	151.0			TERMINAL		50000000	TI			V	576000.0						2.99	AVO Monterrey	Stamping			ST								In use								53-0646A			
+ST-2009-01-30-278					2009	1	278.0			CAP 904732		50000000	No tool owner			V	144000.0						3.45	AVO Monterrey	Stamping			ST								In use								53-0712			
+ST-2009-01-30-279					2009	1	279.0			TERMINAL EP36-154 REV 2		50000000	No tool owner			V	324000.0						2.99	AVO Monterrey	Stamping			ST								In use								53-0715A			
+ST-1996-01-22-280					1996	1	280.0			ETCO 51632 TERMINAL		50000000	ETCO			V	864000.0						2.99	AVO Monterrey	Stamping			ST								In use								53-0727			
+ST-2009-01-30-208					2009	1	208.0			CAP WITHOUT EARS		50000000	B&D			V	144000.0						3.45	AVO Monterrey	Stamping			ST								In use								53-0736			
+ST-XXXX-01-30-281					XXXX	1	281.0			BRUSH BOX 652812-CAT1 DEWALT		50000000	DEWALT				144000.0						3.22	AVO Monterrey	Stamping			ST								In use								50-0623			
+ST-XXXX-01-30-282					XXXX	1	282.0			TERMINAL PLATE CAT1		50000000	DEWALT				144000.0						2.99	AVO Monterrey	Stamping			ST								In use								50-0624			
+ST-1999-01-60-283					1999	1	283.0					50000000	No tool owner				216000.0							AVO Monterrey	Stamping			ST								In use								50-0699			
+ST-1996-01-22-189					1996	1	189.0					50000000	No tool owner			V	648000.0							AVO Monterrey	Stamping			ST								In use								53-0545			
+ST-1996-01-22-335					1996	1	335.0			TERMINAL REV A1		50000000	COMSTAR			V	576000.0						2.99	AVO Monterrey	Stamping			ST								In use								53-0561			
+ST-1996-01-22-148					1996	1	148.0			TERMINAL REV A1		50000000	COMSTAR			V	576000.0						2.99	AVO Monterrey	Stamping			ST								In use								53-0558			
+ST-1996-01-22-404					1996	1	404.0			TERMINAL REV ?  (90 DEG)		50000000	No tool owner			V	576000.0						2.99	AVO Monterrey	Stamping			ST								In use								53-0646			
+ST-2008-01-30-284					2008	1	284.0			TERMINAL EP36-155 REV 2 PLATED		50000000	No tool owner			V	324000.0						2.99	AVO Monterrey	Stamping			ST								In use								53-0716			
+ST-2008-01-30-285					2008	1	285.0			TERMINAL EP36-154 REV 2 PLATED		50000000	No tool owner			V	324000.0						2.99	AVO Monterrey	Stamping			ST								In use								53-0715			
+TS-2007-08-250-405					2007	8	405.0					8000000	No tool owner	Cold runner			5317.0						3.45	AVO Monterrey	Thermoset Injection			TS								In use								50-0126			
+TS-2007-08-250-406					2007	8	406.0					8000000	No tool owner	Cold runner			5317.0						2.99	AVO Monterrey	Thermoset Injection			TS								In use								50-0605			
+TS-2007-08-250-407					2007	8	407.0					8000000	No tool owner	Cold runner			5317.0						2.99	AVO Monterrey	Thermoset Injection			TS								In use								50-0607			
+TP-2007-08-100-371					2007	8	371.0			Plate Brush Mounting		8000000	B & D				17280.0						4.37	AVO Monterrey	Thermoplastic Injection			TP								In use								50-0625			
+ST-2006-01-XX-336					2006	1	336.0			Languette connecteur X70		12000000	NIDEC			V							2.76	AVO El Fahs	Stamping			ST								Mold scraped											
+ST-2004-01-30-337					2004	1	337.0			Languettes connecteur EPSILON		6000000	NIDEC			V	18000.0						2.76	AVO El Fahs	Stamping			ST								In use											
+TP-1997-04-150-185					1997	4	185.0			PLATINE 2 fils SS MASSE HORAIR		8000000	NIDEC			H	6646.0						2.99	AVO El Fahs	Thermoplastic Injection			TP								Production end								A57890077, A57890107, A852626R, A852706L, A754598H, A856567H, A856649L, A861761V, A861816F, A878360A, A878361L, A878447G, A878448Q, A878449D, A878456Z, A993420L, A993458K, A993469S, A993471W, A993472V, A993470N			
+TP-1992-06-50-160					1992	6	160.0			PASSE FIL 10T		6000000	NIDEC			H	14400.0						2.99	AVO El Fahs	Thermoplastic Injection			TP								In use								A57840487, A57840527			
+TP-2006-16-100-372					2006	16	372.0			Passe fil supérieur		4800000	NIDEC			H	17280.0						3.22	AVO El Fahs	Thermoplastic Injection			TP								Production end								A993494Q			
+TP-2006-16-100-338					2006	16	338.0			Passe fil inférieur		0	NIDEC				17280.0							AVO El Fahs	Thermoplastic Injection			TP								Production end								A993495D			
+TP-2005-04-200-339					2005	4	339.0			PLATINE noire 10T		12800000	NIDEC			H	6912.0						3.68	AVO El Fahs	Thermoplastic Injection			TP								Production end								A996754T, A993492P, A996747Q, A996761D, A996767F, A996748S, A996746B, A996750W, AA08106102B, AA07106004D, AA10106374K, AA10106380H, ZGAM1P2708, AA10106291J			
+TP-2013-04-200-518					2013	4	518.0			Platine T7 PA66 25%FV UL94V0		18200000	NIDEC	Hot Runner direct on part		H	8229.0						3.68	AVO El Fahs	Thermoplastic Injection			TP								In use								A993492P, A996746B, AA08106102B, AA10106291J, A996754T, AA14106667M, AA12106513D, AA12106553H, AA15106740R, AA16106796T, AA13106606F			
+TP-2012-04-100-519					2012	4	519.0			Connector EPSILON 2 ways ET1091		4000000	NIDEC			H	4800.0						3.68	AVO El Fahs	Thermoplastic Injection			TP								In use								A60100477, A60100482			
+TP-2000-08-100-181					2000	8	181.0			PASSE FIL 11TA		6000000	NIDEC			H	18189.0						2.99	AVO El Fahs	Thermoplastic Injection			TP								In use								A872314R			
+TP-2003-04-200-147					2003	4	147.0			PLATINE 10C Denso V0		10000000	NIDEC			H	7200.0						4.14	AVO El Fahs	Thermoplastic Injection			TP								In use								A60100830			
+TP-2016-04-200-667					2016	4	667.0	47200		Platine 10C B2E Robustness (For)		4000000	NIDEC			H	5760.0						3.68	AVO El Fahs	Thermoplastic Injection			TP								In use								AA12106553H, AA15106740R, AA16106796T			
+TP-2003-04-200-643					2003	4	643.0					5000000	NIDEC				7200.0						3.68	AVO El Fahs	Thermoplastic Injection			TP								In use								AA11106452G, A996761D			
+TP-2005-02-200-644					2005	2	644.0					2000000	NIDEC			H	2880.0						3.68	AVO El Fahs	Thermoplastic Injection			TP								In use								A993492P			
+TP-2003-02-200-645					2003	2	645.0			Platine 10T Gamma		2000000	NIDEC				2880.0						3.68	AVO El Fahs	Thermoplastic Injection			TP								In use								A10106291J			
+TP-2003-01-200-646					2003	1	646.0			Platine 10T Ducato galfan		1000000	NIDEC				1440.0						3.68	AVO El Fahs	Thermoplastic Injection			TP								In use								A08106102B			
+TP-2003-04-200-647					2003	4	647.0			Platine PFA		8000000	NIDEC				5760.0						2.76	AVO El Fahs	Thermoplastic Injection			TP								In use								A07106004D			
+TP-2006-05-150-373					2006	5	373.0			Carcasse pour 761D / 452G / 493G / 101A / 6004 D		15812992	NIDEC			H	5760.0						2.3	AVO El Fahs	Thermoplastic Injection			TP								In use								Carcasse pour 761D / 452G / 493G / 101A / 6004 D			
+TP-2002-04-150-191					2002	4	191.0			PLAQUETTE DESHUNTE SANSBOSSAGE		4000000	NIDEC			H	5574.0						3.68	AVO El Fahs	Thermoplastic Injection			TP								Production end								A60100905			
+TP-2004-04-150-146					2004	4	146.0			PLATINE 11TA NON DESHUNTEE		0	NIDEC				5574.0							AVO El Fahs	Thermoplastic Injection			TP								Production end								A60100933			
+TP-2004-04-150-341					2004	4	341.0			PLATINE 11TA NON DESHUNTEE V0		0	NIDEC				5574.0							AVO El Fahs	Thermoplastic Injection			TP																A993488T			
+TP-2003-04-150-145					2003	4	145.0			PLATINE DESHUNTEE AVEC BOSSAGE		0	NIDEC			H	5574.0							AVO El Fahs	Thermoplastic Injection			TP								Production end								A861538L			
+TP-2002-XX-XX-144					2002	XX	144.0			PLATINE DESHUNTEE AVEC BOSSAGE		0	NIDEC											AVO El Fahs	Thermoplastic Injection			TP								Production end								A861554S			
+TP-2003-XX-XX-143					2003	XX	143.0			PLATINE DESHUNTEE AVEC BOSSAGE		0	NIDEC											AVO El Fahs	Thermoplastic Injection			TP								Production end								A861699Z			
+TP-2013-04-50-520					2013	4	520.0			Connecteur CMF1 X52 - H79		7000000	NIDEC			H	5400.0						3.68	AVO El Fahs	Thermoplastic Injection			TP								In use								AA12106527I, AA12106541E			
+ST-2013-01-25-623					2013	1	623.0			Inserts connecteur CMF1		21750000	NIDEC			V	54000.0						2.99	AVO El Fahs	Stamping			ST								In use								A12106529K			
+ST-2012-02-XX-485					2012	2	485.0			Insert Connecteur B8		50000000	NIDEC			V	115200.0						2.99	AVO El Fahs	Stamping			ST								In use								AA13116616G			
+TP-2007-02-50-409					2007	2	409.0			PASSE FIL INFERIEUR		553788	NIDEC			H	3757.0						3.22	AVO El Fahs	Thermoplastic Injection			TP								In use								AA07116027I			
+TP-2007-02-50-410					2007	2	410.0			PASSE FIL SUPERIEUR		567630	NIDEC				2979.0						3.22	AVO El Fahs	Thermoplastic Injection			TP								In use								AA07116028J			
+TP-2007-01-80-411					2007	1	411.0			PLATINE 11TA T8		10798	NIDEC			H	1309.0						3.68	AVO El Fahs	Thermoplastic Injection			TP								Production end								AA08116059N			
+TP-2009-04-150-286					2009	4	286.0	80277.22222	EURO	PLATINE 11TA		8000000	NIDEC			H	11148.0						3.68	AVO El Fahs	Thermoplastic Injection			TP								In use								AA08116089P			
+TP-2009-04-150-287					2009	4	287.0			PLATINE 11TA		12400000	NIDEC	cold runner		H	5574.0						3.68	AVO El Fahs	Thermoplastic Injection			TP								In use								AA08106090I			
+TP-2011-04-150-457					2011	4	457.0	21200	EURO	PLATINE 11TA		16400000	NIDEC	cold runner		H	5574.0						3.68	AVO El Fahs	Thermoplastic Injection			TP								In use								AA08116093L			
+TP-2011-02-150-457					2011	2	457.0			PLATINE DT20 / T8X		2000000	NIDEC	Cold runner		H	2787.0						3.68	AVO El Fahs	Thermoplastic Injection			TP								In use								AA08116140J			
+TP-2011-02-150-648					2011	2	648.0			PLATINE 11TA MERIVA		2000000	NIDEC	Cold runner		H	2787.0						3.68	AVO El Fahs	Thermoplastic Injection			TP								In use								AA09116228J			
+TP-2006-05-150-642					2006	5	642.0			Carcasse pour en (089P / 090I / 093L / 140J / 228J) / 656K / 625G / 592K		15200000	NIDEC			H	5760.0						2.3	AVO El Fahs	Thermoplastic Injection			TP								In use								Carcasse pour en (089P / 090I / 093L / 140J / 228J) / 656K / 625G / 592K			
+TP-2006-05-150-649					2006	5	649.0			Carcasse pour en 089P / 090I / 093L / 140J / 228J (/ 656K / 625G / 592K)		19570192	NIDEC			H	5760.0						2.3	AVO El Fahs	Thermoplastic Injection			TP								In use								Carcasse pour en 089P / 090I / 093L / 140J / 228J (/ 656K / 625G / 592K)			
+TP-2007-02-50-412					2007	2	412.0			PASSE FIL SUPERIEUR DT20 / T8X		2000000	NIDEC			H	2979.0						3.45	AVO El Fahs	Thermoplastic Injection			TP																AA08116141E			
+TP-2013-04-150-521					2013	4	521.0	47600	EURO	Overmolded plate 11 TA - DENSO		12000000	NIDEC	cold runner		H	5574.0						3.68	AVO El Fahs	Thermoplastic Injection			TP								In use								AA13116656K, AA13116625G, AA16116812I			
+TP-2014-04-150-577					2014	4	577.0	71800	EURO	Overmolded plate 11 TA - 3 Speed		16000000	NIDEC	cold runner		H	5574.0						3.68	AVO El Fahs	Thermoplastic Injection			TP								In use								AA13116592K			
+TP-2007-02-50-413					2007	2	413.0			PASSE FIL INFERIEUR DT20 / T8X		2000000	NIDEC			H	3757.0						3.45	AVO El Fahs	Thermoplastic Injection			TP																AA08116142F			
+TP-1999-04-50-251					1999	4	251.0			PASSE FIL 10T		3107728	NIDEC			H	5760.0						2.99	AVO El Fahs	Thermoplastic Injection			TP								Production end								AZX561P0101			
+TP-2012-04-50-486					2012	4	486.0	41250	EURO	Connecteur B8		4000000	NIDEC			H	5760.0						3.68	AVO El Fahs	Thermoplastic Injection			TP								In use								AA13116619J			
+TP-2003-XX-XX-142					2003	XX	142.0			NOUVEAU CONNECTEUR 11TA		1000000	NIDEC												Thermoplastic Injection			TP								Production end											
+ST-2003-XX-XX-141					2003	XX	141.0			Contact plate Sunroof		10000000	NIDEC			V								AVO El Fahs	Stamping			ST								Production end											
+TP-2006-XX-XX-374					2006	XX	374.0			PLATINE SUNROOF		1000000	NIDEC											AVO El Fahs	Thermoplastic Injection			TP								Production end											
+ST-2007-XX-XX-375					2007	XX	375.0			Porte balai NEM 1		10000000	INTEVA			V								AVO El Fahs	Stamping			ST								In use											
+ST-2007-XX-XX-376					2007	XX	376.0			Lame ressort NEM 1		10000000	INTEVA			V								AVO El Fahs	Stamping			ST								Mold scraped											
+ST-2007-02-XX-377					2007	2	377.0			Patte de masse NEM 1		20000000	INTEVA			V								AVO El Fahs	Stamping			ST								Mold scraped											
+TP-2007-04-80-289					2007	4	289.0			Connecteur PFA		4000000	NIDEC			V	4800.0							AVO El Fahs	Thermoplastic Injection			TP								Production end											
+ST-2007-02-50-290					2007	2	290.0			Inserts PFA		20000000	NIDEC			V	201600.0							AVO El Fahs	Stamping			ST								Production end											
+ST-2008-02-XX-291					2008	2	291.0			LANGUETTE DENSO DUCON 6.3		20000000	NIDEC			V	52048.0						2.76	AVO El Fahs	Stamping			ST								In use								AA08106132E			
+ST-2005-01-XX-342					2005	1	342.0			CAGE BALAI LAITON		0	HOFFMANN			V	62609.0							AVO El Fahs	Stamping			ST								Production end								A60100007			
+ST-2008-03-25-340					2008	3	340.0			PT JOHNSON		0	AVO Germany			V	9000.0							AVO El Fahs	Stamping			ST								In use								A60100028			
+ST-2005-XX-25-343					2005	XX	343.0			Pièce terminale		0	BOSCH			V								AVO El Fahs	Stamping			ST								Production end								A60100257			
+ST-2011-02-40-487					2011	2	487.0			COSSE		0	AVO Germany			V	32481.0							AVO El Fahs	Stamping			ST								In use								A60100368			
+ST-2010-01-25-292					2010	1	292.0			COSSE		0	BOSCH			V	32481.0							AVO El Fahs	Stamping			ST								In use								A60100414			
+ST-2004-01-40-431					2004	1	431.0			LANGUETTE CONNECTEUR FAURECIA		500000	FAURECIA			V	38919.0						2.99	AVO El Fahs	Stamping			ST								In use								A60100458			
+ST-2004-01-40-293					2004	1	293.0			LANGUETTE CONNECTEUR FAURECIA		500000	FAURECIA			V	38919.0						2.99	AVO El Fahs	Stamping			ST								In use								A60100459			
+ST-2010-02-40-458					2010	2	458.0			COSSE		0	BOSCH			V	32481.0							AVO El Fahs	Stamping			ST								In use								A60100548			
+ST-2008-01-63-294					2008	1	294.0			CAGE BALAI DROITE		0	FAURECIA			V	62609.0							AVO El Fahs	Stamping			ST								In use								A60100755			
+ST-2008-01-63-414					2008	1	414.0			CAGE BALAI GAUCHE		0	FAURECIA			V	62609.0							AVO El Fahs	Stamping			ST								In use								A60100760			
+ST-2010-02-25-295					2010	2	295.0			COSSE		4000000	ISKRA			V	77838.0						2.76	AVO Poitiers	Stamping			ST								In use								A60100858, A-TE-0015			
+ST-2010-01-25-432					2010	1	432.0			COSSE		2000000	AVO Tianjin			V	38919.0						2.76	AVO Poitiers	Stamping			ST								In use								A60100861, A-TE-0017			
+ST-XXXX-01-40-433					XXXX	1	433.0			LANGUETTE		0	BROSE				38919.0							AVO El Fahs	Stamping			ST								Production end								A60101035			
+ST-2008-01-80-296					2008	1	296.0			GAINE PB		0	MOOG Italia			V	62609.0							AVO El Fahs	Stamping			ST								In use								A60101090			
+ST-XXXX-XX-XX-152					XXXX	XX	152.0			CAGE BALAI		0	BOSCH											AVO El Fahs	Stamping			ST								Production end								A60101720			
+ST-2009-01-XX-434					2009	1	434.0			GAINE PORTE BALAI		10000000	SINTECH			V	62609.0						3.22	AVO El Fahs	Stamping			ST								In use								A192827			
+ST-2008-01-80-415					2008	1	415.0			GAINE		0	AVO Germany			V	59178.0							AVO El Fahs	Stamping			ST								In use								A601002628			
+ST-2011-01-100-488					2011	1	488.0			GUIDE LAITON		0	R&S manufacturing			V	62609.0							AVO El Fahs	Stamping			ST								In use								A60100494			
+ST-2008-01-80-297					2008	1	297.0			GUIDE BALAI SANS FREIN		0	SINTECH			V	62609.0							AVO El Fahs	Stamping			ST								In use								A60100736			
+ST-2008-01-80-298					2008	1	298.0			GUIDE BALAI		1000000	AVO Germany			V	62609.0						3.22	AVO El Fahs	Stamping			ST								In use								A60100737			
+ST-2008-01-80-416					2008	1	416.0			CONNEXION		0	ISKRA			V	32481.0							AVO El Fahs	Stamping			ST								In use								A60101158			
+ST-2008-01-40-417					2008	1	417.0			COSSE		1000000	VALEO			V	32481.0						2.76	AVO El Fahs	Stamping			ST								In use								A60101724			
+ST-2008-02-63-299					2008	2	299.0			TERMINAL DENSO FCI		20000000	NIDEC			V	52048.0						2.76	AVO El Fahs	Stamping			ST								In use								AA08106139L			
+ST-2009-02-63-300					2009	2	300.0			LANGUETTE DUCON 6.3 DOUBLON		20000000	NIDEC			V	52048.0						2.99	AVO El Fahs	Stamping			ST								In use								AA09106217H			
+TP-2010-16-100-453					2010	16	453.0			SLEEVE		16000000	TI				43200.0						3.45	AVO Monterrey	Thermoplastic Injection			TP								In use								16-0022			
+ST-XXXX-XX-XX-301					XXXX	XX	301.0					0	AVO Mx											AVO Monterrey	Stamping			ST								Production end								53-0696			
+ST-XXXX-XX-XX-302					XXXX	XX	302.0					0	No tool owner											AVO Chennai	Stamping			ST								In use								40301033			
+ST-2008-02-63-418					2008	2	418.0			LXB LEADFRAME		30000000	COMSTAR			V	72000.0							AVO Monterrey	Stamping			ST								In use								50-0422			
+ST-2007-01-80-378					2007	1	378.0			95037-3 BRUSHBOX HSPEED TRICO		3000000	TRICO			V	43200.0						3.45	AVO Monterrey	Stamping			ST								In use								50-0613			
+ST-2013-01-80-522					2013	1	522.0			95037-2 BRUSHBOX LS TRICO		3000000	TRICO			V	43200.0						3.45	AVO Monterrey	Stamping			ST								In use								50-0614			
+ST-2010-01-60-459					2010	1	459.0			DREMEL VELOCITY BRUSH BOX		5000000	Bosch (Dremel)			V	43200.0						3.45	AVO Monterrey	Stamping			ST								In use								50-0637			
+ST-2011-01-60-489					2011	1	489.0			BRUSH HOLDER BOX BUCKSHOT		3000000	No tool owner			V	28800.0						4.14	AVO Monterrey	Stamping			ST								In use								50-0647			
+ST-2012-01-40-490					2012	1	490.0			Short wisker terminal		20000000	VALEO			V	18000.0						2.76	AVO Monterrey	Stamping			ST								In use								53-0592, 53-0738			
+ST-2009-01-XX-435					2009	1	435.0			DY HB5 contact		0	DY			V	43200.0							AVO Kunshan	Stamping			ST																D10120011			
+ST-2009-01-XX-436					2009	1	436.0			DY HB5 contact terminal		15000000	DY			V	43200.0						3.45	AVO Kunshan	Stamping			ST								In use								D10120010			
+ST-2009-02-XX-437					2009	2	437.0			DY HB5 Terminal brush		20000000	DY			V	57600.0						2.99	AVO Kunshan	Stamping			ST								In use								D10120001, D10120009			
+ST-2009-01-XX-438					2009	1	438.0			DY terminal (A) SN3		5000000	DY			V	43200.0						3.22	AVO Kunshan	Stamping			ST								In use								D20110003			
+ST-2009-01-XX-439					2009	1	439.0			DY terminal (B)		5000000	DY			V	43200.0						2.99	AVO Kunshan	Stamping			ST								In use								D20110001, 117039910, 117039203			
+ST-2008-01-XX-303					2008	1	303.0			MNG2 Brush box		5000000	VALEO			V	43200.0						4.14	AVO Kunshan	Stamping			ST								Mold scraped								V20220006			
+ST-2013-01-XX-304					2013	1	304.0			Lada track		1000000	VALEO			V	21600.0						3.45	AVO Kunshan	Stamping			ST								In use								A53221007			
+ST-2012-01-XX-523					2012	1	523.0			Nidec Magneti Marelli Brush holder		5000000	NIDEC			V	28800.0						3.22	AVO Kunshan	Stamping			ST								In use								N11120001			
+ST-2012-01-60-491					2012	1	491.0			BRUSH HOLDER PLATE BUCKSHOT		3000000	No tool owner			V	28800.0						3.22	AVO Monterrey	Stamping			ST								In use								50-0648			
+ST-1999-01-80-305					1999	1	305.0			LS BRUSH TRICO 33-0151		3000000	TRICO				43200.0						3.22	AVO Monterrey	Stamping			ST								In use								50-0665			
+ST-1999-01-80-306					1999	1	306.0			HS BRUSH TRICO 33-0151		3000000	TRICO				43200.0						3.22	AVO Monterrey	Stamping			ST								In use								50-0666			
+ST-2011-01-60-492					2011	1	492.0			TERMINAL TRICO		3000000	TRICO			V	28800.0						3.45	AVO Monterrey	Stamping			ST								In use								53-0707			
+ST-2011-01-60-493					2011	1	493.0					0	No tool owner			V								AVO Monterrey	Stamping			ST								In use								50-0713			
+ST-2011-01-40-460					2011	1	460.0			DREMEL TERMINAL		5000000	BOSCH			V	43200.0						2.99	AVO Monterrey	Stamping			ST								Mold scraped								53-0714			
+ST-2011-01-60-494					2011	1	494.0			CONTACT		2000000	BOSCH			V	28800.0						3.22	AVO Monterrey	Stamping			ST								In use								53-2000			
+ST-2011-01-60-495					2011	1	495.0			TERMINAL		2000000	BOSCH			V	28800.0						3.45	AVO Monterrey	Stamping			ST								In use								53-2001			
+ST-2011-01-60-496					2011	1	496.0			TERMINAL		2000000	BOSCH			V	28800.0						3.45	AVO Monterrey	Stamping			ST								In use								53-2002			
+ST-2008-02-63-307					2008	2	307.0			TERMINAL LEFT 11TA MERIVA		10000000	NIDEC			V	26024.0						2.76	AVO El Fahs	Stamping			ST								In use								AA09116166L, AA09116167M			
+TP-2006-04-60-344					2006	4	344.0			CONNECTEUR 11TA P32L (overmolded)		5500000	NIDEC			V	5760.0						3.68	AVO El Fahs	Thermoplastic Injection			TP								In use								A989788F			
+ST-2006-04-XX-345					2006	4	345.0			Terminal 11TA P32L		6000000	NIDEC			V							3.22	AVO El Fahs	Stamping			ST								In use								A989787B			
+TP-2009-04-75-440					2009	4	440.0	12000	EURO	CONNECTEUR DUCATO (Bk)		4000000	NIDEC				6912.0						2.99	AVO El Fahs	Thermoplastic Injection			TP								In use								A60100139			
+TP-2004-02-35-207					2004	2	207.0			CONNECTEUR Nidec + Valeo		2000000	NIDEC				3456.0							AVO El Fahs	Thermoplastic Injection			TP																A856526F			
+ST-2009-01-XX-441					2009	1	441.0			Terminal DUCATO Nidec + Valeo		10000000	NIDEC			V							2.76	AVO El Fahs	Stamping			ST								Production end								A856514Z			
+TP-2002-08-75-186					2002	8	186.0			BASE PLATE		0	HILTI	Cold runner		H	16457.0							AVO El Fahs	Thermoplastic Injection			TP								Mold scraped								A60100316			
+TP-2002-04-100-192					2002	4	192.0			Plastic part		0	HILTI			H	16457.0							AVO El Fahs	Thermoplastic Injection			TP								Mold scraped								A60100331			
+ST-2002-01-20-193					2002	1	193.0			Guide PB- Burstenhalter 027		10000000	BOSCH			V							3.22	AVO El Fahs	Stamping			ST								In use								A60100047, A60100059			
+ST-20032-01-20-194					2003	1	194.0			BRUSH HOLDER		0												AVO Monterrey	Stamping			ST																			
+ST-2008-01-50-308					2008	1	308.0			TERMINAL 800W		5000000	NEXTEER			V							2.99	AVO El Fahs	Stamping			ST								Production end								A60101098			
+ST-2008-01-50-309					2008	1	309.0			TERMINAL 800W MODIFIE		0	NEXTEER			V							2.99	AVO El Fahs	Stamping			ST								Production end								A60101219			
+ST-2008-01-XX-196					2008	1	196.0			FLAT SPRING		2500000	HILTI			V							2.99	AVO El Fahs	Stamping			ST								Production end								A60100193			
+ST-2008-01-100-419					2008	1	419.0			Spring loaded contact left		2500000	HILTI			V	43200.0						2.99	AVO El Fahs	Stamping			ST								Mold scraped								A60100317			
+ST-2008-01-100-420					2008	1	420.0			Spring loaded contact right		2500000	HILTI			V							2.99	AVO El Fahs	Stamping			ST								Mold scraped								A60100318			
+ST-2008-01-100-421					2008	1	421.0			Plug switch right		2500000	HILTI			V							2.99	AVO El Fahs	Stamping			ST								Mold scraped								A60100319			
+ST-2008-01-100-422					2008	1	422.0			Plug switch left		2500000	HILTI			V							2.99	AVO El Fahs	Stamping			ST								Mold scraped								A60100320			
+ST-2009-01-60-310					2009	1	310.0			TRACK LONG CB TI FRST PLASTQUE		50000000	VALEO			V	432000.0						3.68	AVO Monterrey	Stamping			ST								In use								50-0541, 50-0542			
+ST-2008-01-30-423					2008	1	423.0			Contact bar		2500000	HILTI			V							2.99	AVO El Fahs	Stamping			ST								Mold scraped								A60100321			
+ST-2001-01-50-182					2001	1	182.0			LANGUETTE MNG3		13300000	AVO				43200.0						2.76	AVO El Fahs	Stamping			ST								In use								A53220957, A60100083, A60101619			
+ST-2001-01-50-153					2001	1	153.0			Blade terminal		0	No tool owner											AVO El Fahs	Stamping			ST								In use								A60110769			
+ST-2003-01-30-197					2003	1	197.0			Pontet		500000	No tool owner			V	21600.0							AVO El Fahs	Stamping			ST								In use											
+ST-1993-01-35-161					1993	1	161.0					0	No tool owner			V	43200.0							AVO Monterrey	Stamping			ST								In use											
+ST-1993-01-35-162					1993	1	162.0					0	No tool owner			V	43200.0							AVO Monterrey	Stamping			ST								In use											
+ST-2002-01-XXX-198					2002	1	198.0			CAGE BALAI DROITE		10000000	HILTI			V	43200.0						3.22	AVO El Fahs	Stamping			ST								In use								A60100437			
+ST-2002-01-XXX-199					2002	1	199.0			CAGE BALAI GAUCHE		10000000	HILTI			V	43200.0						3.22	AVO El Fahs	Stamping			ST								In use								A60100438			
+ST-2011-01-20-497					2011	1	497.0			Guide balai		3000000	HILTI			V	72000.0						3.45	AVO El Fahs	Stamping			ST								In use								A60100332			
+ST-2011-01-50-498					2011	1	498.0			Piste circulaire		3000000	HILTI			V	72000.0						3.45	AVO El Fahs	Stamping			ST								In use								A60100333			
+ST-2011-01-50-499					2011	1	499.0			Piste droite		3000000	HILTI			V	72000.0						3.45	AVO El Fahs	Stamping			ST								In use								A60100334			
+ST-2009-02-20-442					2009	2	442.0			INSERT NGM DROIT PLAN 422086		0	INTEVA			V	144000.0						3.45	AVO El Fahs	Stamping			ST								In use								A60100885			
+ST-2009-02-25-443					2009	2	443.0			INSERT NGM GAUCHE PLAN 422087		0	INTEVA			V	144000.0						3.45	AVO El Fahs	Stamping			ST								In use								A60100886			
+ST-2009-02-20-444					2009	2	444.0			INSERT NGM PLAN 422088		0	INTEVA			V	144000.0						3.45	AVO El Fahs	Stamping			ST								In use								A60100887			
+ST-2011-02-20-500					2011	2	500.0	15850	EURO	SUPPORT LAME GAUCHE NEM2		520000000	INTEVA			V	216000.0						3.45	AVO El Fahs	Stamping			ST								In use								A60110811, A60110812			
+ST-2002-01-20-311					2002	1	311.0			Contact RSB splice 7791 LE		50000000	VM Industries			V	216000.0						3.45	AVO El Fahs	Stamping			ST								In use								A60100838			
+ST-2010-01-50-461					2010	1	461.0			Languette connecteur DUCATO		60000000	NIDEC			V	72000.0						2.76	AVO El Fahs	Stamping			ST								In use								A856514Z, A996751A, A60101160, A60101151			
+TP-2007-04-75-424					2007	4	424.0			"Connecteur B2E Metripack
+Connecteur 10C20 B2E"		4000000	NIDEC				6912.0						3.68	AVO El Fahs	Thermoplastic Injection			TP								Mold scraped								A60101415			
+TP-2008-04-100-210					2008	4	210.0	37850	EURO	CONNECTEUR W95		4000000	NIDEC				6400.0						3.68	AVO El Fahs	Thermoplastic Injection			TP								In use								AA08106063I, AA07106030C			
+ST-2007-01-XX-425					2007	1	425.0			Terminal W95 / B2E Metripack		12000000	NIDEC			V							2.99	AVO El Fahs	Stamping			ST								In use								A996751A			
+TP-2007-04-95-426					2007	4	426.0			CONNECTEUR MAZDA B2E 10C40 & 10C45		4000000	NIDEC	Cold sprue		H	3456.0						3.68	AVO El Fahs	Thermoplastic Injection			TP								Mold scraped								AA07106025G, AA08106056K			
+ST-2007-01-25-427					2007	1	427.0			Terminal MAZDA B2E 10C40 & 10C45		12000000	NIDEC			V							2.99	AVO El Fahs	Stamping			ST								In use								AA07106026H, AA07106025K			
+TP-2003-04-50-140					2003	4	140.0			PASSE FIL0 43 10T		0	NIDEC				11520.0							AVO El Fahs	Thermoplastic Injection			TP																A57840487			
+TP-2003-04-75-117					2003	4	117.0	3500	EURO	CONNECTEUR 11TA EPSILON		4000000	NIDEC				3840.0						3.68	AVO El Fahs	Thermoplastic Injection			TP								In use								A60100477, A60100482			
+TP-2003-01-75-139					2003	1	139.0			CONNECTEUR 10T		0	NIDEC				960.0						3.68	AVO El Fahs	Thermoplastic Injection			TP																A60100815			
+TP-2006-02-50-379					2006	2	379.0			RETAINER 10T		0	NIDEC				3927.0							AVO El Fahs	Thermoplastic Injection			TP								Mold scraped								A60110300			
+TP-2003-01-50-138					2003	1	138.0			PASSE FIL 10T		0	NIDEC				2400.0							AVO El Fahs	Thermoplastic Injection			TP																A861630L			
+TP-2003-XX-XX-119					2003	XX	119.0			PASSE FIL 10T		0	NIDEC											AVO El Fahs	Thermoplastic Injection			TP																A57840527			
+TP-2007-04-80-428					2007	4	428.0			CABLE HEADER		3000000	NEXTEER				6646.0						3.22	AVO El Fahs	Thermoplastic Injection			TP								Production end								A60101096			
+TP-2007-04-35-429					2007	4	429.0			TERMINAL LOCKER / RETAINER		6000000	NEXTEER				24686.0						2.76	AVO El Fahs	Thermoplastic Injection			TP								Production end								A60101097			
+TP-2008-02-50-244					2008	2	244.0			Connecteur 2 pôles FAURECIA		98648	FAURECIA				2160.0						3.68	AVO El Fahs	Thermoplastic Injection			TP								In use								A60110100			
+TP-2011-08-160-501					2011	8	501.0			SUPPORT PLASTIQUE NEM2		8000000	INTEVA				14400.0							AVO El Fahs	Thermoplastic Injection			TP								Production end											
+TP-2009-04-50-245					2009	4	245.0			Connecteur 2372 10C DUCON 63		4000000	NIDEC				8229.0						3.45	AVO El Fahs	Thermoplastic Injection			TP								In use								AA08106131D			
+TP-2009-04-50-246					2009	4	246.0			Connecteur 2238 DENSO 10CFCI		4000000	NIDEC				4320.0						3.45	AVO El Fahs	Thermoplastic Injection			TP								In use								AA08106138K			
+TP-2009-04-50-247					2009	4	247.0			Connecteur S2408		4000000	NIDEC				8229.0						3.68	AVO El Fahs	Thermoplastic Injection			TP								In use								AA09116165K			
+TP-2012-01-60-381					2012	1	381.0			SUPPORT PLASTIQUE NEM2		20000	INTEVA			H	2057.0						4.83	AVO El Fahs	Thermoplastic Injection			TP								Production end								A60110810			
+TP-2008-04-50-248					2008	4	248.0			Connecteur P2378		4000000	NIDEC				8229.0						3.68	AVO El Fahs	Thermoplastic Injection			TP								In use								AA09106157L			
+TP-2008-04-50-249					2008	4	249.0			Connecteur X70		4000000	NIDEC				8229.0						3.68	AVO El Fahs	Thermoplastic Injection			TP								In use								A993432R			
+TP-2008-04-50-502					2008	4	502.0			Connecteur B8		4800000	NIDEC				5760.0						3.68	AVO El Fahs	Thermoplastic Injection			TP								Production end								A993428X			
+ST-2012-01-80-313					2012	1	313.0			Carcasse pour 101A, 506F, 6001A,365K		27500000	NIDEC			V	54000.0						2.53	AVO El Fahs	Stamping			ST								In use								Carcasse pour 101A, 506F, 6001A,365K			
+ST-2012-01-80-312					2012	1	312.0			Carcasse pour 493G, 450E,745P,414E		17100000	NIDEC			V	54000.0						2.53	AVO El Fahs	Stamping			ST								In use								Carcasse pour (450E,745P), (414E, 493G)			
+ST-2012-01-80-628					2012	1	628.0			Carcasse pour 591J, 623E		12000000	NIDEC			V	54000.0						2.53	AVO El Fahs	Stamping			ST								In use								Carcasse pour 591J, 623E			
+ST-2012-04-80-631					2012	4	631.0			Module 745P / 450E		12000000	NIDEC			V	54000.0						2.99	AVO El Fahs	Stamping			ST								In use								"996745P
+A11106450E"			
+ST-2012-04-80-632					2012	4	632.0			Module 414E / 493G 		12000000	NIDEC			V	54000.0						2.99	AVO El Fahs	Stamping			ST								In use								"A11106414E
+993493G "			
+ST-2012-04-80-524					2012	4	524.0			Module 749E		12000000	VALEO			V	54000.0						2.99	AVO El Fahs	Stamping			ST								In use								A996749E			
+ST-2012-04-80-633					2012	4	633.0			Module  A08106101 A (Galfan)		10000000	NIDEC			V	54000.0						2.99	AVO El Fahs	Stamping			ST								In use								A08106101 A (Galfan)			
+ST-2012-04-80-634					2012	4	634.0			Module K A12106506 F		10000000	NIDEC			V	54000.0						2.99	AVO El Fahs	Stamping			ST								In use								A12106506 F			
+ST-2012-04-80-635					2012	4	635.0	21000		Module A07106001 A		16000000	NIDEC			V	54000.0						2.99	AVO El Fahs	Stamping			ST								In use								A07106001 A			
+ST-2012-04-80-636					2012	4	636.0			Module A10106365 K		10000000	NIDEC			V	54000.0						2.99	AVO El Fahs	Stamping			ST								In use								A10106365 K			
+ST-2012-04-80-637					2012	4	637.0			Module 086N / 088O		16500000	NIDEC			V	54000.0						2.99	AVO El Fahs	Stamping			ST								Production end								A08116086N, A08116088O			
+ST-2012-04-80-638					2012	4	638.0			Module 3B		10000000	NIDEC			V	54000.0						2.99	AVO El Fahs	Stamping			ST								In use								"A09116227I
+A08116058M"			
+ST-2012-01-80-629					2012	1	629.0			Carcasse pour 086N,088O,227I,058M		18200000	NIDEC			V	54000.0						2.53	AVO El Fahs	Stamping			ST								Production end								Carcasse pour 086N,088O,227I,058M			
+ST-2012-01-40-525					2012	1	525.0	14800	EURO	Languette connecteur 11TA B8		40000000	NIDEC			V	108000.0						2.99	AVO El Fahs	Stamping			ST								In use								A993429T			
+ST-2013-04-80-583					2013	4	583.0			Module A13116623E		12000000	NIDEC			V	54000.0						2.99	AVO El Fahs	Stamping			ST								In use								A13116623E			
+ST-2013-04-80-584					2013	4	584.0			Module A13116591J		10000000	NIDEC			V	54000.0						2.99	AVO El Fahs	Stamping			ST								In use								A13116591J			
+ST-2012-01-80-630					2012	1	630.0			Carcasse pour 749E		12000000	NIDEC			V							2.53	AVO El Fahs	Stamping			ST								In use								Carcasse pour 749E			
+TP-2007-08-160-382					2007	8	382.0			SUPPORT PLASTIQUE NEM1		8000000	INTEVA				14400.0						4.83	AVO El Fahs	Thermoplastic Injection			TP								Mold scraped								A60100053			
+TP-2007-08-160-346					2007	8	346.0			SUPPORT PLASTIQUE NEM1		8000000	INTEVA				14400.0						4.83	AVO El Fahs	Thermoplastic Injection			TP								In use								A60100053			
+TP-2012-08-160-556					2012	8	556.0	167100	EURO	SUPPORT PLASTIQUE NEM2		16000000	INTEVA	HR on sprue		H	14400.0						4.83	AVO El Fahs	Thermoplastic Injection			TP								In use								A60110810J			
+ST-2012-01-25-557					2012	1	557.0			Short wisker terminal		2000000	VALEO			V	43200.0						2.99	AVO Monterrey	Stamping			ST																53-0593			
+TP-2006-04-50-330					2006	4	330.0			Housing comuntator		5000000	INTEVA				9600.0						3.68	AVO El Fahs	Thermoplastic Injection			TP																A60100355			
+TP-2002-08-75-120					2002	8	120.0			Boitier NGM PA 66 30%FV		8000000	INTEVA				17280.0						3.68	AVO El Fahs	Thermoplastic Injection			TP								In use								A60100901ITN			
+TP-2002-08-75-121					2002	8	121.0			Boitier NGM PBT 30%FV		6000000	INTEVA				12960.0						4.14	AVO El Fahs	Thermoplastic Injection			TP								In use								A60100884, A60100901			
+TP-2009-01-XX-209					2009	1	209.0					0												AVO El Fahs	Thermoplastic Injection			TP																A80100012			
+TP-2009-01-XX-122					2009	1	122.0					0												AVO El Fahs	Thermoplastic Injection			TP																A80100021			
+TP-2009-01-XX-123					2009	1	123.0					0												AVO El Fahs	Thermoplastic Injection			TP																A80100018			
+ST-2002-01-XXX-124					2002	1	124.0			LANGUETTE T. PLAN 80100061		10000000	INTEVA			V							2.76	AVO El Fahs	Stamping			ST								Production end								A80100061			
+ST-2002-01-XXX-125					2002	1	125.0			LANGUETTE R. PLAN 80100062		10000000	INTEVA			V							2.76	AVO El Fahs	Stamping			ST								Production end								A80100062			
+ST-2002-08-XX-126					2002	8	126.0			BOITIER NGM ANTIPARASITAGE O		10000000	INTEVA			V							3.91	AVO El Fahs	Stamping			ST								In use								A80100150, A80100160, A80100110, A80100120, A80100140, A80100130, A80100180, A80100190			
+ST-2002-01-XX-211					2002	1	211.0			CONNEXION GAUCHE PIA 422146AA		10000000	INTEVA			V							3.45	AVO El Fahs	Stamping			ST								In use								A80100024			
+ST-2006-01-XX-212					2006	1	212.0			LANGUETTE T PQ35		20000000	INTEVA			V							2.76	AVO El Fahs	Stamping			ST								In use								A80100036			
+ST-2006-01-XX-213					2006	1	213.0			LANGUETTE R PQ35		20000000	INTEVA			V							2.76	AVO El Fahs	Stamping			ST								In use								A80100038			
+TS-2009-70-250-445					2009	70	445.0	1200	EURO	Joint NEM 2		7000000	INTEVA	Cold runner			6720000.0						3.22	AVO El Fahs	Thermoset Injection			TS								In use								A60100058			
+TS-2009-80-250-446					2009	80	446.0	1200	EURO	Joint NEM 2		8000000	INTEVA	Cold runner			7680000.0						3.22	AVO El Fahs	Thermoset Injection			TS								In use								A60100058			
+TS-2009-70-250-447					2009	70	447.0			Joint NGM2PQ35 Nytrile		8000000	INTEVA	Cold runner			6520755.0						3.22	AVO El Fahs	Thermoset Injection			TS								In use								A60100922			
+TS-2009-70-250-448					2009	70	448.0			Joint NGM2PQ35 Nytrile		9000000	INTEVA	Cold runner			7335849.0						3.22	AVO El Fahs	Thermoset Injection			TS								In use								A60100922			
+ST-2013-02-25-558					2013	2	558.0	34500	EURO	Blade lame egyptienne gauche		80000000	INTEVA			V	144000.0						3.45	AVO El Fahs	Stamping			ST								In use								A60101580, A60101581			
+ST-2011-02-35-462					2011	2	462.0			LAME NEM2		80000000	INTEVA			V	288000.0							AVO El Fahs	Stamping			ST								Production end											
+ST-2012-02-35-526					2012	2	526.0			Lame ressort NEM		20000000	INTEVA			V	144000.0						3.22	AVO El Fahs	Stamping			ST								In use								A60100055			
+ST-2013-02-20-527					2013	2	527.0	11800	EURO	Patte de masse		100000000	INTEVA			V	144000.0						2.76	AVO El Fahs	Stamping			ST								In use								A60100056			
+ST-2009-02-35-449					2009	2	449.0			Lame ressort PQ35		20000000	INTEVA			V							2.76	AVO El Fahs	Stamping			ST								In use								A60100357			
+ST-2009-01-35-450					2009	1	450.0					12000000	INTEVA			V							2.99	AVO El Fahs	Stamping			ST								In use								"A60100356
+A60100358"			
+ST-2008-03-63-430					2008	3	430.0			Plaquette Bakelite PRB4		9000000	VALEO			V	129600.0						2.99	AVO El Fahs	Stamping			ST								In use								A53290567			
+ST-2005-02-60-331					2005	2	331.0			Guide charbon PR4		52800000	VALEO			V	100465.0						2.76	AVO El Fahs	Stamping			ST								Mold scraped											
+ST-1995-01-XX-163					1995	1	163.0			SUPPORT CONNECTEUR		0	VALEO											AVO El Fahs	Stamping			ST								Production end								A53102657			
+ST-1995-01-XX-164					1995	1	164.0			BOITIER BLINDE PLAN 53103067		0	VALEO											AVO El Fahs	Stamping			ST								Production end								A53103067			
+ST-1995-01-XX-165					1995	1	165.0			PLATINE CONDUCTRICE		0	VALEO											AVO El Fahs	Stamping			ST								Production end								A53220287			
+ST-1995-01-XX-166					1995	1	166.0			PLATINE CONDUCTRICE MOY.		0	VALEO											AVO El Fahs	Stamping			ST								Production end								A53220417			
+ST-1995-01-XX-167					1995	1	167.0			PLAQUETTE PC EQUIP GUIDE 4MR		0	VALEO											AVO El Fahs	Stamping			ST								Production end								A53290359			
+ST-1995-01-XX-168					1995	1	168.0			PLAQUETTE EQUIP.PLAN 53341836		0	VALEO											AVO El Fahs	Stamping			ST								Production end								A53341836			
+ST-1995-01-XX-169					1995	1	169.0			SUPPORT A BORNE 4 MR		0	VALEO											AVO El Fahs	Stamping			ST								Production end								A53350396			
+ST-1995-01-XX-170					1995	1	170.0			SUPPORT A BORNE BLANC		0	VALEO											AVO El Fahs	Stamping			ST								Production end								A53350496			
+ST-1995-01-XX-171					1995	1	171.0			SUPPORT A BORNES NOIR		0	VALEO			V								AVO El Fahs	Stamping			ST								Production end								A53350526			
+ST-1995-01-XX-172					1995	1	172.0			SUPPORT A BORNES NATUREL		0	VALEO			V								AVO El Fahs	Stamping			ST								Production end								A53350656			
+ST-1995-04-60-173					1995	4	173.0			SUPPORT A BORNE PR/GR 24V NOIR		80000000	VALEO			V	288000.0						2.99	AVO El Fahs	Stamping			ST								Mold scraped											
+ST-2003-01-120-174					2003	1	174.0			CAGE BALAIS PLATINE ABS		0	VALEO			V	43200.0							AVO El Fahs	Stamping			ST								Production end											
+ST-2003-01-XX-175					2003	1	175.0			PLAQUETTE EQ.T3000 PL.60100089		0	VALEO			V								AVO El Fahs	Stamping			ST								Mold scraped								A60100904			
+ST-2008-04-60-224					2008	4	224.0			Connector 11TA - P32L		8000000	NIDEC			V	11520.0						2.76	AVO El Fahs	Stamping			ST								In use								A989788F			
+ST-2008-01-40-215					2008	1	215.0			Insert Connector 11TA - P32L		15000000	NIDEC			V	61714.0						2.76	AVO El Fahs	Stamping			ST								In use								A989787B			
+ST-2009-01-XX-451					2009	1	451.0			Languette G connecteur faurecia		12000000	FAURECIA			V							2.76	AVO El Fahs	Stamping			ST								In use								A60101012, A60101013			
+ST-1995-01-40-176					1995	1	176.0			PISTE 2 FIRST PLASTIQUE SICCOM		1000000	VALEO			V							3.45	AVO El Fahs	Stamping			ST								Production end								A53221607    			
+TP-2002-04-XX-216					2002	4	216.0			Support à Borne		0	VALEO											AVO El Fahs	Thermoplastic Injection			TP								In use								A53350756			
+ST-2002-01-XX-217					2002	1	217.0			Shunt de masse 53370356		5000000	VALEO			V							2.76	AVO El Fahs	Stamping			ST								In use								A53370356			
+ST-2002-01-XX-218					2002	1	218.0			Shunt de masse PTH RDI		10000000	VALEO			V							2.76	AVO El Fahs	Stamping			ST								In use								A60100400			
+ST-2008-01-60-137					2008	1	137.0			Piste MNG2 2L/2C		4000000	VALEO			V	25412.0							AVO Kunshan	Stamping			ST								In use								A53220997			
+ST-2002-02-XX-219					2002	2	219.0			Piste MNG2 2L/2C		20000000	VALEO			V							3.45	AVO El Fahs	Stamping			ST								Mold scraped								A53220997			
+ST-2013-02-50-528					2013	2	528.0	35000	EURO	Piste MNG2 2L/2C		40000000	VALEO			V	144000.0						3.91	AVO El Fahs	Stamping			ST								In use								A53220997			
+ST-2000-03-63-179					2000	3	179.0			Plaquette Bakelite MNG2 2L/2C		30000000	VALEO				129600.0						2.99	AVO El Fahs	Stamping			ST								Mold scraped								A53290597			
+TP-2003-01-60-220					2003	1	220.0			PLAQUE PORTE BALAI		0												AVO El Fahs	Thermoplastic Injection			TP																A60101006      			
+ST-2011-03-63-503					2011	3	503.0			Plaquette Bakelite MNG2 Evolution 2L/2C		27000000	VALEO			V	129600.0						2.99	AVO El Fahs	Stamping			ST								In use								A60110801, A53290597			
+ST-2000-03-63-180					2000	3	180.0			Plaquette Bakelite MNG2 3L/3C		30000000	VALEO				129600.0						2.99	AVO El Fahs	Stamping			ST								In use								A53290607			
+ST-2002-02-25-221					2002	2	221.0	38000	EURO	Guide Charbon MNG2 / MNG3 		100000000	VALEO			V	72000.0						3.22	AVO El Fahs	Stamping			ST								In use								A60110800			
+ST-2012-02-80-504					2012	2	504.0			Guide Charbon MNG2 Evolution 		2000000000	VALEO			V	237600.0							AVO El Fahs	Stamping			ST								In use								A60110800			
+TP-2003-16-35-222					2003	16	222.0			Connecteur traversant 3 voies		32000000	VALEO				53169.0						2.99	AVO El Fahs	Thermoplastic Injection			TP								Mold scraped								A53841977			
+TP-2003-08-50-223					2003	8	223.0			Retainer de balais MNG2 / MNG3 		8000000	VALEO				19200.0							AVO El Fahs	Thermoplastic Injection			TP								Mold scraped											
+TP-2013-16-110-529					2013	16	529.0	12500	EURO	Retainer de balais MNG2 / MNG3 		38881792	VALEO	HR on mini sprue		H	38400.0						2.99	AVO El Fahs	Thermoplastic Injection			TP								In use								A53842867			
+ST-1999-02-100-214					1999	2	214.0			Piste MNG2 3L/3C		20000000	VALEO			V	72000.0						4.14	AVO El Fahs	Stamping			ST								In use								A53221007			
+ST-2001-03-63-183					2001	3	183.0			Plaquette Bakelite MNG3		30000000	VALEO				129600.0						2.99	AVO El Fahs	Stamping			ST								In use								A53290737			
+ST-2003-02-80-225					2003	2	225.0			PISTE PPC MNG3 STANDARD		48000000	VALEO			V	288000.0						4.14	AVO El Fahs	Stamping			ST								In use											
+TP-2002-08-35-226					2002	8	226.0			Support à Borne MNG3		8000000	VALEO	Cold runner		H	23040.0						3.45	AVO El Fahs	Thermoplastic Injection			TP								In use								A53842147			
+TP-2012-08-130-530					2012	8	530.0			Platine Plastique		10334984	VALEO	HR on sprue		H	20329.0						4.14	AVO El Fahs	Thermoplastic Injection			TP								In use								A53844627			
+TP-2002-08-130-227					2002	8	227.0	30000	EURO	Platine Plastique		8000000	VALEO	Cold runner		H	20329.0						4.14	AVO El Fahs	Thermoplastic Injection			TP								Mold scraped								A53844627			
+ST-2003-02-50-136					2003	2	136.0	84500	EURO	Piste Fisrt		15000000	AVO			V	61714.0						4.14	AVO El Fahs	Stamping			ST								In use								A53221597			
+TP-2006-08-130-347					2006	8	347.0			Boitier Plastique Dual (Chatellerault)		8000000	VALEO			H	20329.0						3.68	AVO El Fahs	Thermoplastic Injection			TP								In use								A60100385			
+ST-2006-01-25-348					2006	1	348.0			Contact Plate Dual		100000000	VALEO			V	120000.0						2.99	AVO El Fahs	Stamping			ST								In use								A60100386			
+ST-2006-02-25-383					2006	2	383.0			Frein Dual		200000000	VALEO			V	120000.0						3.22	AVO El Fahs	Stamping			ST								In use								A60100387			
+ST-2007-02-50-254					2007	2	254.0			Guide Balais Dual Motor		200000000	VALEO			V	72000.0						3.22	AVO El Fahs	Stamping			ST								In use								A60100388			
+ST-2007-02-50-716					2007	2	716.0			Languette		200000000	NIDEC			V	72000.0						2.76	AVO El Fahs	Stamping			ST								In use								A60110191			
+TP-2009-08-75-452					2009	8	452.0			Boitier Plastique Flex		14141000	VALEO				20329.0						3.68	AVO El Fahs	Thermoplastic Injection			TP								In use								A60101088			
+TP-2009-08-75-463					2009	8	463.0			Boitier Plastique Flex		0	VALEO				20329.0							AVO El Fahs	Thermoplastic Injection			TP								Mold scraped								A60101260			
+ST-2010-01-25-464					2010	1	464.0			PISTE FLEX - 2 versions 83/84 et 84/82/85		10000000	VALEO			V	43200.0						3.22	AVO El Fahs	Stamping			ST								In use								A60101405, A60101406			
+ST-2012-01-40-531					2012	1	531.0			PISTE FLEX - 2 versions 83/84 et 84/82/85		16000000	VALEO			V	28800.0						3.22	AVO El Fahs	Stamping			ST								In use								A60101405			
+ST-2012-01-40-532					2012	1	532.0					0	VALEO			V	28800.0							AVO El Fahs	Stamping			ST								In use								A60101406			
+ST-2011-02-35-465					2011	2	465.0			Lame Flex		20000000	VALEO			V	432000.0						2.76	AVO El Fahs	Stamping			ST								In use											
+ST-2009-03-63-253					2009	3	253.0			Plaquette Bakelite VM4		9000000	VALEO			V	129600.0						2.99	AVO El Fahs	Stamping			ST								Production end								A60101132, 53-0521, 53-0523, 53-0570, 53-0574, 53-0578, 53-0600A, 53-0634A, 53-0635A			
+TP-XXXX-08-110-825					XXXX	8	825.0			Ring		1600000	HILTI	Cold runner		H							3.45	AVO El Fahs	Thermoplastic Injection			TP								In use								A60110758			
+TP-2005-01-50-826					2005	1	826.0			Deckel		200000	HILTI			H							2.53	AVO El Fahs	Thermoplastic Injection			TP								In use								A60100251			
+TP-2012-16-100-505					2012	16	505.0			Pin		4800000	HILTI			H	28800.0						2.76	AVO El Fahs	Thermoplastic Injection			TP								In use								A60100335			
+TP-2012-16-100-					2012	16						0	HILTI			H								AVO El Fahs	Thermoplastic Injection			TP								In use								A60100183			
+TP-2011-16-110-506					2011	16	506.0			Retainer SW4/VM4		16000000	AVO			H	31418.0						3.22	AVO El Fahs	Thermoplastic Injection			TP								In use								A60100532			
+ST-2009-01-50-677					2009	1	677.0			Terminal Power Plug		20000000	VALEO			V	21600.0						3.22	AVO El Fahs	Stamping			ST								In use								A60101133			
+ST-2010-01-25-466					2010	1	466.0			Terminal Power Plug		80000000	VALEO			V	108000.0						2.76	AVO El Fahs	Stamping			ST								In use								A60101133			
+TP-2010-08-180-467					2010	8	467.0			Boitier version Continue		8000000	VALEO			H	24686.0						3.45	AVO El Fahs	Thermoplastic Injection			TP								Mold scraped								A60101134			
+TP-2010-08-180-468					2010	8	468.0			Boitier version Reversible		8000000	VALEO			H	20329.0						3.45	AVO El Fahs	Thermoplastic Injection			TP								In use								A60101136			
+TP-XXXX-08-110-103					XXXX	8	103.0			Trico retainer		4000000	TRICO			H	11520.0						3.22	AVO Kunshan	Thermoplastic Injection			TP								In use								T21110011			
+TP-XXXX-16-50-102					XXXX	16	102.0			Connecteur traversant 3 voies		8000000	VALEO	Cold runner		H	46080.0						2.99	AVO El Fahs	Thermoplastic Injection			TP								In use								A53841977			
+TP-2011-08-180-507					2011	8	507.0			SW4 Housing		2800000	VALEO			H	13824.0						2.99	AVO Kunshan	Thermoplastic Injection			TP								Mold scraped								A10210003			
+TP-2010-08-180-469					2010	8	469.0			Boitier version Continue		5600000	AVO			H	12800.0						3.45	AVO El Fahs	Thermoplastic Injection			TP								In use								A60101134, V11510001			
+TP-2010-08-180-470					2010	8	470.0			Boitier version Reversible		5600000	AVO			H	9874.0						3.45	AVO El Fahs	Thermoplastic Injection			TP								In use								A60101136			
+ST-2010-02-60-471					2010	2	471.0			Lead Frame		14000000	VALEO			V	172800.0						3.45	AVO El Fahs	Stamping			ST								In use								A60101135			
+ST-2010-01-80-472					2010	1	472.0			Contact Bronze		8000000	VALEO			V	28800.0						2.99	AVO El Fahs	Stamping			ST								In use								A60100540			
+ST-2010-01-80-473					2010	1	473.0			Brush Holder VM4 (version with door closed)		20000000	VALEO			V	43200.0						4.14	AVO El Fahs	Stamping			ST								In use								A60100531			
+TP-2012-04-200-533					2012	4	533.0			Platine connecteur H/AH		4000000	VALEO	Cold sprue		H	7855.0						4.37	AVO El Fahs	Thermoplastic Injection			TP								In use								A60101521			
+TP-2010-04-100-474					2010	4	474.0			Outillage Connecteur Uno Palio et Bresil		2000000	VALEO	cold runner		H	6912.0						3.68	AVO El Fahs	Thermoplastic Injection			TP								In use								A60101150, A60101152			
+TP-2002-04-50-228					2002	4	228.0			Boitier Plastique		0	VALEO				13292.0							AVO El Fahs	Thermoplastic Injection			TP								In use								A60100455			
+TP-2013-04-50-534					2013	4	534.0			Brush plate		4000000	VALEO	Hot runner on mini sprue			5400.0						3.22	AVO El Fahs	Thermoplastic Injection			TP								In use								A60110454			
+TP-2002-04-50-229					2002	4	229.0			Brush plate		4000000	VALEO				12343.0						3.22	AVO El Fahs	Thermoplastic Injection			TP								Mold scraped								A60110454			
+TP-2010-04-30-387					2010	4	387.0			PASSE FILS SUPERIEUR T7		4200000	NIDEC			H								AVO El Fahs	Thermoplastic Injection			TP								In use								AA11106415F, AA11106416G			
+TP-2012-02-25-535					2012	2	535.0			Retainer Renault		2000000	RENAULT			H	7200.0						3.45	AVO El Fahs	Thermoplastic Injection			TP								In use								A60101615			
+TP-2004-02-50-508					2004	2	508.0	20000	EURO	Connecteur surmoulé  DUCATO - 11TA		350000	NIDEC	Cold runner		H	2160.0						3.22	AVO El Fahs	Thermoplastic Injection			TP								In use								A60100041			
+ST-2011-01-50-640					2011	1	640.0			Insert Connecteur DUCATO - 11 TA		10000000	NIDEC			V	36000.0						2.76	AVO El Fahs	Stamping			ST								In use								A878422F			
+ST-2009-01-XX-456					2009	1	456.0			Cosse		10000000	No tool owner			V							3.45	AVO Poitiers	Stamping			ST								In use								A60100474			
+ST-2008-01-50-252					2008	1	252.0			Contact Plate		0	VALEO			V	61714.0							AVO El Fahs	Stamping			ST								In use								A60110455			
+ST-2008-02-40-476					2008	2	476.0			Cosse (produit fini VA186866A)		1000000	VALEO			V	120000.0						2.99	AVO El Fahs	Stamping			ST								In use								A60101722			
+ST-2008-01-40-314					2008	1	314.0			Cosse (produit fini VA634939A)		1000000	VALEO			V	32481.0						2.76	AVO El Fahs	Stamping			ST																A60101724			
+ST-2011-01-30-477					2011	1	477.0			Cosse (produit fini VA518700A)		0	VALEO			V									Stamping			ST																A60101476			
+TP-2002-04-50-236					2002	4	236.0			Capot AP PLAN 53841647 NOIR		4000000	VALEO				11520.0						2.99	AVO El Fahs	Thermoplastic Injection			TP								In use								A53841647			
+TP-2002-04-50-237					2002	4	237.0			CAPOT AP PLAN K09729198 GRIS		4000000	VALEO				8229.0						2.99	AVO El Fahs	Thermoplastic Injection			TP								In use								A53844487			
+ST-2003-01-60-238					2003	1	238.0			Plaquette Equipée		8000000	VALEO			V	57600.0						3.45	AVO El Fahs	Stamping			ST								Mold scraped											
+TP-2000-08-250-184					2000	8	184.0			Chaussette Gauche		0	VALEO			V	2880.0							AVO El Fahs	Thermoplastic Injection			TP								Production end								A53860147			
+TP-2002-04-60-239					2002	4	239.0			Support Arefix droit		4000000	VALEO				11520.0						2.99	AVO El Fahs	Thermoplastic Injection			TP								In use								A53842137, A53842127, A53843207			
+TP-2013-02-100-315					2013	2	315.0			Brush Holder F552 overmolded		2000000	TRICO	Cold runner		H	1800.0						3.91	AVO Monterrey	Thermoplastic Injection			TP								In use								16-0067, C1915003			
+TP-2012-04-100-679					2012	4	679.0			B&D Plastic bases - CN00652814		2000000	B & D				5760.0						2.99	AVO Kunshan	Thermoplastic Injection			TP								In use								B21110003			
+ST-2012-01-80-996					2012	1	996.0			BRUSH BOX 652812-CAT1 DEWALT		1000000	B & D			V	10800.0						4.14	AVO Kunshan	Stamping			ST								In use								B21120004			
+ST-2012-01-80-					2012	1				TERMINAL PLATE 652813-CAT1		0												AVO Kunshan	Stamping			ST																B21120005			
+TP-2013-02-40-615					2013	2	615.0			Cover		1000000	Dong Yang				2469.0						3.68	AVO Kunshan	Thermoplastic Injection			TP								In use								D10170012			
+TP-2013-04-100-614					2013	4	614.0			DY HB5 NEW brush holder		2000000	Dong Yang				6912.0						3.68	AVO Kunshan	Thermoplastic Injection			TP								In use								D10110005			
+ST-2013-01-110-316					2013	1	316.0			Lead Frame F552		10000000	TRICO			V	36000.0						3.22	AVO Monterrey	Stamping			ST								In use											
+TP-2013-04-100-569					2013	4	569.0			Brush holder		2000000	Dong Chang				5760.0						3.22	AVO Kunshan	Thermoplastic Injection			TP								In use								D21210001			
+ST-2002-01-XX-240					2002	1	240.0			PLAQUETTE EQ.T3000 PL.60100089		0	VALEO			V								AVO El Fahs	Stamping			ST								Mold scraped								A60100089			
+TP-1998-XX-XX-241					1998	XX	241.0			SUPPORT A BORNE STANDARD		0	VALEO											AVO El Fahs	Thermoplastic Injection			TP								Production end								A53350806			
+TP-1998-XX-XX-269					1998	XX	269.0			SUPPORT A BORNE STANDARD NOIR		336000000	VALEO										2.76	AVO El Fahs	Thermoplastic Injection			TP								Production end								A53350616			
+TP-2002-08-XXX-270					2002	8	270.0			RETAINER PPC FIRST		8000000	VALEO										2.99	AVO El Fahs	Thermoplastic Injection			TP								Production end								A53842877			
+ST-2003-01-XX-271					2003	1	271.0			PLAQUETTE PC EQUIP GUIDE STAND		0	VALEO			V								AVO El Fahs	Stamping			ST								Mold scraped								A53290489P			
+TP-2009-08-110-256					2009	8	256.0			Connector 3 ways		8000000	VALEO			H	24686.0						3.68	AVO Kunshan	Thermoplastic Injection			TP								Mold scraped								V20210004			
+TP-2008-08-150-257					2008	8	257.0			Trip ring SW4/VM4		8000000	VALEO	Cold runner		H	15709.0						3.22	AVO El Fahs	Thermoplastic Injection			TP								In use								A60100532			
+TP-2013-08-80-333					2013	8	333.0			Brush retainer TRICO		2400000	TRICO			H	9874.0						2.76	AVO Monterrey	Thermoplastic Injection			TP								Mold scraped								16-0043			
+TP-2014-08-80-610					2014	8	610.0			Retainer TRICO		4000000	TRICO	cold sprue		H	15709.0						2.76	AVO Monterrey	Thermoplastic Injection			TP								In use								16-0066			
+TP-2012-04-150-510					2012	4	510.0			HOUSING		1000000	No tool owner	hot runner on mini sprue		H	12343.0						2.76	AVO Monterrey	Thermoplastic Injection			TP								In use								50-0718, 50-0656			
+TP-2011-08-120-652					2011	8	652.0			Brush plate		4000000	B&D			H	11520.0						4.37	AVO Monterrey	Thermoplastic Injection			TP								In use								50-0691			
+TP-2004-01-80-332					2004	1	332.0			Insulation plate		50000	BOSCH			H	1440.0						2.76	AVO Monterrey	Thermoplastic Injection			TP								In use								50-0650			
+TP-2013-04-200-536					2013	4	536.0			Base plate		2000000	HILTI			H	4114.0						2.76	AVO El Fahs	Thermoplastic Injection			TP								In use								A60100316			
+TP-2012-16-80-511					2012	16	511.0			Plastic pin		4800000	HILTI			H	30052.0						2.76	AVO El Fahs	Thermoplastic Injection			TP								In use								A60100183			
+TP-2012-04-150-512					2012	4	512.0			COVER		2000000	No tool owner	Hot runner on mini sprue		H	12343.0						2.99	AVO Monterrey	Thermoplastic Injection			TP								In use								50-0657			
+TP-2009-08-150-255					2009	8	255.0			Brush Retainer MNG2 		2000000	VALEO			H	23040.0						2.99	AVO Kunshan	Thermoplastic Injection			TP								Mold scraped								V20210003			
+TP-2012-16-180-537					2012	16	537.0	22807	EURO	Brush Retainer MNG2 		9600000	VALEO			H	46080.0						2.99	AVO Kunshan	Thermoplastic Injection			TP								In use								V20210003, A53842867			
+TP-2013-04-75-538					2013	4	538.0	13650	EURO	CONNECTEUR MAZDA B2E 10C45		4800000	NIDEC			H	3840.0						3.68	AVO El Fahs	Thermoplastic Injection			TP								In use											
+ST-2013-01-30-539					2013	1	539.0	34000	RmB	Insert connecteur		6000000	NIDEC			V	28800.0						2.99	AVO El Fahs	Stamping			ST								In use								A07106026H			
+TP-2013-16-110-540					2013	16	540.0			10T Retainer		4000000	AVO			H	22297.0						2.76	AVO El Fahs	Thermoplastic Injection			TP								In use								A60101522			
+TP-2008-08-180-267					2008	8	267.0			Tower (T6J138Y01)		2400000	VALEO			H	13824.0						2.99	AVO El Fahs	Thermoplastic Injection			TP								In use								A60100526, A10210003			
+TS-XXXX-12-120-98					XXXX	12	98.0			TX 3006C/S HOLDER		0	No tool owner	Cold runner			6912.0							AVO Kunshan	Thermoset Injection			TS								In use											
+TS-XXXX-12-120-99					XXXX	12	99.0			TX 3010A HOLDER		0	No tool owner	Cold runner			6732.0							AVO Kunshan	Thermoset Injection			TS								In use											
+TS-XXXX-02-200-101					XXXX	2	101.0			FW Brush holder		0	VALEO	Cold runner			1440.0							AVO Kunshan	Thermoset Injection			TS								In use											
+TS-XXXX-08-120-100					XXXX	8	100.0			FW Brush retainer ring		0	VALEO	Cold runner			9874.0							AVO Kunshan	Thermoset Injection			TS								In use											
+TS-XXXX-08-120-97					XXXX	8	97.0			FW Plastic support		32000000	VALEO	Cold runner			9874.0							AVO Kunshan	Thermoset Injection			TS								In use											
+ST-2010-01-80-478					2010	1	478.0			Brush holder MNG2 / MNG3 		5000000	VALEO			V	28800.0						4.14	AVO Kunshan	Stamping			ST								In use								V20220006			
+ST-2010-01-80-479					2010	1	479.0			Brush Holder SW4/VM4		5000000	VALEO			V	21600.0						4.14	AVO El Fahs	Stamping			ST								In use								A60100531			
+ST-2010-01-80-480					2010	1	480.0			Terminal FS2 for SW4		5000000	VALEO			V	43200.0						3.45	AVO Kunshan	Stamping			ST								In use								A10220007			
+ST-2010-01-60-481					2010	1	481.0			SW4 Brass (CuZn37) contact		5000000	VALEO			V	43200.0						2.99	AVO Kunshan	Stamping			ST								In use								A10220008			
+ST-2007-01-50-388					2007	1	388.0			SW4 Contact (version with door open)		5000000	VALEO			V	43200.0						4.14	AVO Kunshan	Stamping			ST								In use								A10220004			
+ST-2011-01-60-513					2011	1	513.0			Brush Holder		5000000	VALEO			V	43200.0						3.45	AVO Kunshan	Stamping			ST								In use								V10320002			
+ST-2010-01-80-482					2010	1	482.0			Terminal FS1 SW4		5000000	VALEO			V	43200.0						3.45	AVO Kunshan	Stamping			ST								In use								A10220006			
+ST-2013-01-45-541					2013	1	541.0			Terminal A-TE-0021		1000000	AVO			V	28800.0						2.99	AVO Tianjin	Stamping			ST								In use								A-TE-0021			
+ST-2005-XX-XX-349					2005	XX	349.0			Terminal		2000000	B & D			V							2.99	AVO Tianjin	Stamping			ST								In use								A-TE-0007			
+ST-2012-XX-XX-514					2012	XX	514.0			Terminal		100000	No tool owner			V							2.53	AVO Tianjin	Stamping			ST								In use								A-TE-0019			
+ST-2012-XX-XX-542					2012	XX	542.0			Terminal		100000	No tool owner			V							2.53	AVO Tianjin	Stamping			ST								In use								4			
+ST-2013-XX-XX-543					2013	XX	543.0			Terminal		1000000	LETRIKA			V	28800.0						2.99	AVO Tianjin	Stamping			ST								In use								A-TE-0014			
+ST-2013-XX-XX-544					2013	XX	544.0			Terminal		1000000	No tool owner			V								AVO Tianjin	Stamping			ST								In use											
+ST-2013-01-40-545					2013	1	545.0	3500	EURO	Terminal for Connector CORSA PUNTO		3000000	NIDEC			V	43200.0						2.99	AVO El Fahs	Stamping			ST								In use								AA13106634G			
+ST-2013-XX-XX-559					2013	XX	559.0			Lada brush plate		10000000					3600.0							AVO Kunshan	Stamping			ST								In use											
+ST-2006-01-XXX-390					2006	1	390.0			GUIDE 		10000000	SAMSUNG			V							3.22	AVO Korea	Stamping			ST								In use								20-1200-121			
+ST-2006-01-XXX-391					2006	1	391.0			GUIDE 		10000000	SAMSUNG			V							3.22	AVO Korea	Stamping			ST								In use								20-1300-010			
+ST-2006-01-XXX-392					2006	1	392.0			GUIDE 		10000000	SAMSUNG			V							3.22	AVO Korea	Stamping			ST								In use								20-1300-012			
+ST-2006-01-XXX-393					2006	1	393.0			GUIDE 		10000000	SAMSUNG			V							3.22	AVO Korea	Stamping			ST								In use								20-1300-012			
+ST-2006-01-XXX-394					2006	1	394.0			GUIDE 		10000000	SAMSUNG			V							3.22	AVO Korea	Stamping			ST								In use								20-1500-012			
+ST-2006-01-XXX-395					2006	1	395.0			TERMINAL 		10000000	SAMSUNG			V							3.22	AVO Korea	Stamping			ST								In use								20-1500-012			
+ST-2006-01-XXX-396					2006	1	396.0			TERMINAL		10000000	SAMSUNG			V							2.99	AVO Korea	Stamping			ST								In use								20-1300-141			
+ST-2006-01-XXX-397					2006	1	397.0			GUIDE		10000000	SAMSUNG			V							2.76	AVO Korea	Stamping			ST								In use								20-1200-140			
+TP-2006-12-XXX-398					2006	12	398.0			HOLDER		3000000	SAMSUNG										2.99	AVO Korea	Thermoplastic Injection			TP								Production end								20-1500-013			
+TP-2006-08-XXX-399					2006	8	399.0			HOLDER		2000000	SAMSUNG										2.99	AVO Korea	Thermoplastic Injection			TP								Production end								20-1300-200			
+TP-2006-12-XXX-400					2006	12	400.0			HOLDER		3000000	SAMSUNG										2.99	AVO Korea	Thermoplastic Injection			TP								Production end								20-1300-007			
+ST-2013-XX-XX-560					2013	XX	560.0			MNG2		0												AVO Kunshan	Stamping			ST																			
+TS-2013-04-100-568					2013	4	568.0			PFC brush plate		0	Dong Yang	Cold runner									3.22	AVO Kunshan	Thermoset Injection			TS								In use								D11310018			
+ST-2013-XX-XX-561					2013	XX	561.0			MK PLATE ZD1432-361A		0												AVO Kunshan	Stamping			ST																			
+ST-2013-XX-XX-562					2013	XX	562.0			SW3 PLATE ZD15313-321		0												AVO Kunshan	Stamping			ST																			
+TS-2013-04-XX-617					2013	4	617.0			brush plate		0	Dong Yang	Cold runner										AVO Kunshan	Thermoset Injection			TS																			
+ST-2013-XX-XX-563					2013	XX	563.0			SW4 brush plate (Family Wiper Chine)		0												AVO Kunshan	Stamping			ST																			
+TS-2004-04-130-132					2004	4	132.0			Brush box		2000000	VALEO	Cold runner		H	3456.0							AVO Monterrey	Thermoset Injection			TS								Mold scraped											
+TS-2004-04-130-131					2004	4	131.0			Brush box		2000000	VALEO	Cold runner		H	3456.0							AVO Monterrey	Thermoset Injection			TS								Mold scraped											
+TS-2004-04-130-130					2004	4	130.0			Brush box		2000000	VALEO	Cold runner		H	3456.0							AVO Monterrey	Thermoset Injection			TS								Mold scraped											
+TS-2003-04-130-129					2003	4	129.0			Brush box		2000000	VALEO	Cold runner		H	3456.0						3.45	AVO Monterrey	Thermoset Injection			TS								Mold scraped								50-0428			
+TS-2003-04-130-128					2003	4	128.0			Brush box		2000000	VALEO	Cold runner		H	3456.0						3.45	AVO Monterrey	Thermoset Injection			TS								Mold scraped								50-0428			
+TS-2003-04-130-127					2003	4	127.0			Brush box		2000000	VALEO	Cold runner		H	3456.0						3.45	AVO Monterrey	Thermoset Injection			TS								Mold scraped								50-0428			
+TS-2010-04-130-266					2010	4	266.0			Brush box		2000000	VALEO	Cold runner		H	3456.0						3.45	AVO Monterrey	Thermoset Injection			TS								Mold scraped								50-0428			
+TS-2011-04-130-483					2011	4	483.0			Brush box		2000000	VALEO	Cold runner		H	3456.0						3.45	AVO Monterrey	Thermoset Injection			TS								Mold scraped								50-0428			
+TS-2013-04-130-546					2013	4	546.0			Brush box		2000000	VALEO	Cold runner		H	3456.0						3.45	AVO Monterrey	Thermoset Injection			TS								Mold scraped								50-0428			
+TP-2013-08-120-380					2013	8	380.0			Grommet LXB		8000000	COMSTAR										4.37	AVO Chennai	Thermoplastic Injection			TP								In use								80701003			
+TP-2003-04-165-265					2003	4	265.0			GW Right Hand brush plate		4000000	VALEO				8229.0							AVO Monterrey	Thermoplastic Injection			TP								Mold scraped											
+TP-2003-04-165-264					2003	4	264.0			GW Right Hand brush plate		4000000	VALEO				8229.0							AVO Monterrey	Thermoplastic Injection			TP								Mold scraped											
+TP-2007-04-165-401					2007	4	401.0			GW Right Hand brush plate		4000000	VALEO	HR on sprue		H	8229.0							AVO Monterrey	Thermoplastic Injection			TP								Mold scraped											
+TP-2003-08-165-263					2003	8	263.0			GW Left Hand brush plate		4000000	VALEO				8640.0						4.37	AVO Monterrey	Thermoplastic Injection			TP								In use								16-0015			
+TP-2003-08-110-262					2003	8	262.0			GW seal		8000000	VALEO				17280.0							AVO Monterrey	Thermoplastic Injection			TP								Mold scraped											
+TP-2003-06-60-261					2003	6	261.0			GW Brush retainer		6000000	VALEO				28800.0							AVO Monterrey	Thermoplastic Injection			TP								Mold scraped											
+TP-2007-06-60-402					2007	6	402.0			GW Brush retainer		6000000	VALEO	Cold runner		H	28800.0							AVO Monterrey	Thermoplastic Injection			TP								Mold scraped											
+TP-2003-04-60-260					2003	4	260.0			GW Brush retainer		4000000	VALEO	cold runner		H	19200.0							AVO Monterrey	Thermoplastic Injection			TP								Mold scraped											
+TP-2003-08-95-258					2003	8	258.0			PPC First 		8000000	VALEO				17280.0							AVO Monterrey	Thermoplastic Injection			TP								Mold scraped											
+TP-2012-08-95-547					2012	8	547.0			PPC First 		11318000	VALEO				17280.0							AVO Monterrey	Thermoplastic Injection			TP								In use											
+TP-2003-04-35-350					2003	4	350.0			Molded RFI Filter		4000000	AIRTEX			X	3429.0							AVO Monterrey	Thermoplastic Injection			TP								In use											
+TP-2003-02-60-351					2003	2	351.0			Shell		2000000	AIRTEX				11676.0							AVO Monterrey	Thermoplastic Injection			TP								In use											
+TP-2003-06-95-352					2003	6	352.0			Grommet LXB		6000000	COMSTAR	Cold runner		H	8416.0							AVO Monterrey	Thermoplastic Injection			TP								In use											
+TP-2003-16-130-353					2003	16	353.0			Old Gen Grommet		16000000	PM				15709.0						2.53	AVO Monterrey	Thermoplastic Injection			TP								In use								16-0007			
+TP-2003-04-35-354					2003	4	354.0			RFI Filter Assembly		4000000	AIRTEX			X	4114.0							AVO Monterrey	Thermoplastic Injection			TP								In use											
+TP-2003-16-130-355					2003	16	355.0			New Gen Grommet		16000000	PM				12343.0						2.53	AVO Monterrey	Thermoplastic Injection			TP								In use								16-0010A			
+TP-2003-02-60-357					2003	2	357.0			Spring retainer		2000000	Federal Mogul				7200.0						2.76	AVO Monterrey	Thermoplastic Injection			TP								In use								16-0020			
+ST-XXXX-01-XX-109					XXXX	1	109.0			Terminal		0	No tool owner			V	43200.0							AVO Chennai	Stamping			ST								In use											
+ST-2013-01-63-548					2013	1	548.0			Brush holder		1000000	COMSTAR			V	14400.0							AVO Chennai	Stamping			ST								In use											
+ST-2013-01-63-549					2013	1	549.0			Brush holder		1000000	COMSTAR			V	14400.0							AVO Chennai	Stamping			ST								In use											
+ST-2017-01-63-105					2017	1	105.0			Brush holder		1000000	COMSTAR				14400.0							AVO Chennai	Stamping			ST								In use											
+ST-2013-01-40-550					2013	1	550.0			Bush bar		1000000	COMSTAR			V	3600.0						2.99	AVO Chennai	Stamping			ST								In use								40301044			
+ST-2016-01-40-106					2016	1	106.0			terminal		1000000	No tool owner			V	43200.0						2.76	AVO Chennai	Stamping			ST								In use								40201014			
+ST-2016-01-40-					2016	1				terminal		1000000	No tool owner			V	43200.0						2.99	AVO Chennai	Stamping			ST								In use								40301013, 40301033, 40301044			
+TS-2006-12-210-386					2006	12	386.0			Brush guide		0	No tool owner	Cold runner		H	5760.0							AVO Chennai	Thermoset Injection			TS								Mold scraped											
+TS-2002-12-100-187					2002	12	187.0			Brush guide		0	No tool owner	Cold runner		H	240.0							AVO Chennai	Thermoset Injection			TS								In use											
+TS-2013-12-210-551					2013	12	551.0			Brush guide		0	No tool owner	Cold runner		H	5760.0							AVO Chennai	Thermoset Injection			TS								In use											
+ST-2013-01-40-552					2013	1	552.0			Terminal		2000000	COMSTAR			V	10800.0						2.99	AVO Chennai	Stamping			ST								In use								40201023			
+TP-2003-16-60-362					2003	16	362.0			Pin blue		16000000	No tool owner				69120.0						2.53	AVO Monterrey	Thermoplastic Injection			TP								In use								16-0001			
+TP-2003-08-60-363					2003	8	363.0			Plastic conector First		5600000	VALEO	Cold runner		H	31418.0						3.68	AVO Monterrey	Thermoplastic Injection			TP								In use								50-0544			
+ST-2012-02-80-515					2012	2	515.0	14000	EURO	Lead frame FLEX (Patte de masse flex)		2000000000	VALEO			V	302400.0						3.45	AVO El Fahs	Stamping			ST								In use								A60101177			
+TP-2013-16-150-553					2013	16	553.0			Connector 3 ways		9600000	VALEO			H	24686.0						3.68	AVO Kunshan	Thermoplastic Injection			TP								In use								V20210004			
+TP-2013-04-150-554					2013	4	554.0	13650	EURO	Integrated connector CORSA GM		2000000	NIDEC	Cold runner		H	3142.0						3.68	AVO El Fahs	Thermoplastic Injection			TP								In use								AA13106628J, AA13106658M			
+TP-2013-04-150-616					2013	4	616.0			ETC brush holder		2000000	Dong Chang			H	5400.0						3.22	AVO Kunshan	Thermoplastic Injection			TP								In use								D21240013			
+TP-2015-01-15-104					2015	1	104.0			Terminal		0	No tool owner				43200.0						2.76	AVO Chennai	Thermoplastic Injection			TP								In use								40101119			
+TP-2015-01-15-					2015	1						0	No tool owner				21600.0							AVO Chennai	Thermoplastic Injection			TP								In use								40301041, 40301042			
+TP-2017-01-15					2017	1				Terminal		0	No tool owner										3.22	AVO Chennai	Thermoplastic Injection			TP								In use								FB26/143, FB26/183, SB22/293, SB18/296, SB 19/297-D64(CP8GIU-11102-CB)			
+ST-2005-01-XXX-108					2005	1	108.0					0	No tool owner			V	21600.0						3.22	AVO Chennai	Stamping			ST								In use								40101114			
+ST-2005-01-XXX-385					2005	1	385.0					0	No tool owner			V	36000.0							AVO Chennai	Stamping			ST								In use											
+ST-2005-01-XXX-384					2005	1	384.0					0	No tool owner			V	36000.0							AVO Chennai	Stamping			ST								In use											
+ST-2015-01-25-					2015	1				Terminal		0	No tool owner			V	21600.0							AVO Chennai	Stamping			ST								In use								40301047, 40301048			
+ST-2012-01-80-516					2012	1	516.0			TRMNL / STR MTR FLD - F7RU-11102-DA		10000000	No tool owner			V	86400.0						2.99	AVO Chennai	Stamping			ST								In use								40101038			
+ST-2011-01-30-517					2011	1	517.0			BRSH ASY - STR MTR INS		20000000	No tool owner			V	172800.0							AVO Chennai	Stamping			ST								In use											
+ST-2011-01-30-484					2011	1	484.0			brush plate		0	No tool owner			V	14400.0						2.76	AVO Chennai	Stamping			ST								In use								40301018			
+ST-2008-01-30-259					2008	1	259.0			brush plate		0	No tool owner			V	8640.0						2.76	AVO Chennai	Stamping			ST								In use								40301018			
+ST-2017-01-30-					2017	1				brush plate		0	No tool owner			V	21600.0							AVO Chennai	Stamping			ST								In use											
+ST-2015-01-30-					2015	1				pin		0	No tool owner			V	21600.0						3.45	AVO Chennai	Stamping			ST								In use								40501005			
+TP-2004-04-100-555					2004	4	555.0			Platine dual motor (Beitigheim)		4000000	VALEO	HR on sprue		H	10165.0						4.14	AVO El Fahs	Thermoplastic Injection			TP								In use								A60100497			
+TP-2014-06-85-564					2014	6	564.0			GW Brush retainer		6000000	VALEO	Cold runner		H	15247.0						2.76	AVO Monterrey	Thermoplastic Injection			TP								In use								16-0039			
+TP-2014-04-85-565					2014	4	565.0	18000	USD	Seal GW		8000000	VALEO	HR on sprue		H	17280.0						3.45	AVO Monterrey	Thermoplastic Injection			TP								In use								16-0025			
+TP-2014-04-100-566					2014	4	566.0	29060	EURO	Platine dual motor (Beitigheim)		4000000	VALEO			H	10165.0						4.14	AVO El Fahs	Thermoplastic Injection			TP								In use								A60100497			
+ST-2014-01-25-567					2014	1	567.0	9680	EURO			6000000	AVO Tn			V	36000.0						2.99	AVO El Fahs	Stamping			ST								In use								A07106032E			
+ST-2009-01-25-107					2009	1	107.0	18000	RmB			5000000	NIDEC			V	36000.0						2.99	AVO El Fahs	Stamping			ST								In use								A07106032E			
+TP-2014-08-80-570					2014	8	570.0			Retainer		8000000	Dong Yang				11520.0						4.37	AVO Kunshan	Thermoplastic Injection			TP								In use								K114004			
+TP-2014-04-150-571					2014	4	571.0	11000	EURO	Ring		2000000	HILTI	cold runner		H	7200.0						2.99	AVO El Fahs	Thermoplastic Injection			TP								In use								A60100331			
+ST-2014-02-25-572					2014	2	572.0	30000	EURO	Porte balai VM4 (version closed door)		200000000	VALEO			V	66462.0						3.22	AVO El Fahs	Stamping			ST								In use								A60100531			
+TP-2014-04-100-573					2014	4	573.0	45000	RmB	Mold for seal Seal (D15)		4000000	Dong Yang			H	4320.0						3.68	AVO Kunshan	Thermoplastic Injection			TP								In use								D11410001			
+TP-2014-04-50-574					2014	4	574.0	88000	RmB	DY brush holder (D15)		4000000	Dong Yang			V							3.68	AVO Kunshan	Thermoplastic Injection			TP								In use								D11410001			
+TP-2017-04-100-916					2017	4	916.0			Mold for seal Seal (D15)		4000000	Dong Yang			H	4320.0						3.68	AVO Kunshan	Thermoplastic Injection			TP								In use								D11410001			
+TP-2017-04-50-917					2017	4	917.0			DY brush holder (D15)		4000000	Dong Yang			V							3.68	AVO Kunshan	Thermoplastic Injection			TP								In use								D11410001			
+ST-2014-01-30-575					2014	1	575.0	35000	RmB	Terminal C (D15)		4000000	Dong Yang			V	21600.0						3.45	AVO Kunshan	Stamping			ST								In use								D11420004			
+ST-2014-01-30-576					2014	1	576.0	35000	RmB	Terminal A (D15)		8000000	Dong Yang			V							3.22	AVO Kunshan	Stamping			ST								In use								D11410001, D11410001			
+ST-2014-02-110-578					2014	2	578.0	25000	RmB	Terminal E		40000000	MITSUBISHI			V	57600.0						3.45	AVO Kunshan	Stamping			ST								In use								O1620001			
+ST-2014-02-110-579					2014	2	579.0	25000	RmB	Terminal F		40000000	MITSUBISHI			V	57600.0						3.45	AVO Kunshan	Stamping			ST								In use								O1620002			
+TP-2014-04-80-639					2014	4	639.0	55000	RmB	Slinger		4000000	MITSUBISHI	HR on mini sprue		H	6171.0						3.91	AVO Kunshan	Thermoplastic Injection			TP								In use											
+TP-2014-04-40-650					2014	4	650.0	80000	RmB	Brush holder		2000000	MITSUBISHI	HR direct on part		V	2700.0						3.91	AVO Kunshan	Thermoplastic Injection			TP								In use								O1310003			
+TP-2014-04-160-580					2014	4	580.0	36600	USD	GW BP left		5600000	VALEO	HR on sprue		H	8229.0						3.91	AVO Monterrey	Thermoplastic Injection			TP								In use								16-0021			
+TS-2014-16-100-581					2014	16	581.0	75000	RmB	BRUSH BOX (N389709-C2D1)		12000000	B & D	Cold runner		H	6912.0						3.91	AVO Monterrey	Thermoset Injection			TS								In use								50-0733			
+ST-2014-01-30-582					2014	1	582.0	85000	RmB	Brush box		30000000	VALEO			V							4.14	AVO Kunshan	Stamping			ST								In use								10J290Y04			
+ST-2014-01-60-585					2014	1	585.0			Brush box (95041-1)		5000000	B & D			V	21600.0						2.99	AVO Monterrey	Stamping			ST																53-0747			
+TP-2010-02-XXX-586					2010	2	586.0			Brush box		2000000	Renault	Cold runner		H	1920.0						3.45	AVO El Fahs	Thermoplastic Injection			TP								Mold scraped								A60101610			
+TP-2014-04-80-587					2014	4	587.0	5100	EURO	Retainer (recyclable component)		2000000	NIDEC				6912.0						2.99	AVO El Fahs	Thermoplastic Injection			TP								In use								A60110300			
+TP-2014-02-80-588					2014	2	588.0	10550	EURO	Clip de Maintien		1000000	RENAULT			H	3086.0						3.45	AVO El Fahs	Thermoplastic Injection			TP								In use								A60101618 - 23, A60101618 - 24			
+TP-2014-04-80-589					2014	4	589.0	8500	EURO	Tour VM4 Toyota big coil		4000000	VALEO			H	6912.0						3.68	AVO El Fahs	Thermoplastic Injection			TP								In use								A60101446, V11410001			
+ST-2014-01-25-590					2014	1	590.0			LANGUETTE T NGM AP		500000	INTEVA			V	43200.0						3.22	AVO El Fahs	Stamping			ST								In use								A80100061			
+ST-2014-01-25-591					2014	1	591.0			LANGUETTE R NGM AP		500000	INTEVA			V	43200.0						3.22	AVO El Fahs	Stamping			ST								In use								A80100062			
+ST-2014-01-25-592					2014	1	592.0			Brush holder		500000	TRICO			V	43200.0						3.45	AVO Monterrey	Stamping			ST								In use								50-0736			
+ST-2014-01-25-593					2014	1	593.0			Lead frame LS to cover		500000	TRICO			V	43200.0						3.45	AVO Monterrey	Stamping			ST								In use								50-0740			
+ST-2014-01-25-603					2014	1	603.0			Lead Frame HS to cover		500000	TRICO			V	43200.0						3.45	AVO Monterrey	Stamping			ST								In use								50-0742			
+ST-2014-01-25-594					2014	1	594.0			ground clip		500000	TRICO			V	43200.0						2.76	AVO Monterrey	Stamping			ST								In use								50-0745, T21520001			
+ST-2014-01-25-595					2014	1	595.0			Lead frame HS to plate		500000	TRICO			V	43200.0						3.22	AVO Monterrey	Stamping			ST								Production end								50-0743			
+ST-2014-01-25-596					2014	1	596.0			Lead frame LS to frame		500000	TRICO			V	43200.0						2.99	AVO Monterrey	Stamping			ST								Production end								50-0741			
+ST-2014-01-25-597					2014	1	597.0			Ground shield		500000	TRICO			V	43200.0						3.45	AVO Monterrey	Stamping			ST								In use								50-0744			
+TP-2014-04-80-598					2014	4	598.0			Brush retainer		2000000	TRICO	Cold Runner		H	7855.0						2.76	AVO Monterrey	Thermoplastic Injection			TP								Production end								16-0072			
+TP-2012-08-110-653					2012	8	653.0			Grommet		4000000	No tool owner	Cold runner		H	11520.0						2.76	AVO Monterrey	Thermoplastic Injection			TP								In use								16-0063			
+TS-2014-04-130-599					2014	4	599.0	24000	USD	Brush box		2000000	VALEO	Cold runner		H	3456.0						3.45	AVO Monterrey	Thermoset Injection			TS								In use								50-0428			
+TP-2014-04-80-600					2014	4	600.0			Bridge Molding TRICO Scania		2000000	TRICO			H	7855.0						2.76	AVO Monterrey	Thermoplastic Injection			TP								In use											
+TP-2014-04-80-601					2014	4	601.0	8500	EURO	Housing VM4C FIAT 156		4000000	VALEO			H	9600.0						3.45	AVO El Fahs	Thermoplastic Injection			TP								In use								A60101646			
+TP-2014-04-80-602					2014	4	602.0	4000	EURO	Trip ring VM4C Fiat 156		4000000	VALEO	cold runner		H	8640.0						3.45	AVO El Fahs	Thermoplastic Injection			TP								In use								A60101645, V11610002			
+ST-2014-01-25-604					2014	1	604.0			Ground clip - brush plate		500000	TRICO			V	43200.0						3.45	AVO Monterrey	Stamping			ST								In use								53-0749			
+TP-2014-08-160-605					2014	8	605.0	67275	EURO	SUPPORT PLASTIQUE NEM2		8000000	INTEVA	HR on sprue		H	14400.0						4.83	AVO El Fahs	Thermoplastic Injection			TP								In use								A60110816			
+TS-2014-XX-XXX-606					2014	XX	606.0			Terminal guard		24000000	TRICO	Cold runner										AVO Monterrey	Thermoset Injection			TS								In use								50-0749			
+TP-2015-08-75-607					2015	8	607.0	26700	EURO	Brush plate FLEX		8000000	VALEO	HR on mini sprue		H	20329.0						3.68	AVO El Fahs	Thermoplastic Injection			TP								Mold scraped								A60101260			
+TS-2015-04-130-608					2015	4	608.0	24000	USD	Brush box		3000000	VALEO	Cold runner		H	3456.0						3.45	AVO Monterrey	Thermoset Injection			TS								In use								50-0428			
+ST-2013-01-60-609					2013	1	609.0			Brush box Dual (bietigheim)		5000000	VALEO			V							3.45	AVO El Fahs	Stamping			ST								In use								A60100496			
+TP-2015-04-110-611					2015	4	611.0			Grommet Trico Argentina		4000000	TRICO	Cold runner		H	5760.0						3.45	AVO Monterrey	Thermoplastic Injection			TP								In use								16-0068			
+ST-2015-02-25-612					2015	2	612.0	20000	EURO	Lame ressort Flex		200000000	VALEO			V	432000.0						2.99	AVO El Fahs	Stamping			ST								In use								A60101087			
+ST-2015-02-35-613					2015	2	613.0			Lame Flex		0	VALEO			V	432000.0							AVO El Fahs	Stamping			ST																A60101087			
+ST-2015-01-60-618					2015	1	618.0			Brush box (95041-1)		5000000	B & D			V	21600.0						3.45	AVO Monterrey	Stamping			ST								In use								53-0753			
+TS-2015-04-130-619					2015	4	619.0			PFC Stay brush holder		2000000	Dong Yang	Cold runner		H	2880.0							AVO Kunshan	Thermoset Injection			TS								Fine tuning											
+ST-2015-01-60-620					2015	1	620.0	8000	USD	Brush holder		10000000	BOSCH			V							3.22	AVO Monterrey	Stamping			ST								In use								53-2010			
+TP-2015-02-80-621					2015	2	621.0	18300	USD	Base plate		2000000	BOSCH			H	2057.0						3.22	AVO Monterrey	Thermoplastic Injection			TP								In use								50-0753			
+ST-2015-01-80-622					2015	1	622.0	11500	USD	Cover plate		10000000	BOSCH			V							3.22	AVO Monterrey	Stamping			ST								In use								53-2010			
+ST-2015-01-80-624					2015	1	624.0	100000	RmB	Terminal 1 & 2 (2 dies 1xblank - 1xbending)		6000000	Dong Yang			V							3.22	AVO Kunshan	Stamping			ST								In use								D11520003, D11520002			
+TP-2015-04-40-625					2015	4	625.0	120000	RmB	Brush holder (1st insert overmolding)		4000000	Dong Yang	HR on mini sprue		V	4800.0						3.68	AVO Kunshan	Thermoplastic Injection			TP								In use								D11510003			
+TP-2015-04-100-626					2015	4	626.0	55000	RmB	Seal overmolding		4000000	Dong Yang	HR on mini sprue		H	4320.0						2.76	AVO Kunshan	Thermoplastic Injection			TP								In use								60P032601B-SP1			
+TP-2015-02-100-627					2015	2	627.0			Brush Holder F552 overmolded		4000000	TATLY	HR on sprue		V	3600.0							AVO Monterrey	Thermoplastic Injection			TP								In use											
+TP-2015-08-100-641					2015	8	641.0	38000	USD	First plastique brush plate		8000000	VALEO	Hot runner on mini sprue		H	19200.0						4.37	AVO Monterrey	Thermoplastic Injection			TP								In use								50-0534			
+TP-2015-08-60-651					2015	8	651.0	15800	EURO	PASSE FIL 11TA		8000000	NIDEC			H	18189.0						2.99	AVO El Fahs	Thermoplastic Injection			TP								In use								A872314R			
+TP-2015-04-100-654					2015	4	654.0	33150	USD	Brush Holder F552 overmolded		4000000	TRICO	HR on sprue		V	3086.0						3.91	AVO Monterrey	Thermoplastic Injection			TP								In use								16-0067, 16-0067M			
+ST-2015-01-25-655					2015	1	655.0			Terminal - Faston 250 série		2000000	Johnson outdoors			V	21600.0						2.99	AVO Monterrey	Stamping			ST								In use								50-0759			
+ST-2015-01-60-656					2015	1	656.0	20625	USD	Lead Frame F552 (blanck stamping)		10000000	TRICO			V	72000.0						3.22	AVO Monterrey	Stamping			ST								In use								50-0771			
+TP-2015-08-80-657					2015	8	657.0			Grommet		8000000	NIDEC				18189.0						3.22	AVO El Fahs	Thermoplastic Injection			TP								DFM / Kick off								A993494Q			
+TP-2015-08-80-658					2015	8	658.0			Grommet		8000000	NIDEC				17280.0						3.22	AVO El Fahs	Thermoplastic Injection			TP								DFM / Kick off								A993495D			
+TP-2015-01-60-659					2015	1	659.0	1800	EURO	Fixture for FLEX assembly		500000	AVO Tn				2160.0						2.53	AVO El Fahs	Thermoplastic Injection			TP								In use								0540 - 420 -01			
+TP-2015-02-150-660					2015	2	660.0	26400	EURO	Overmolded plate 11 TA - 3 Speed		3000000	AVO Tn	cold runner		H	2787.0						3.68	AVO El Fahs	Thermoplastic Injection			TP								In use								AA13116592K			
+TP-2014-01-80-661					2014	1	661.0			BP bakelite		6000000	VALEO				54000.0						3.45	AVO El Fahs	Thermoplastic Injection			TP								In use								A60101132			
+ST-2015-02-30-662					2015	2	662.0	18200	EURO	Insert 11TA CMFB		40000000	NIDEC			V	108000.0						2.99	AVO El Fahs	Stamping			ST								In use								A503.653			
+TP-2015-04-50-663					2015	4	663.0	163250	EURO	connector 11TA CMFB WO Poka Yoke		8732000	NIDEC	HR on cold sprue		H	5760.0						4.14	AVO El Fahs	Thermoplastic Injection			TP								In use								A503.654, A503.711, A503.714, A503.713, A504-342, A504-317, A503.655			
+ST-2015-01-5-664					2015	1	664.0	7188	USD	Lead Frame F552 (bending 90°)		10000000	TRICO			V	21600.0							AVO Monterrey	Stamping			ST								Mold scraped											
+TP-2015-08-100-665					2015	8	665.0	37324	EURO	First plastique brush plate		8000000	VALEO	HR on sprue		H	19200.0						4.14	AVO El Fahs	Thermoplastic Injection			TP								In use								A53844627			
+TP-2016-01-60-666					2016	1	666.0	3651	EURO	Fixture for NEM 2 assembly		500000	AVO Tn				2160.0						2.53	AVO El Fahs	Thermoplastic Injection			TP								In use								0400 - 220 -01			
+TP-2016-4-100-668					2016	4	668.0	139000	RmB	Brush board N2		2000000	EUROTA				4937.0						3.22	AVO Kunshan	Thermoplastic Injection			TP								In use								U11620001			
+ST-2016-01-30-669					2016	1	669.0	28000	RmB	Lead frame A		10000000	EUROTA			V	1234.0						2.76	AVO Kunshan	Stamping			ST								In use								U11620004			
+ST-2016-01-30-670					2016	1	670.0			Lead frame B		10000000	EUROTA			V	1234.0						2.76	AVO Kunshan	Stamping			ST								In use								U11620005			
+ST-2015-01-30-671					2015	1	671.0			Brush holder		500000	SKF			V	36000.0						4.14	AVO Kunshan	Stamping			ST								In use								S11320004, S11320016			
+ST-2015-01-30-672					2015	1	672.0					10000000	VALEO			V	36000.0						2.76	AVO Kunshan	Stamping			ST								DFM / Kick off											
+ST-2016-01-80-673					2016	1	673.0	11000	EURO	Carcasse pour 086N, 088O, 227I,058M		12000000	NIDEC			V	36000.0						2.53	AVO El Fahs	Stamping			ST								In use								Carcasse pour 086N, 088O, 227I,058M			
+ST-2016-01-80-674					2016	1	674.0	13000	EURO	Module 1		12000000	NIDEC			V	36000.0						2.99	AVO El Fahs	Stamping			ST								In use								A08116086N, A08116088O, A09116227I, A08116058M			
+ST-2016-01-80-675					2016	1	675.0	13000	EURO	Module 2		12000000	NIDEC			V	36000.0						2.99	AVO El Fahs	Stamping			ST								In use								A08116086N, A08116088O, A09116227I, A08116058M			
+ST-2016-01-80-676					2016	1	676.0	13000	EURO	Module 3A		12000000	NIDEC			V	36000.0						2.99	AVO El Fahs	Stamping			ST								In use								A08116086N, A08116088O			
+TS-2016-04-130-678					2016	4	678.0	32000	RmB	PFC Stay brush holder		1200000	Dong Yang	Cold runner		H	2880.0						3.22	AVO Kunshan	Thermoset Injection			TS								In use								D11310018			
+ST-2016-02-110-680					2016	2	680.0	25000	RmB	Terminal E		40000000	MITSUBISHI			V	57600.0						2.76	AVO Kunshan	Stamping			ST								In use								O1620003			
+ST-2016-02-110-681					2016	2	681.0	25000	RmB	Terminal F		40000000	MITSUBISHI			V	57600.0						3.45	AVO Kunshan	Stamping			ST								In use								O1620004			
+TP-2016-08-80-682					2016	8	682.0	120000	RmB	Slinger		8000000	MITSUBISHI				12343.0						3.91	AVO Kunshan	Thermoplastic Injection			TP								In use								O1610004			
+TP-2016-08-40-683					2016	8	683.0	130000	RmB	Brush holder		8000000	MITSUBISHI				6912.0						3.91	AVO Kunshan	Thermoplastic Injection			TP								In use								O1610003			
+TP-2016-04-60-684					2016	4	684.0	140000	RmB	Brush card holder body (24V)		4000000	TIEMAO				6912.0						3.68	AVO Kunshan	Thermoplastic Injection			TP								In use								T31520001			
+ST-2016-01-35-685					2016	1	685.0	28080	RmB	Terminal 1		10000000	TMG			V	43200.0						2.99	AVO Kunshan	Stamping			ST								In use								T31520002			
+ST-2016-01-35-686					2016	1	686.0	28080	RmB	Terminal 2		10000000	TMG			V	86400.0						2.99	AVO Kunshan	Stamping			ST								In use								T31520003			
+ST-2016-01-35-687					2016	1	687.0	26910	RmB	Ground Terminal		10000000	TMG			V	86400.0						2.99	AVO Kunshan	Stamping			ST								In use								T31520004			
+ST-2016-01-35-688					2016	1	688.0	19305	RmB	Ground Contact plate		1000000	TMG			V							2.99	AVO Kunshan	Stamping			ST								In use								TM-309-001			
+ST-2016-01-30-689					2016	1	689.0	29500	RmB	Brush holder		10000000	EUROTA			V	43200.0						2.76	AVO Kunshan	Stamping			ST								In use								U11620002			
+ST-2016-01-30-690					2016	1	690.0	17500	RmB	Brush holder plate		10000000	EUROTA			V	86400.0						2.76	AVO Kunshan	Stamping			ST								In use								U11620003			
+TP-2016-04-50-691					2016	4	691.0	32000	RmB	Choke coil clip		4000000	VALEO				4937.0						3.22	AVO Kunshan	Thermoplastic Injection			TP								In use								W000089667			
+TP-2016-04-100-692					2016	4	692.0	62000	RmB	RFI box		4000000	VALEO				4937.0						2.99	AVO Kunshan	Thermoplastic Injection			TP								In use								W000074596			
+TP-2016-04-200-693					2016	4	693.0	39900	EURO	Body tool for 10C platines		10000000	NIDEC	HR direct on part		H	8229.0						2.3	AVO El Fahs	Thermoplastic Injection			TP								In use								Body tool for 10C platines			
+TP-2016-04-200-694					2016	4	694.0	129777	EURO	PLATINE 10T Ducato		7996000	NIDEC	HR on part		H	8229.0						3.68	AVO El Fahs	Thermoplastic Injection			TP								In use								A996746B, AA10106380H, AA08106102B, A993492P, AA10106291J, A996754T, AA14106667M, AA12106513D, AA12106553H, AA15106740R, AA16106796T, AA18106868K, AA13106606F			
+TP-2016-08-120-695					2016	8	695.0	131122	EURO	Boitier SIM2 (AS)		13521944	INTEVA	HR direct on part		H	15026.0						4.83	AVO El Fahs	Thermoplastic Injection			TP								Mold scraped								A60110819			
+ST-2016-01-25-696					2016	1	696.0	48000	RmB	Power insert left SIM2 (AS)		40000000	INTEVA			V	216000.0						3.45	AVO El Fahs	Stamping			ST								In use								A60110823			
+ST-2016-01-25-697					2016	1	697.0	48000	RmB	Power insert right SIM2 (AS)		40000000	INTEVA			V	216000.0						3.45	AVO El Fahs	Stamping			ST								In use								A60110824			
+ST-2016-01-25-698					2016	1	698.0	3738	USD	Lead frame HS to plate		5000000	TRICO			V	43200.0						3.22	AVO Monterrey	Stamping			ST								In use								50-0743, T21120002			
+ST-2016-01-25-699					2016	1	699.0			Lead frame LS to frame		0	TRICO			V	43200.0							AVO Monterrey	Stamping			ST								In use								50-0741, T21120003			
+TP-2016-08-80-700					2016	8	700.0	13000	USD	C-Shape retainer		6000000	TRICO	cold sprue		H	19200.0						2.76	AVO Monterrey	Thermoplastic Injection			TP								In use											
+TP-2016-04-80-701					2016	4	701.0	15700	USD	Plastic brush plate		3000000	TRICO	cold runner		H	5760.0						2.76	AVO Monterrey	Thermoplastic Injection			TP								In use											
+TP-2016-02-80-702					2016	2	702.0	9550	EURO	Integrated connector 11TA B515 NEO		1000000	NIDEC			H	1920.0						2.76	AVO El Fahs	Thermoplastic Injection			TP								In use								A16116807D			
+ST-2016-01-60-703					2016	1	703.0	26000	RmB	Terminal connector 11TA B515 NEO		2000000	NIDEC			V	43200.0						3.22	AVO El Fahs	Stamping			ST								In use								A16116806C			
+TS-2016-140-75-704					2016	140	704.0	3130	EURO	Seal SIM2 (AS & Elec)		35000000	INTEVA	Cold runner		V	20160.0						2.76	AVO El Fahs	Thermoset Injection			TS								In use								A60110820			
+CP-2016-02-75-705					2016	2	705.0	3000	EURO	Bearing SIM2 (AS & Elec)		100000000	INTEVA			V							2.07	AVO El Fahs	Compression			CP								In use								A60110826			
+ST-2016-01-15-706					2016	1	706.0	7188	USD	Lead Frame F552 (bending 90°)		10000000	TRICO			V	21600.0							AVO Monterrey	Stamping			ST								In use											
+ST-2016-01-15-709					2016	1	709.0	6500	EURO	Spring for brushes		100000000	INTEVA			V	54000.0						2.76	AVO El Fahs	Stamping			ST								In use								A60110822			
+ST-2013-01-15-710					2013	1	710.0			Brush Holder		1111111	B & D			V	21600.0						3.45	AVO Monterrey	Stamping			ST								In use								50-0692			
+ST-2016-01-30-711					2016	1	711.0	3200	EURO	Languettes connecteur EPSILON		6000000	NIDEC			V	18000.0						2.99	AVO El Fahs	Stamping			ST								In use								A872327K			
+TP-2016-04-80-712					2016	4	712.0	13200	EURO	CONNECTEUR 11TA EPSILON		4000000	NIDEC	Cold runner		H	3840.0						3.68	AVO El Fahs	Thermoplastic Injection			TP								In use								A60100477, A60100482			
+ST-2016-01-15-713					2016	1	713.0			Brush box		6000000	BOSCH			V	43200.0						4.14	AVO Monterrey	Stamping			ST								DFM / Kick off											
+ST-2016-01-15-714					2016	1	714.0			Terminal		6000000	BOSCH			V	43200.0						2.99	AVO Monterrey	Stamping			ST								DFM / Kick off											
+TP-2016-02-150-715					2016	2	715.0			Brush plate		12000000	BOSCH				1728.0						3.68	AVO Monterrey	Thermoplastic Injection			TP								DFM / Kick off											
+TP-2017-02-50-717					2017	2	717.0	16435	EURO	Connecteur surmoulé 11TA DUCATO (Bk)		1700000	NIDEC			H	2160.0						3.22	AVO El Fahs	Thermoplastic Injection			TP								In use								A60100041, AA17116846O			
+ST-2017-01-50-718					2017	1	718.0	23000	RmB	Insert Connecteur DUCATO - 11 TA		6000000	NIDEC			V	36000.0						2.99	AVO El Fahs	Stamping			ST								In use								A878422F			
+TP-2017-08-80-719					2017	8	719.0	88071	EURO	Brush plate reversible		16000000	VALEO	HR on part		H	14400.0						4.37	AVO El Fahs	Thermoplastic Injection			TP								In use								A60101910, A60101909, A60101920, A60101919			
+ST-2017-01-25-720					2017	1	720.0	81860.2	RmB	Terminal en CuZn37		30000000	VALEO			V	54000.0						3.22	AVO El Fahs	Stamping			ST								Mold scraped								A60101912			
+ST-2017-01-25-721					2017	1	721.0	73699.6	RmB	Brush box (reversible)		30000000	VALEO			V	54000.0						4.14	AVO El Fahs	Stamping			ST								Mold scraped								A60101911			
+TP-2017-16-120-722					2017	16	722.0	53100	EURO	VW retainer ring		28000000	VALEO	HR on mini sprue		H	43200.0						3.45	AVO El Fahs	Thermoplastic Injection			TP								In use								A60101914			
+ST-2017-01-30-723					2017	1	723.0	35000	RmB	Terminal Jumper		3000000	SB&D			V	54000.0						3.45	AVO Monterrey	Stamping			ST								In use								53-0763			
+ST-2017-01-30-724					2017	1	724.0	32000	RmB	Terminal		3000000	SB&D			V	54000.0						3.45	AVO Monterrey	Stamping			ST								In use								53-0760			
+ST-2017-01-30-725					2017	1	725.0	35000	RmB	Terminal		3000000	SB&D			V	54000.0						3.45	AVO Monterrey	Stamping			ST								In use								53-0761			
+ST-2017-01-30-726					2017	1	726.0	58000	RmB	Brush box		3000000	SB&D			V	54000.0						3.45	AVO Monterrey	Stamping			ST								In use								53-0762			
+ST-2017-01-30-727					2017	1	727.0	1090	USD	Spring brush		20000000	SB&D			V	54000.0							AVO Monterrey	Stamping			ST								DFM / Kick off								613625			
+TP-2017-08-75-728					2017	8	728.0	29044	USD	Brush plate FLEX		14000000	VALEO	HR on mini sprue		H	20329.0						4.37	AVO Monterrey	Thermoplastic Injection			TP								In use								16-0077			
+ST-2017-01-15-729					2017	1	729.0	20000	RmB	Lead frame FLEX - 2 versions 83/84 et 84/82/85		60000000	VALEO			V	54000.0						3.68	AVO Monterrey	Stamping			ST								In use								53-0765A, 53-0765B			
+ST-2017-02-45-730					2017	2	730.0	8300	USD	Spring leaf Flex		120000000	VALEO				432000.0						2.99	AVO Monterrey	Stamping			ST								In use								52-1725			
+TP-2017-04-100-731					2017	4	731.0	43900	USD	Brush Holder F552 overmolded		4000000	TRICO	HR on sprue		V	3086.0						3.91	AVO Monterrey	Thermoplastic Injection			TP								In use								16-0067, 16-0067M			
+TP-2017-04-75-732					2017	4	732.0	24650	EURO	CONNECTEUR MAZDA B2E 10C45		4000000	NIDEC	HR on sprue		H	3840.0						3.68	AVO El Fahs	Thermoplastic Injection			TP								In use								AA07106025G, AA08106056K, AA15106743U, AA15106744V, AA20106695N			
+ST-2017-02-80-733					2017	2	733.0			Platine bakelite MNG2		6000000	VALEO											AVO Kunshan	Stamping			ST								In use											
+ST-2017-02-80-734					2017	2	734.0			Platine bakelite MNG2E		6000000	VALEO										2.99	AVO El Fahs	Stamping			ST								Mold scraped								A60110801			
+ST-2017-02-80-735					2017	2	735.0			Platine bakelite MNG2E		6000000	VALEO										2.99	AVO El Fahs	Stamping			ST								In use								A60110801			
+ST-2017-02-80-736					2017	2	736.0			Brush plate bakelite VM4		6000000	VALEO										2.99	AVO El Fahs	Stamping			ST								Mold scraped								A60101132			
+ST-2017-03-80-737					2017	3	737.0	12329	EURO	Brush plate bakelite VM4		6000000	VALEO										2.99	AVO El Fahs	Stamping			ST								In use								A60101132			
+ST-2017-02-80-738					2017	2	738.0			Platine bakelite SW3		3000000	VALEO											AVO Kunshan	Stamping			ST								In use											
+ST-2017-02-80-739					2017	2	739.0			Platine bakelite SW4		3000000	VALEO											AVO Kunshan	Stamping			ST								In use											
+ST-2017-02-80-740					2017	2	740.0			Platine bakelite MNG2 3L2C		3000000	VALEO										2.99	AVO El Fahs	Stamping			ST								In use								A53290607			
+ST-2017-02-80-741					2017	2	741.0			Platine bakelite VM4 FIAT		3000000	VALEO										2.99	AVO El Fahs	Stamping			ST								In use								A60101647			
+ST-2017-02-80-742					2017	2	742.0			Platine bakelite PRB4		3000000	VALEO										2.99	AVO El Fahs	Stamping			ST								In use								A53290567			
+ST-2017-02-80-743					2017	2	743.0			Platine bakelite MNG3		3000000	VALEO										2.99	AVO El Fahs	Stamping			ST								In use								A53290737			
+ST-2017-02-80-744					2017	2	744.0			Platine bakelite MK		3000000	No tool owner										2.99	AVO El Fahs	Stamping			ST								In use								ZD1432-361A			
+ST-2017-02-80-745					2017	2	745.0			Platine bakelite 50-417		3000000	No tool owner										2.99	AVO Monterrey	Stamping			ST								In use											
+ST-2017-02-80-746					2017	2	746.0			Platine bakelite VM4 GEN1		3000000	VALEO											AVO Kunshan	Stamping			ST								In use											
+ST-2017-02-80-747					2017	2	747.0			Platine bakelite TRICO		3000000	TRICO										2.99	AVO Monterrey	Stamping			ST								In use											
+TP-2017-16-110-748					2017	16	748.0	18000	EURO	Trip ring		16000000	NIDEC			H	31418.0						3.22	AVO El Fahs	Thermoplastic Injection			TP								In use								A60101944			
+ST-2017-02-25-749					2017	2	749.0	24000	RmB	STECKER FL / male spade terminal 		16000000	NIDEC			V	96000.0						3.45	AVO El Fahs	Stamping			ST								In use								A60101935			
+ST-2017-02-25-750					2017	2	750.0	30400	RmB	STECKER FL1 /male spade terminal		16000000	NIDEC			V	96000.0						3.45	AVO El Fahs	Stamping			ST								In use								A60101936			
+ST-2017-02-25-751					2017	2	751.0	28000	RmB	Blech K0 / Ground contact		16000000	NIDEC			V	96000.0						3.45	AVO El Fahs	Stamping			ST								In use								A60101937			
+ST-2017-03-70-752					2017	3	752.0	7397	EURO	Platte Halte		6000000	NIDEC			H	185143.0						3.45	AVO El Fahs	Stamping			ST								In use								A60101930			
+TP-2017-02-35-753					2017	2	753.0	39340	EURO	GEHAEUSE HAUPTK		520000	NIDEC			H	3600.0						3.45	AVO El Fahs	Thermoplastic Injection			TP								In use								A60101931			
+TP-2017-08-75-754					2017	8	754.0	27400	EURO	Brush plate FLEX		14000000	VALEO	HR on mini sprue		H	20329.0						3.68	AVO El Fahs	Thermoplastic Injection			TP								Mold scraped								A60101260			
+ST-2017-01-15-755					2017	1	755.0	20000	RmB	Lead frame FLEX - 2 versions 83/84 et 84/82/85		60000000	VALEO			V	54000.0						2.99	AVO El Fahs	Stamping			ST								In use								A60101405, A60101406			
+ST-2000-01-15-756					2000	1	756.0			Cosse		1000000	No tool owner				54000.0							AVO El Fahs	Stamping			ST								In use											
+ST-2017-01-25-757					2017	1	757.0	30000	RmB	Terminal		2000000	BOSCH			V	54000.0						2.99	AVO Monterrey	Stamping			ST								DFM / Kick off								53-2003			
+CP-2017-196-90-758					2017	196	758.0	7500	RmB	Seal 1A		39200000	CYCLAM			V	47040.0							CYCLAM Amiens	Compression			CP								DFM / Kick off											
+CP-2017-64-90-759					2017	64	759.0	7566.911765	RmB	Membrane / bellow 12-30-10 (HNBR - NBR)		6400000	CYCLAM			V	9216.0							CYCLAM Amiens	Compression			CP								In use											
+ST-2017-02-25-760					2017	2	760.0	30000	RmB	Terminal		4000000	OHIO				108000.0						3.22	AVO Monterrey	Stamping			ST								In use								50-7672			
+TP-2017-08-80-761					2017	8	761.0	131950	EURO	GEHAEUSE HAUPTK		8000000	NIDEC	HR on mini sprue		H	14400.0						3.45	AVO El Fahs	Thermoplastic Injection			TP								In use								A60101931			
+TP-2017-02-60-762					2017	2	762.0	5800	EURO	Cavalier		600000	AVO Poitiers			H	3600.0						2.53	AVO El Fahs	Thermoplastic Injection			TP								In use								17002-900			
+TP-2017-08-180-763					2017	8	763.0	24500	EURO	Housing Continuous		8640000	VALEO	Cold sprue		H	24686.0						3.45	AVO El Fahs	Thermoplastic Injection			TP								In use								A60101134			
+TP-2017-08-180-764					2017	8	764.0	23500	EURO	Housing Reversible		8000000	VALEO	Cold sprue		H	20329.0						3.45	AVO El Fahs	Thermoplastic Injection			TP								In use								A60101136			
+ST-2017-01-80-765					2017	1	765.0	45500	RmB	Brush Holder VM4 (version with door closed)		20000000	VALEO				43200.0						4.14	AVO El Fahs	Stamping			ST								DFM / Kick off								A60100531			
+ST-2017-01-25-766					2017	1	766.0	28340	EURO	Contact Bronze VM4		50000000	VALEO			V	61714.0						2.76	AVO El Fahs	Stamping			ST								In use								A60100540			
+ST-2017-02-25-767					2017	2	767.0	36220	EURO	Lead Frame		200000000	VALEO				172800.0						2.99	AVO El Fahs	Stamping			ST								In use								A60101135			
+TP-2017-16-120-768					2017	16	768.0	100000	RmB	Trip ring SW4/VM4		16000000	VALEO			H	43200.0						2.99	AVO Kunshan	Thermoplastic Injection			TP								DFM / Kick off								A10210011, A60100532			
+ST-2017-01-60-769					2017	1	769.0	40600	RmB	SW4 Brass (CuZn37) contact		5000000	VALEO			V	43200.0						2.99	AVO Kunshan	Stamping			ST								DFM / Kick off								A10220008			
+TP-2017-04-80-770					2017	4	770.0	17000	EURO	"Connecteur B2E Metripack
+Connecteur 10C20 B2E"		4000000	NIDEC	Cold runner		H	8640.0						3.68	AVO El Fahs	Thermoplastic Injection			TP								In use								A60101415			
+TP-2005-04-60-771					2005	4	771.0			Connecteur 2 poles		0	FAURECIA				4800.0							AVO El Fahs	Thermoplastic Injection			TP								DFM / Kick off											
+ST-2017-02-60-772					2017	2	772.0	18170	EURO	Power insert right SIM2 (Elec)		20000000	INTEVA				172800.0						3.45	AVO El Fahs	Stamping			ST								In use								A60110903			
+ST-2017-01-60-773					2017	1	773.0	17070	EURO	Power insert left SIM2 (Elec)		20000000	INTEVA			V	172800.0						3.45	AVO El Fahs	Stamping			ST								In use								A60110904			
+ST-2017-01-60-774					2017	1	774.0	16700	EURO	Power insert SIM2 (Elec)		10000000	INTEVA			V	86400.0						3.45	AVO El Fahs	Stamping			ST								In use								A60110905			
+ST-2017-01-60-775					2017	1	775.0	17110	EURO	Connection SIM2 (Elec)		20000000	INTEVA			V	172800.0						3.45	AVO El Fahs	Stamping			ST								In use								A60110907			
+TP-2017-02-50-776					2017	2	776.0	57290	EURO	Boitier SIM2 (Elec)		2000000	INTEVA	HR direct on part		H	5082.0						4.37	AVO El Fahs	Thermoplastic Injection			TP								In use								A60110906			
+TS-2017-50-80-777					2017	50	777.0			DOPPEL NIPPEL		1500000	BOSCH	Cold runner			48000.0						2.76	AVO El Fahs	Thermoset Injection			TS								In use								A60101431			
+ST-2017-01-40-778					2017	1	778.0			DREMEL TERMINAL		5000000	BOSCH			V	43200.0						2.99	AVO Monterrey	Stamping			ST								In use								53-0714			
+TP-2017-04-120-779					2017	4	779.0	110000	RmB	Brush holder unit		4000000	Dong Yang	HR on mini sprue		V	2274.0						3.68	AVO Kunshan	Thermoplastic Injection			TP								In use								D11710002			
+ST-2017-01-60-780					2017	1	780.0	17764.05	RmB	terminal D		10000000	Dong Yang			V	45474.0						3.22	AVO Kunshan	Stamping			ST								Production end								D11720006			
+ST-2017-01-60-781					2017	1	781.0	17452.4	RmB	contact plate		10000000	Dong Yang			V	61714.0						3.22	AVO Kunshan	Stamping			ST								Production end								D11720008			
+ST-2017-01-60-782					2017	1	782.0	17140.75	RmB	terminal E		10000000	Dong Yang			V	61714.0						3.22	AVO Kunshan	Stamping			ST								Production end								D11720007			
+ST-2017-01-80-783					2017	1	783.0	25555.3	RmB	terminal A		10000000	Dong Yang			V	45474.0						3.22	AVO Kunshan	Stamping			ST								Production end								D11720003			
+ST-2017-01-60-784					2017	1	784.0	21815.5	RmB	terminal B		10000000	Dong Yang			V	45474.0						3.22	AVO Kunshan	Stamping			ST								Production end								D11720004			
+ST-2017-01-60-785					2017	1	785.0	20257.25	RmB	terminal C		10000000	Dong Yang			V	45474.0						3.22	AVO Kunshan	Stamping			ST								Production end								D11720005			
+CP-2017-88-150-786					2017	88	786.0	37850	EURO	Menbrane		18339992	CYCLAM			V	12672.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2017-80-150-787					2017	80	787.0	22000	EURO	Jonc		13500000	CYCLAM			V	11520.0							CYCLAM Amiens	Compression			CP								In use											
+TS-2017-84-40-788					2017	84	788.0	10500	EURO	Embout autorupteur		37800000	HILTI	Cold runner			106729.0						2.76	AVO El Fahs	Thermoset Injection			TS								In use								A6010719			
+ST-2017-01-15-789					2017	1	789.0	22000	RmB	Terminal		1200000	SB&D			V	54000.0						3.45	AVO Monterrey	Stamping			ST								In use								53-0746			
+ST-2017-01-110-790					2017	1	790.0	133900	RmB	Brush box (continu)		10000000	VALEO			V	54000.0						4.14	AVO El Fahs	Stamping			ST								Mold scraped								A60101924			
+ST-2017-01-35-791					2017	1	791.0	73800	RmB	Contact - tip		13000000	VALEO			V	54000.0						3.45	AVO El Fahs	Stamping			ST								In use								A60101921			
+ST-2017-01-80-792					2017	1	792.0	62400	RmB	Contact - tip		10000000	VALEO			V	54000.0						3.22	AVO El Fahs	Stamping			ST								In use								A60101922, A60101923			
+ST-2017-01-15-793					2017	1	793.0	7174	EURO	Deshuntage OVP 10T - 10C		10000000	AVO Tn			V	54000.0							AVO El Fahs	Stamping			ST								In use											
+TP-2017-02-25-794					2017	2	794.0	3800	USD	Plastic conector First		1000000	VALEO				7855.0							AVO Monterrey	Thermoplastic Injection			TP								In use											
+ST-2017-01-25-795					2017	1	795.0	38000	RmB	Plate (lower plate)		3000000	SB&D			V	54000.0						3.45	AVO Monterrey	Stamping			ST								DFM / Kick off								53-0767			
+ST-2017-01-25-796					2017	1	796.0	16000	RmB	Brush holder (top case)		3000000	SB&D			V	54000.0						3.45	AVO Monterrey	Stamping			ST								DFM / Kick off								53-0766			
+TP-2017-01-30-797					2017	1	797.0	10000	EURO	Capavaristance SHCV 4,7 µF		100000000	VALEO				54000.0						2.99	AVO El Fahs	Thermoplastic Injection			TP								DFM / Kick off								A60101926			
+ST-2017-01-00-798					2017	1	798.0	1350	EURO	Outil formage fil plat 1x3,6		100000000	CYCLAM			V							2.99	AVO Poitiers	Stamping			ST								DFM / Kick off											
+TP-2017-08-75-799					2017	8	799.0	28025	EURO	Brush plate FLEX		14000000	VALEO	HR on mini sprue		H	20329.0						3.68	AVO El Fahs	Thermoplastic Injection			TP								In use								A60101260			
+TP-2017-08-75-800					2017	8	800.0	26000	EURO	Brush plate FLEX		14000000	VALEO	HR on mini sprue		H	20329.0						3.68	AVO El Fahs	Thermoplastic Injection			TP								In use								A60101260			
+TP-2017-04-160-801					2017	4	801.0	37400	USD	GW BP left		4000000	VALEO	HR on sprue		H	8229.0						3.91	AVO Monterrey	Thermoplastic Injection			TP								In use								16-0021			
+TS-2017-04-75-802					2017	4	802.0	32000	RmB	Brush holder Stay		2000000	Dong Yang	Cold runner									3.68	AVO Kunshan	Thermoset Injection			TS								In use								D11710001			
+TP-2018-08-180-803					2018	8	803.0	228000	RmB	brush holder		8000000	Dong Chang			H							3.68	AVO Kunshan	Thermoplastic Injection			TP								In use								D21210002			
+ST-2018-01-50-804					2018	1	804.0	7000	RmB	Anneau de membrane NCP25		500000	JIANTONG			V	10800.0							CYCLAM Amiens	Stamping			ST								In use											
+TS-2018-04-150-805					2018	4	805.0	153000	RmB	Brush Holder EPS		2000000	TAIGENE	Cold runner		H	2304.0						3.22	AVO Kunshan	Thermoset Injection			TS								In use								O1810001			
+ST-2018-01-30-806					2018	1	806.0	15000	RmB	Fixing clip		3000000	TAIGENE				43200.0						3.45	AVO Kunshan	Stamping			ST								In use								O1820003			
+ST-2018-01-30-807					2018	1	807.0	25000	RmB	Connector (-)		10000000	TAIGENE				43200.0						3.45	AVO Kunshan	Stamping			ST								In use								O1820001			
+ST-2018-01-30-808					2018	1	808.0	25000	RmB	Connector (+)		10000000	TAIGENE				43200.0						3.45	AVO Kunshan	Stamping			ST								In use								O1820002			
+TS-2018-225-15-809					2018	225	809.0	6000	RmB	Bumper		11250000	JIANTONG	Cold runner		V	64800.0						2.76	AVO Kunshan	Thermoset Injection			TS								In use								O1880001			
+CP-2018-01-15-810					2018	1	810.0	3300	EURO	Rondelle de frottement NCP25		500000	COORSTEK			V	1440.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2018-01-15-811					2018	1	811.0	3400	EURO	Contre bague brute NCP25		500000	COORSTEK			V	1440.0							CYCLAM Amiens	Compression			CP								In use											
+TP-2017-04-100-812					2017	4	812.0	145000	RmB	Insulating part (Huayu brush card)		4000000	PIERBURG	Cold runner		H	4800.0						3.45	AVO Kunshan	Thermoplastic Injection			TP								In use								O1740002			
+ST-2017-01-110-813					2017	1	813.0	54000	RmB	motor contact		20000000	PIERBURG			V	54000.0						3.45	AVO Kunshan	Stamping			ST								In use								O1720002			
+ST-2017-02-110-814					2017	2	814.0	33000	RmB	motor contact		20000000	PIERBURG			V	54000.0						3.45	AVO Kunshan	Stamping			ST								In use								O1720003			
+ST-2017-02-110-815					2017	2	815.0	16000	RmB	Contact angle		20000000	PIERBURG			V	54000.0						3.45	AVO Kunshan	Stamping			ST								In use								O1720004			
+ST-2017-01-110-816					2017	1	816.0	52000	RmB	Brush bracket		20000000	PIERBURG			V	54000.0						3.45	AVO Kunshan	Stamping			ST								In use								O1720005			
+ST-2018-01-50-817					2018	1	817.0	28000	RmB	shunt terminal		3000000	TRICO				61714.0						2.99	AVO Monterrey	Stamping			ST								In use								53-0772			
+ST-2018-01-50-818					2018	1	818.0	78000	RmB	Brush tube		6000000	TRICO				54000.0						3.45	AVO Monterrey	Stamping			ST								In use								53-0773			
+TP-2018-04-50-819					2018	4	819.0	10800	USD	Cover left		4000000	TRICO				10165.0						4.37	AVO Monterrey	Thermoplastic Injection			TP								In use											
+TP-2018-04-50-820					2018	4	820.0	10800	USD	retainer		4000000	TRICO				10165.0						2.76	AVO Monterrey	Thermoplastic Injection			TP								In use											
+TP-2018-04-100-821					2018	4	821.0	22300	USD	Brush plate left		4000000	TRICO				8229.0						3.91	AVO Monterrey	Thermoplastic Injection			TP								In use											
+ST-2018-01-06-822					2018	1	822.0	23000	USD	Terminal		5000000	TRICO				54000.0						2.53	AVO Monterrey	Stamping			ST								DFM / Kick off								95041-1671			
+TP-2018-16-120-823					2018	16	823.0	29000	EURO	Trip ring SW4/VM4		28000000	VALEO	HR on mini sprue		H	43200.0						3.22	AVO El Fahs	Thermoplastic Injection			TP								In use								A60100532			
+ST-2018-01-35-824					2018	1	824.0	28000	RmB	Receptacle faston		2400000	SB&D				43200.0						2.76	AVO Monterrey	Stamping			ST								DFM / Kick off								61971			
+CP-2018-36-100-827					2018	36	827.0	1757.5	EURO	Menbrane NCP 25 (NBR + EPDM + HNBR)		5400000	CYCLAM			V	5184.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2018-36-100-828					2018	36	828.0	1757.5	EURO	Menbrane NCP 25 (FKM)		5400000	CYCLAM			V	5184.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2018-36-100-829					2018	36	829.0	1155	EURO	Jonc NCP 25 (NBR + EPDM + HNBR)		5400000	CYCLAM			V	5184.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2018-36-100-830					2018	36	830.0	1155	EURO	Jonc NCP 25 (FKM)		5400000	CYCLAM			V	5184.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2018-100-100-831					2018	100	831.0	1155	EURO	Jonc 12 JME (HNBR)		15000000	CYCLAM			V	24000.0							CYCLAM Amiens	Compression			CP								In use											
+TP-2018-08-35-832					2018	8	832.0	28000	RmB	Locking part		8000000	HENGTE	Cold runner		H	19200.0						3.68	AVO Kunshan	Thermoplastic Injection			TP								In use								O1880003			
+TP-2018-02-80-833					2018	2	833.0	156000	RmB	Brush card overmolding		3200000	HENGTE	cold runner		H	2160.0						3.68	AVO Kunshan	Thermoplastic Injection			TP								In use								O1880008			
+TP-2018-02-80-834					2018	2	834.0	89000	RmB	Seal overmolding		1600000	HENGTE	cold runner		H	2469.0						3.68	AVO Kunshan	Thermoplastic Injection			TP								In use								O1880005			
+ST-2018-01-40-835					2018	1	835.0	40000	RmB	Terminal		5000000	HENGTE			V	54000.0						3.45	AVO Kunshan	Stamping			ST								In use								O1820007			
+ST-2018-01-50-836					2018	1	836.0	53000	RmB	Brush box		5400000	HENGTE			V	51840.0						3.45	AVO Kunshan	Stamping			ST								In use								O1820005			
+ST-2018-01-150-837					2018	1	837.0	14800	USD	Brush tube		5000000	MILWAUKEE				61714.0						3.22	AVO Monterrey	Stamping			ST								In use								53-0777			
+ST-2018-01-150-838					2018	1	838.0	13800	USD	Brush tube		5000000	MILWAUKEE				61714.0						3.22	AVO Monterrey	Stamping			ST								In use								53-0775			
+TP-2018-08-80-839					2018	8	839.0	130000	RmB	Brush holder (421)		8000000	MELCO	HR direct on part		V	6912.0						3.68	AVO Kunshan	Thermoplastic Injection			TP								In use								O1810005			
+TP-2018-08-80-840					2018	8	840.0	110000	RmB	Slinger (421)		8000000	MELCO	HR on mini sprue		H	10800.0						3.68	AVO Kunshan	Thermoplastic Injection			TP								In use								O1810006			
+ST-2018-01-80-841					2018	1	841.0	91200	RmB	Brush tube		1000000	MILWAUKEE				61714.0						3.68	AVO Monterrey	Stamping			ST								Fine tuning								53-0776			
+ST-2017-01-50-842					2017	1	842.0	34000	RmB	Terminal D (earth)		2000000	Dong Yang			V	61714.0						3.68	AVO Kunshan	Stamping			ST								DFM / Kick off								D11720001			
+TP-2018-16-120-843					2018	16	843.0	16000	USD	SLEEVE		16000000	No tool owner	Cold runner		H	26585.0						3.45	AVO Monterrey	Thermoplastic Injection			TP								In use											
+TP-2018-04-80-844					2018	4	844.0	14500	EURO	Trip ring		4000000	NIDEC	Cold sprue		H	6646.0						3.22	AVO El Fahs	Thermoplastic Injection			TP								In use								A60101960			
+CP-2018-240-100-845					2018	240	845.0	2320	RmB	Plug Anti Dust		12000000	VALEO			V	25920.0							AVO El Fahs	Compression			CP								In use											
+TP-2002-01-60-846					2002	1	846.0			GRUNDPLATTE		30000	HILTI				758.0						3.45	AVO El Fahs	Thermoplastic Injection			TP								In use								A60100150			
+TP-2002-01-60-847					2002	1	847.0					30000	HILTI				1440.0						3.45	AVO El Fahs	Thermoplastic Injection			TP								In use								A60100250			
+TP-2009-01-60-848					2009	1	848.0					1000000	HILTI				1440.0						2.99	AVO El Fahs	Thermoplastic Injection			TP								In use								A60110746			
+TP-2018-08-120-849					2018	8	849.0	114130	EURO	Support (collector box NEM2 anti dust)		20000000	INTEVA	HR on part		H	14400.0						4.83	AVO El Fahs	Thermoplastic Injection			TP								In use								A60110816			
+CP-2018-80-250-850					2018	80	850.0	1900	EURO	Joint NEM 2		8000000	INTEVA			V	26585.0						2.3	AVO El Fahs	Compression			CP								In use								A60100058			
+TP-2018-04-75-851					2018	4	851.0	23000	EURO	CONNECTEUR DUCATO (Bk)		4000000	NIDEC	HR on mini sprue		H	6912.0						2.99	AVO El Fahs	Thermoplastic Injection			TP								In use								A60100139			
+ST-2018-02-60-852					2018	2	852.0	60000	RmB	Brush Holder VM4 (version with door open)		24000000	VALEO				72000.0						4.14	AVO Kunshan	Stamping			ST								In use								A10220004, A60100531			
+ST-2012-02-60-853					2012	2	853.0	48000	EURO	Connection NEM		100000000	INTEVA			V	108000.0						2.99	AVO El Fahs	Stamping			ST								In use								A60100356, A60100358			
+TP-2018-08-80-854					2018	8	854.0	40950	USD	Brush holder (421)		8000000	MELCO	HR on part		V	6912.0							AVO Monterrey	Thermoplastic Injection			TP								In use											
+TP-2018-08-80-855					2018	8	855.0	19000	USD	Slinger (421)		8000000	MELCO	HR on sprue		H	11520.0							AVO Monterrey	Thermoplastic Injection			TP								In use											
+TP-2018-04-120-856					2018	4	856.0	112500	RmB	Brush holder		4000000	TMG				5400.0						3.68	AVO Kunshan	Thermoplastic Injection			TP								Fine tuning								T31810001			
+ST-2018-01-70-857					2018	1	857.0	34000	RmB	Terminal B		2000000	TMG				54000.0						3.45	AVO Kunshan	Stamping			ST								In use								T31820002			
+ST-2018-01-70-858					2018	1	858.0	30000	RmB	Terminal A		2000000	TMG				54000.0						3.45	AVO Kunshan	Stamping			ST								In use								T31820001			
+ST-2019-01-70-859					2019	1	859.0	30000	RmB			2000000	Dong Yang				54000.0						3.22	AVO Kunshan	Stamping			ST								DFM / Kick off								T31820001			
+ST-2019-01-70-860					2019	1	860.0	30000	RmB			2000000	Dong Yang				54000.0						3.22	AVO Kunshan	Stamping			ST								DFM / Kick off								T31820001			
+ST-2019-01-70-861					2019	1	861.0	70000	RmB	Terminal A		2000000	Dong Yang				54000.0						3.22	AVO Kunshan	Stamping			ST								DFM / Kick off								T31820001			
+ST-2019-01-70-862					2019	1	862.0			Terminal B		2000000	Dong Yang				54000.0						2.99	AVO Kunshan	Stamping			ST								DFM / Kick off								T31820001			
+TP-2018-04-80-863					2018	4	863.0	47950	EURO	Brush mounting plate		4000000	NIDEC	HR on sprue		H	9600.0						4.37	AVO El Fahs	Thermoplastic Injection			TP								In use								A503.658			
+TP-2018-04-80-864					2018	4	864.0	107720	EURO	Brush mounting plate (green color)		13200000	NIDEC	HR on sprue		H	9600.0						4.37	AVO El Fahs	Thermoplastic Injection			TP								In use								A503.659, A503.675			
+ST-2018-04-80-865					2018	4	865.0	28500	EURO	contact plate		20000000	NIDEC				172800.0						3.45	AVO El Fahs	Stamping			ST								In use								A503.671, A503.672			
+ST-2018-01-80-866					2018	1	866.0	32300	EURO	contact plate		10000000	NIDEC			V	86400.0						3.45	AVO El Fahs	Stamping			ST								In use								A503.664, A503.666			
+ST-2018-01-80-867					2018	1	867.0	32300	EURO	power pin		10000000	NIDEC			V	86400.0						3.45	AVO El Fahs	Stamping			ST								In use								A503.663, A503.665			
+ST-2018-01-60-868					2018	1	868.0	25600	EURO	contact plate		10000000	NIDEC			V	86400.0						3.45	AVO El Fahs	Stamping			ST								In use								A503.667			
+ST-2018-01-60-869					2018	1	869.0	25600	EURO	contact plate		10000000	NIDEC			V	86400.0						3.45	AVO El Fahs	Stamping			ST								In use								A503.668			
+TP-2018-04-100-870					2018	4	870.0	43500	USD	Brush Holder F552 overmolded		4000000	TRICO	HR on sprue		V	3086.0							AVO Monterrey	Thermoplastic Injection			TP								In use											
+TS-2018-04-130-871					2018	4	871.0	27000	USD	Brush box		2000000	VALEO	Cold runner		H	3600.0						3.45	AVO Monterrey	Thermoset Injection			TS								DFM / Kick off								50-0428			
+TP-2018-08-80-872					2018	8	872.0	65000	EURO	Collector box		8000000	INTEVA	HR on part		H	16457.0						4.37	AVO El Fahs	Thermoplastic Injection			TP								In use								A60102000			
+ST-2018-01-80-873					2018	1	873.0	16026.33333	EURO	Power insert left		10000000	INTEVA				72000.0						2.99	AVO El Fahs	Stamping			ST								In use								A60102001, 53-0785 , A60102002, 53-0786			
+TP-2018-08-120-874					2018	8	874.0	114526	EURO	Commutator housing		8000000	INTEVA	HR on part		V	6912.0						4.83	AVO El Fahs	Thermoplastic Injection			TP								Production end								A60102010			
+TP-2018-08-80-875					2018	8	875.0	38100	EURO	Commutator housing (seal)		8000000	INTEVA	HR on sprue		H	6912.0						4.83	AVO El Fahs	Thermoplastic Injection			TP								Production end								A60102010			
+TP-2018-08-60-876					2018	8	876.0	8233	EURO	Agrafe - Clip		8000000	INTEVA	cold runner		H	16457.0						3.45	AVO El Fahs	Thermoplastic Injection			TP								Production end								A60102011			
+ST-2018-02-60-877					2018	2	877.0	15457.33333	EURO	Power insert right		20000000	INTEVA			V	144000.0						2.99	AVO El Fahs	Stamping			ST								In use								A60102012			
+ST-2018-02-60-878					2018	2	878.0	13334.33333	EURO	Power insert left		20000000	INTEVA				144000.0						2.99	AVO El Fahs	Stamping			ST								Production end								A60102013			
+ST-2018-01-25-879					2018	1	879.0	5154.333333	EURO	Ground connection		20000000	INTEVA			V	144000.0						2.99	AVO El Fahs	Stamping			ST								Production end								A60102014			
+ST-2018-02-25-880					2018	2	880.0	10475.33333	EURO	Connexion		20000000	INTEVA			V	144000.0						2.99	AVO El Fahs	Stamping			ST								Production end								A60102016			
+ST-2018-01-60-881					2018	1	881.0	13084	EURO	Overmolded contact		10000000	INTEVA			V	72000.0						2.99	AVO El Fahs	Stamping			ST								Production end								A60102017			
+ST-2018-01-25-882					2018	1	882.0	32000	RmB	Terminal E		20000000	MELCO			V	54000.0						3.45	AVO Monterrey	Stamping			ST								In use								53-0782			
+ST-2018-01-25-883					2018	1	883.0	34000	RmB	Terminal F		20000000	MELCO				54000.0						3.45	AVO Monterrey	Stamping			ST								In use								53-0783			
+TP-2019-04-40-884					2019	4	884.0	105000	RmB	DY brush holder unit (D15)		4000000	Dong Yang	HR on mini sprue		V							3.68	AVO Kunshan	Thermoplastic Injection			TP								Fine tuning								D11410001			
+TP-2019-04-40-885					2019	4	885.0	85000	RmB	DY brush holder U611 & U625		4000000	Dong Yang			V							3.68	AVO Kunshan	Thermoplastic Injection			TP								Fine tuning								D11810002			
+TP-2019-04-70-886					2019	4	886.0	35000	RmB	DY seal U625		4000000	Dong Yang	HR on mini sprue		H	2469.0						2.99	AVO Kunshan	Thermoplastic Injection			TP								Fine tuning								D11810002, D11810001			
+ST-2019-01-40-887					2019	1	887.0	70000	RmB	DY terminal A U611 & U625		2000000	Dong Yang			H	1080.0						3.22	AVO Kunshan	Stamping			ST								Fine tuning								D11820002			
+ST-2019-01-40-888					2019	1	888.0			DY terminal B U611 & U625		2000000	Dong Yang			H	1080.0						3.22	AVO Kunshan	Stamping			ST								Fine tuning								D11820003			
+ST-2019-01-50-889					2019	1	889.0	24850	EURO	Terminal male (en CuSn6)		50000000	VALEO			V	216000.0						3.45	AVO El Fahs	Stamping			ST								In use								A60101918			
+ST-2019-03-80-890					2019	3	890.0	60600	RmB	Brush plate bakelite VM4		9000000	VALEO				216000.0						2.99	AVO El Fahs	Stamping			ST								DFM / Kick off								A60101132			
+ST-2019-02-80-891					2019	2	891.0	48200	RmB	Plaquette Bakelite MNG2 Evolution 2L/2C		6000000	VALEO				144000.0						2.99	AVO Kunshan	Stamping			ST								In use								A60110801			
+TP-2008-08-60-892					2008	8	892.0	3500	USD	Trip ring		8000000	VALEO										3.45	AVO El Fahs	Thermoplastic Injection			TP								DFM / Kick off								A60101132			
+TP-2010-08-80-893					2010	8	893.0	9800	USD	HOUSING SW4		8000000	VALEO											AVO El Fahs	Thermoplastic Injection			TP								DFM / Kick off								T6J138Y01			
+TP-2019-04-100-894					2019	4	894.0	29050	EURO	INSULATING PART		4000000	PIERBURG	HR on part		H	6912.0						3.45	AVO El Fahs	Thermoplastic Injection			TP								Fine tuning								A60102040			
+ST-2019-01-60-895					2019	1	895.0	106700	RmB	Motor Kontakt 1		5000000	PIERBURG			V	54000.0						2.99	AVO El Fahs	Stamping			ST								In use								A60102041			
+ST-2019-01-80-896					2019	1	896.0	131700	RmB	Brush bracket		5000000	PIERBURG			V	54000.0						3.22	AVO El Fahs	Stamping			ST								In use								A60102045			
+ST-2019-01-60-897					2019	1	897.0	80100	RmB	VERDINDER		5000000	PIERBURG			V	54000.0						3.22	AVO El Fahs	Stamping			ST								In use								A60102043			
+TP-2019-02-60-898					2019	2	898.0	3883	EURO	MOUNTING BRACKET		1000000	PIERBURG	cold runner		H	3086.0						4.6	AVO El Fahs	Thermoplastic Injection			TP								In use											
+TS-2019-16-100-899					2019	16	899.0	34501,15	EURO	BRUSH BOX (N389709-C2D1)		7200000	B & D	Cold runner		H	9874.0						3.91	AVO Monterrey	Thermoset Injection			TS								In use								50-0733			
+TP-2019-06-85-900					2019	6	900.0	13000	USD	GW Brush retainer		6000000	VALEO	Cold runner		H	15247.0						2.76	AVO Monterrey	Thermoplastic Injection			TP								In use											
+CP-2019-72-250-901					2019	72	901.0	2250	EURO	Joint NEM 2		7200000	INTEVA			V	23926.0						2.3	AVO El Fahs	Compression			CP								Production end								A60100058			
+TP-2019-02-100-902					2019	2	902.0	29300	EURO	Brush holder 5AQGen3		2000000	RENAULT	HR on part		H	2469.0						3.68	AVO Poitiers	Thermoplastic Injection			TP								Production end								A60101609			
+ST-2019-01-80-903					2019	1	903.0	42000	RmB	Brush box back		1000000	DB&D				61714.0						4.14	AVO Monterrey	Stamping			ST								DFM / Kick off								50-0820 (ST1)			
+ST-2019-01-60-904					2019	1	904.0	30000	RmB	Brush box		1000000	DB&D				61714.0						4.14	AVO Monterrey	Stamping			ST								DFM / Kick off								50-0820 (ST2)			
+ST-2019-01-80-905					2019	1	905.0	38000	RmB	Brush box assy		1000000	DB&D				61714.0						4.14	AVO Monterrey	Stamping			ST								DFM / Kick off								50-0820			
+ST-2019-01-30-906					2019	1	906.0	35000	RmB	CAP, REV 12		5000000	AVO Mx				108000.0						2.53	AVO Monterrey	Stamping			ST								DFM / Kick off								53-0612			
+TP-2020-08-80-907					2020	8	907.0	12154	USD	Retainer TRICO		9600000	TRICO	cold runner		H	23040.0						2.76	AVO Monterrey	Thermoplastic Injection			TP								In use											
+ST-2019-02-30-908					2019	2	908.0	34000	RmB	Terminal A		10000000	Taygene			V	135000.0						3.45	AVO Kunshan	Stamping			ST								In use								T31920001			
+ST-2019-02-30-909					2019	2	909.0	34000	RmB	Terminal B		10000000	Taygene			V	135000.0						3.45	AVO Kunshan	Stamping			ST								In use								T31920002			
+ST-2019-02-30-910					2019	2	910.0	24000	RmB	Terminal C		10000000	Taygene			V	135000.0						3.45	AVO Kunshan	Stamping			ST								In use								T31920003			
+ST-2019-02-30-911					2019	2	911.0	28000	RmB	Terminal ground contact		10000000	Taygene			V	432000.0						3.45	AVO Kunshan	Stamping			ST								In use								T31920004			
+TP-2019-04-120-912					2019	4	912.0	156000	RmB	Brush holder		4000000	Taygene	HR on sprue		H	5574.0						3.68	AVO Kunshan	Thermoplastic Injection			TP								In use								T31910001			
+TP-2019-08-50-913					2019	8	913.0	50000	RmB	Cover		8000000	Taygene	Cold sprue		H	20329.0						3.68	AVO Kunshan	Thermoplastic Injection			TP								In use								T31910002			
+TP-2020-04-100-914					2020	4	914.0	36500	USD	Brush Holder F552 overmolded		4000000	TRICO	HR on sprue		V	3086.0							AVO Monterrey	Thermoplastic Injection			TP								In use											
+ST-2020-01-25-915					2020	1	915.0	46800	EURO	Lame lyre G		50000000	INTEVA			V	108000.0						3.68	AVO El Fahs	Stamping			ST								In use								A60101582			
+TP-2020-04-80-918					2020	4	918.0	24070	EURO	Connector 10C B479 FCA WD		4000000	NIDEC	HR on runner		H	4547.0						3.68	AVO El Fahs	Thermoplastic Injection			TP								In use								A60102090			
+CP-2019-01-150-919					2019	1	919.0	3050	EURO	Tray for SLIM AS		100000	INTEVA			V							1.84	AVO El Fahs	Compression			CP								In use								A20000305			
+CP-2019-01-150-920					2019	1	920.0	3050	EURO	Tray for SLIM Elec		100000	INTEVA			V							1.84	AVO El Fahs	Compression			CP								Production end								A20000306			
+CP-2019-01-150-939					2019	1	939.0	2220	EURO	tool for Deflashing trays		200000	INTEVA			V							1.84	AVO El Fahs	Compression			CP								In use											
+TP-2020-02-100-921					2020	2	921.0			Brush card		0	BOSCH			H								AVO Monterrey	Thermoplastic Injection			TP								In use											
+TP-2010-02-80-922					2010	2	922.0			Connecteur PI 6,3x0,8 Bk		0	NIDEC			H								AVO El Fahs	Thermoplastic Injection			TP								In use											
+ST-2020-02-60-923					2020	2	923.0	15000	RmB	Terminal		10000000	BOSCH			V	108000.0						3.45	AVO Monterrey	Stamping			ST								In use								53-0789			
+ST-2020-01-60-924					2020	1	924.0	52000	RmB	Brush box		5000000	BOSCH			V	54000.0						3.45	AVO Monterrey	Stamping			ST								In use								53-0790			
+ST-2020-01-110-925					2020	1	925.0	75000	RmB	Terminal A & B (D15)		20000000	Dong Yang			V							3.22	AVO Kunshan	Stamping			ST								In use								117041701 (D11410001), 117041602 (D11410001)			
+TP-2020-04-120-926					2020	4	926.0	200000	RmB	Overmolded Brush holder (D15)		8000000	Dong Yang	HR on sprue		V							3.68	AVO Kunshan	Thermoplastic Injection			TP								In use								D11410001			
+TP-2020-04-120-927					2020	4	927.0	60000	RmB	Overmolded Seal (D15)		8000000	Dong Yang	HR on sprue		V							3.68	AVO Kunshan	Thermoplastic Injection			TP								In use								D11410001			
+ST-2020-01-80-928					2020	1	928.0			Chemise / Sleeve		5000000	JIANTONG			V	11368.0							CYCLAM Amiens	Stamping			ST								In use											
+ST-2020-01-80-929					2020	1	929.0			Boitier / Retainer		5000000	JIANTONG			V	11368.0							CYCLAM Amiens	Stamping			ST								In use											
+ST-2020-01-80-930					2020	1	930.0			Anneau exterieur / Ferrule		5000000	JIANTONG			V	11368.0							CYCLAM Amiens	Stamping			ST								In use											
+ST-2020-01-80-931					2020	1	931.0			Anneau de membrane / Ferrule		5000000	JIANTONG			V	11368.0							CYCLAM Amiens	Stamping			ST								In use											
+TS-2020-08-120-932					2020	8	932.0	80000	RmB	Gasket LSR UP30		4000000	AVO Khs	Cold runner		V	2880.0						4.37	AVO Kunshan	Thermoset Injection			TS								In use								O1880009			
+TP-2020-04-80-933					2020	4	933.0	19980	EURO	Housing back up antenna		4000000	VALEO	HR on sprue		H	8229.0						3.68	AVO El Fahs	Thermoplastic Injection			TP								In use								A60102100			
+ST-2020-01-20-934					2020	1	934.0			Terminal back up antenna		10000000	VALEO			V	54000.0						2.99	AVO El Fahs	Stamping			ST								In use								A60102102			
+TP-2020-04-40-935					2020	4	935.0	12002	USD	Retainer/stopper		4000000	DONG YANG	cold runner		H	7855.0							AVO Monterrey	Thermoplastic Injection			TP								In use											
+TS-2020-96-75-936					2020	96	936.0	2700	EURO	Seal SIM2 (AS & Elec)		35000000	INTEVA	Cold runner		V	31832.0						2.76	AVO El Fahs	Thermoset Injection			TS								Mold scraped								A60110820			
+CP-2020-01-100-937					2020	1	937.0			Tray for SLIM Elec (1 way for Mx Shipment)		250000	INTEVA			V	227.0						2.07	AVO El Fahs	Compression			CP								Production end											
+TP-2020-16-75-938					2020	16	938.0	20000	EURO	Connecteur traversant 3 voies		16000000	VALEO			H	53169.0						2.99	AVO El Fahs	Thermoplastic Injection			TP								In use								A53841977			
+CP-2020-48-150-940					2020	48	940.0	1300	EURO	Below/membrane NCP Ø 16 (NBR)		4800000	CYCLAM			V	6912.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2020-48-150-941					2020	48	941.0	1600	EURO	Below/membrane NCP Ø 19 (NBR)		4800000	CYCLAM			V	6912.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2020-64-150-942					2020	64	942.0	900	EURO	Cup/jonc (NBR)		6400000	CYCLAM			V	9216.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2020-64-150-943					2020	64	943.0	900	EURO	Cup/jonc (NBR)		6400000	CYCLAM			V	9216.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2020-64-150-944					2020	64	944.0	1700	EURO	Cup inner ring / jonc interbague (NBR)		100000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2020-48-150-945					2020	48	945.0	1750	EURO	Below/membrane Hayward (NBR)		4800000	CYCLAM			V	6912.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2020-100-150-946					2020	100	946.0	1750	EURO	Seat ring (NBR)		100000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2020-64-150-947					2020	64	947.0	1700	EURO	Seat ring inter ring (NBR)		6400000	CYCLAM			V	9216.0							CYCLAM Amiens	Compression			CP								In use											
+ST-2020-01-150-948					2020	1	948.0	1160	EURO	Anneau de Membrane NCP18 (Inox 316L)		500000	JIANTONG			V	36000.0							CYCLAM Amiens	Stamping			ST								In use											
+ST-2020-01-150-949					2020	1	949.0	1670	EURO	Anneau de Membrane NCP19 (Inox 316L)		500000	JIANTONG			V	36000.0							CYCLAM Amiens	Stamping			ST								In use											
+ST-2020-01-150-950					2020	1	950.0	1772	EURO	Anneau de Membrane NCP (Inox 316L)		500000	JIANTONG			V	36000.0							CYCLAM Amiens	Stamping			ST								In use											
+ST-2020-01-150-951					2020	1	951.0	1772	EURO	Sleeve/chemise (Inox 316L)		600000	JIANTONG			V	43200.0							CYCLAM Amiens	Stamping			ST								In use											
+ST-2020-01-150-952					2020	1	952.0	920	EURO	Anneau de membrane (Inox 316L)		500000	JIANTONG			V	36000.0							CYCLAM Amiens	Stamping			ST								In use											
+ST-2020-01-150-953					2020	1	953.0	886	EURO	Anneau de membrane (Inox 316L)		500000	JIANTONG			V	36000.0							CYCLAM Amiens	Stamping			ST								In use											
+ST-2020-01-150-954					2020	1	954.0	2530	EURO	Sleeve/chemise (Inox 304)		600000	JIANTONG			V	43200.0							CYCLAM Amiens	Stamping			ST								In use											
+TS-2020-08-70-955					2020	8	955.0	2400	EURO	LPM Housing (A60102100)		2000000	VALEO	Cold runner		H	9874.0						2.76	AVO El Fahs	Thermoset Injection			TS								In use											
+ST-2020-01-50-956					2020	1	956.0	42000	RmB	Terminal A		10000000	DONG YANG			V	54000.0						3.22	AVO Monterrey	Stamping			ST								In use								53-0791			
+TP-2020-04-80-957					2020	4	957.0	43444	USD	Overmolded Brush holder		4000000	DONG YANG	HR on sprue		V	2274.0							AVO Monterrey	Thermoplastic Injection			TP								In use											
+TP-2020-04-80-958					2020	4	958.0	20600	USD	Overmolded Seal		4000000	DONG YANG	HR on mini sprue		H	4800.0							AVO Monterrey	Thermoplastic Injection			TP								In use											
+ST-2020-09-20-959					2020	9	959.0	300	EURO	Round foam		200000	VALEO			V							2.3	AVO El Fahs	Stamping			ST								In use								A60102103			
+ST-2020-28-20-960					2020	28	960.0	250	EURO	Rectangular foam		200000	VALEO			V							2.3	AVO El Fahs	Stamping			ST								In use								160102104			
+ST-2020-01-50-961					2020	1	961.0	40000	RmB	Terminal B		10000000	DONG YANG			V	54000.0						3.22	AVO Monterrey	Stamping			ST								In use								53-0792			
+CP-2020-04-150-962					2020	4	962.0			SEAT RING JONC 19-34-18 NDP (NBR)		400000	CYCLAM			V	576.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2020-04-150-963					2020	4	963.0			BELLOWS MEMBRANE 19-34-18 NDP (NBR)		400000	CYCLAM			V	576.0							CYCLAM Amiens	Compression			CP								In use											
+TP-2020-08-80-964					2020	8	964.0	59104	USD	Overmolded Brush holder (407)		8000000	MELCO			V								AVO Monterrey	Thermoplastic Injection			TP								Fine tuning											
+CP-2021-01-120-965					2021	1	965.0			Plateau thermoformé Back Up Antenna		75000	VALEO			V	1200.0						2.07	AVO El Fahs	Compression			CP								DFM / Kick off								A20000461			
+TS-2020-04-200-966					2020	4	966.0	135000	RmB	Brush-Plate		1600000	KINETEC	Cold runner		H	1440.0						3.45	AVO Monterrey	Thermoset Injection			TS								In use								16-0093			
+ST-2020-01-110-967					2020	1	967.0	1121	EURO	Ferrule / Anneau exterieure (Inox 409)		10000000	JIANTONG			V	28800.0							CYCLAM Amiens	Stamping			ST								In use											
+ST-2020-01-100-968					2020	1	968.0	1000	EURO	Seat / Contre bague brute (Inox 316)		10000000	JIANTONG			H	24000.0							CYCLAM Amiens	Stamping			ST								In use											
+ST-2020-01-80-969					2020	1	969.0	2233	EURO	Ferrule / Anneau de membrane (Inox 409)		10000000	JIANTONG			V	28800.0							CYCLAM Amiens	Stamping			ST								In use											
+ST-2020-01-125-970					2020	1	970.0	3860	EURO	Retainer / boitier (Inox 409)		10000000	JIANTONG			H	21600.0							CYCLAM Amiens	Stamping			ST								In use											
+ST-2021-01-60-971					2021	1	971.0	3860	EURO	Brush Box-base		2000000	KINETEC			V	21600.0						3.22	AVO Monterrey	Stamping			ST								In use								53-0796			
+ST-2021-01-45-972					2021	1	972.0	3860	EURO	Brush Box-horizontal wall		2000000	KINETEC			V	21600.0						3.45	AVO Monterrey	Stamping			ST								In use								53-0798			
+ST-2021-01-45-973					2021	1	973.0	3860	EURO	Brush Box-vertical wall		2000000	KINETEC			V	21600.0						3.45	AVO Monterrey	Stamping			ST								In use								53-0799			
+ST-2021-01-60-974					2021	1	974.0	3860	EURO	Brush Box-Cover		2000000	KINETEC			V	21600.0						3.45	AVO Monterrey	Stamping			ST								In use								53-0800			
+CP-2021-01-100-975					2021	1	975.0	2150	EURO	SLIM Elec (Mx deliveries) (ep 1,2) (27 location)		12000	INTEVA			V							2.07	AVO El Fahs	Compression			CP								Production end								A20000308			
+TP-2021-04-100-976					2021	4	976.0	20800	USD	Brush plate left		4000000	TRICO	HR on sprue		H	6646.0							AVO Monterrey	Thermoplastic Injection			TP								In use											
+TP-2021-02-100-977					2021	2	977.0			Brush holder		2000000	BOSCH	cold sprue		H	2880.0						2.76	AVO Monterrey	Thermoplastic Injection			TP								In use											
+ST-2021-01-125-978					2021	1	978.0	3860	EURO	Unitiser sleeve		10000000	JIANTONG			V	21600.0							CYCLAM Amiens	Stamping			ST								In use											
+ST-2021-01-125-979					2021	1	979.0	3860	EURO	Unitiser sleeve		10000000	JIANTONG			V	21600.0							CYCLAM Amiens	Stamping			ST								In use											
+TP-2021-08-80-980					2021	8	980.0	110000	RmB	Brush holder		8000000	MITSUBISHI	HR on sprue		V	9874.0						3.91	AVO Kunshan	Thermoplastic Injection			TP								In use								O1610003			
+TP-2021-08-40-981					2021	8	981.0	200000	RmB	Slinger		8000000	MITSUBISHI	HR on runner		H	10473.0						3.91	AVO Kunshan	Thermoplastic Injection			TP								In use								O1610004			
+CP-2021-01-40-982					2021	1	982.0					100000	CYCLAM			V	831.0							CYCLAM Amiens	Compression			CP								DFM / Kick off											
+CP-2021-XX-100-983					2021	XX	983.0			Jonc 12 LV (HNBR)		15000000	CYCLAM			V	24000.0							CYCLAM Amiens	Compression			CP								In use											
+ST-2021-01-100-984					2021	1	984.0	34200	EURO	Lower brush box		12000000	E-motor			V	35410.0						3.22	AVO Poitiers	Stamping			ST								Fine tuning								A60102200			
+ST-2021-01-60-985					2021	1	985.0	21000	EURO	Upper brush box		12000000	E-motor			V	144000.0						3.22	AVO Poitiers	Stamping			ST								Fine tuning								A60102201			
+TP-2021-02-60-986					2021	2	986.0	8654	EURO	Retainer		10000000	E-motor	cold sprue		H	2880.0						3.45	AVO Poitiers	Thermoplastic Injection			TP								In use								A60102202			
+ST-2021-01-100-987					2021	1	987.0	51000	RmB	Lower brush box		2000000	E-motor			V	43200.0						3.22	AVO Poitiers	Stamping			ST								Fine tuning								A60102200			
+ST-2021-01-60-988					2021	1	988.0	40000	RmB	Upper brush box		2000000	E-motor			V	43200.0						3.22	AVO Poitiers	Stamping			ST								Fine tuning								A60102201			
+CP-2021-01-100-989					2021	1	989.0	2440	EURO	Plateau alveolé ep 2		200000	E-motor			V	43200.0						1.84	AVO El Fahs	Compression			CP								In use								A20000460			
+ST-2021-02-100-990					2021	2	990.0	50000	RmB	Terminal E		80000000	MITSUBISHI			V	172800.0							AVO Kunshan	Stamping			ST								DFM / Kick off								O1620003			
+CP-2021-01-80-991					2021	1	991.0	2440	EURO	Contre bague brute 20NCP		200000	COORSTEK			V	43200.0							CYCLAM Amiens	Compression			CP								DFM / Kick off											
+CP-2021-01-80-992					2021	1	992.0	6488.6	EURO	Contre bague brute 16 JME		20000000	COORSTEK			V	43200.0							CYCLAM Amiens	Compression			CP								DFM / Kick off											
+CP-2021-36-100-993					2021	36	993.0	1400	USD	Below / membrane		2160000	CYCLAM			V	8640.0							CYCLAM Amiens	Compression			CP								DFM / Kick off											
+CP-2021-36-100-994					2021	36	994.0			seat / Jonc		2160000	CYCLAM			V	8640.0							CYCLAM Amiens	Compression			CP								DFM / Kick off											
+ST-2021-01-125-995					2021	1	995.0	866	EURO	Anneau de membrane		1000000	CYCLAM			V	21600.0							CYCLAM Amiens	Stamping			ST								In use											
+TP-2007-04-95-					2007	4				CONNECTEUR MAZDA B2E 10C40 & 10C45		0												AVO El Fahs	Thermoplastic Injection			TP																AA07106025G, AA08106056K			
+TS-2021-04-280-996					2021	4	996.0	150000	RmB	Brush holder		2000000	AVO Kunshan	Cold runner		H	2160.0						3.22	AVO Kunshan	Thermoset Injection			TS								Fine tuning								O1810001			
+ST-2013-01-25-1008					2013	1	1008.0			Inserts connecteur CMF1		21750000	NIDEC			V	54000.0						2.99	AVO El Fahs	Stamping			ST								In use								A12106528J			
+ST-2021-0-0-999					2021	0	999.0			DRIVE BAND		0												CYCLAM Amiens	Stamping			ST																			
+ST-2021-0-0-1000					2021	0	1000.0			Brush holder		0												AVO Kunshan	Stamping			ST																O1610001			
+TP-2021-04-160-1000					2021	4	1000.0	225000	RmB	Brush holder		4000000	AVO Carbon	HR on part		V	3456.0						3.91	AVO Kunshan	Thermoplastic Injection			TP								Fine tuning								O1610001			
+ST-2021-0-0-1001					2021	0	1001.0			Rubber seal		0												AVO Kunshan	Stamping			ST																O2180002			
+CP-2021-220-250-1001					2021	220	1001.0	9500	RmB	Rubber seal		5830000	AVO carbon			V	31680.0						2.53	AVO Kunshan	Compression			CP								DFM / Kick off								O2180002			
+CP-2021-16-300-1002					2021	16	1002.0	1200	USD	Membrane / BELLOWS		32000	CYCLAM			V	2765.0							CYCLAM Amiens	Compression			CP								DFM / Kick off											
+CP-2021-16-250-1003					2021	16	1003.0			Jonc / CUP RING		32000	CYCLAM			V	3142.0							CYCLAM Amiens	Compression			CP								DFM / Kick off											
+ST-2021-01-60-999					2021	1	999.0	1070	EURO	Drive Band		6000	CYCLAM			V	4320.0							CYCLAM Amiens	Stamping			ST								In use											
+ST-2022-0-0-1004					2022	0	1004.0			SEAL NEM2		0												AVO El Fahs	Stamping			ST																A60100058			
+CP-2022-70-250-1004					2022	70	1004.0	3100	EURO	SEAL		7000000	INTEVA			V	13745.0						2.3	AVO El Fahs	Compression			CP								In use								A60100058			
+ST-2022-0-0-1006					2022	0	1006.0			Shell upper & lower		0												AVO Kunshan	Stamping			ST																D02180058			
+TP-2022-02-50-1006					2022	2	1006.0	9800	RmB	Shell upper & lower		10000000	AVO Kunshan	Cold sprue		H	4800.0						3.45	AVO Kunshan	Thermoplastic Injection			TP								In use								A12130028			
+ST-2022-0-0-1007					2022	0	1007.0			Shell upper & lower		0												AVO Kunshan	Stamping			ST																A12130017			
+TP-2022-02-50-1007					2022	2	1007.0	10600	RmB	Shell upper & lower		10000000	AVO Kunshan	Cold sprue		H	4800.0						2.76	AVO Kunshan	Thermoplastic Injection			TP								In use								A12130017			
+TP-2022-08-120-1005					2022	8	1005.0	120000	EURO	CbX NEM 2 AD		16000000	INTEVA	HR direct on part		H	14400.0						4.83	AVO El Fahs	Thermoplastic Injection			TP								Fine tuning								A60110816			
+TS-2022-24-120-1009					2022	24	1009.0			NIPPEL		6000000	AVO Frankfurt	Cold runner		H	25920.0						3.45	AVO Tianjin	Thermoset Injection			TS								In use								17054			
+ST-2022-01-80-1010					2022	1	1010.0	3400	USD	Left hand leadframe (blanck stamping)		6000000	TRICO			V	43200.0						2.99	AVO Monterrey	Stamping			ST								Mold scraped								53-0820			
+ST-2022-01-10-1011					2022	1	1011.0			Left hand leadframe (bending)		6000000	TRICO			V	43200.0							AVO Monterrey	Stamping			ST								Mold scraped											
+TP-2022-04-100-1012					2022	4	1012.0	38700	USD	Brush holder F552		4000000	TRICO	HR on sprue		V	2880.0							AVO Monterrey	Thermoplastic Injection			TP								Mold scraped											
+TP-2022-08-65-1013					2022	8	1013.0	14850	EURO	Wear insert		2400000	AVO Carbon France	Cold sprue		H	8640.0							AVO Kunshan	Thermoplastic Injection			TP								Fine tuning											
+ST-2022-0-0-1014					2022	0	1014.0			Brush box		0												AVO El Fahs	Stamping			ST																A60101911			
+ST-2022-01-80-1014					2022	1	1014.0	39000	EURO	Brush Box (reversible version)		5000000	VALEO			V	108000.0						4.14	AVO El Fahs	Stamping			ST								In use								A60101911			
+ST-2022-01-80-1015					2022	1	1015.0	39000	EURO	Brush box (continu version)		60000000	VALEO			V	108000.0						4.14	AVO El Fahs	Stamping			ST								In use								A60101924			
+ST-2022-01-80-1017					2022	1	1017.0			SMART Motor PCB		0												AVO Kunshan	Stamping			ST																			
+ST-2022-06-80-1017					2022	6	1017.0	8000	RmB	SMART Motor PCB 		1200000	AVO Carbon			V	259200.0						2.99	AVO Kunshan	Stamping			ST								DFM / Kick off								S11330023			
+ST-2022-0-0-1018					2022	0	1018.0			PCB common choke		0												AVO Kunshan	Stamping			ST																P9023			
+ST-2022-06-150-1018					2022	6	1018.0	4500	RmB	PCB common choke		600000	MAHLE			V	129600.0						2.76	AVO Kunshan	Stamping			ST								DFM / Kick off								P9023			
+ST-2022-06-150-1019					2022	6	1019.0	4501	RmB	PCB common choke		600000	MAHLE			V	129600.0						2.76	AVO Kunshan	Stamping			ST								DFM / Kick off								P9025			
+ST-2022-06-150-1020					2022	6	1020.0			PCB common choke		600000	MAHLE			V	129600.0						2.76	AVO Kunshan	Stamping			ST								DFM / Kick off								P9034			
+ST-2022-08-150-1021					2022	8	1021.0	3540	RmB	PCB CMC#5_BASE		600000	MAHLE			V	230400.0						2.99	AVO Kunshan	Stamping			ST								DFM / Kick off								P9038			
+TP-2022-08-120-1022					2022	8	1022.0	76500	EURO	Brush plate continu		12000000	VALEO	HR direct on part		H	15709.0						4.37	AVO El Fahs	Thermoplastic Injection			TP								Fine tuning								A60101920, A60101910			
+TP-2022-04-100-1023					2022	4	1023.0	3500	RmB	Half#1 casing Core GR4210		1200000	MAHLE	cold runner		H	6171.0						2.53	AVO Kunshan	Thermoplastic Injection			TP								DFM / Kick off								462515-1			
+TP-2022-04-100-1024					2022	4	1024.0	3500	RmB	Half#2 casing Core GR4210		1200000	MAHLE	Cold sprue		H	6171.0						2.53	AVO Kunshan	Thermoplastic Injection			TP								DFM / Kick off								462515-2			
+TP-2022-12-100-1025					2022	12	1025.0	3000	RmB	Separator casing Core GR4210		3600000	MAHLE	Cold sprue		H	18514.0						2.53	AVO Kunshan	Thermoplastic Injection			TP								DFM / Kick off								462515-3			
+ST-2022-01-25-1026					2022	1	1026.0	3400	EURO	Terminal back up antenna		30000000	AVO			H	43200.0						2.99	AVO El Fahs	Stamping			ST								DFM / Kick off								A60102102			
+TP-2009-16-100-1028					2009	16	1028.0			SLEEVE		16000000	TI	Cold sprue		H	25600.0						3.68	AVO Monterrey	Thermoplastic Injection			TP								In use								50-0579			
+TP-2022-04-100-1029					2022	4	1029.0	23500	USD	Housing		4000000	BOSCH	HR on sprue		H	12343.0						2.76	AVO Monterrey	Thermoplastic Injection			TP								DFM / Kick off								50-0656			
+TP-2022-04-100-1030					2022	4	1030.0			Cover		4000000	BOSCH	HR on sprue		H	12343.0						2.99	AVO Monterrey	Thermoplastic Injection			TP								DFM / Kick off								50-0657			
+TP-2022-01-80-1031					2022	1	1031.0	12000	RmB	Set of 3 parts (casing - plate - separator)		1200000	MAHLE	Cold sprue		H	3600.0						2.76	AVO Kunshan	Thermoplastic Injection			TP								DFM / Kick off								453015			
+TP-2022-02-50-1032					2022	2	1032.0	12000	RmB	Set of 3 parts (shell - plate - separator)		1200000	MAHLE	Cold sprue		H	3600.0						2.76	AVO Kunshan	Thermoplastic Injection			TP								DFM / Kick off								453016			
+TP-2022-02-50-1033					2022	2	1033.0	4800	RmB	Top shell		2000000	MAHLE	Cold sprue		H	4320.0						2.53	AVO Kunshan	Thermoplastic Injection			TP								DFM / Kick off								23-34-8-1			
+TP-2022-02-50-1034					2022	2	1034.0	3000	RmB	Bottom Shell		2000000	MAHLE	Cold sprue		H	4320.0						2.53	AVO Kunshan	Thermoplastic Injection			TP								DFM / Kick off								23-34-8-2			
+TP-2022-02-50-1035					2022	2	1035.0	1800	RmB	Separator		2000000	MAHLE	Cold sprue		H	5760.0						2.53	AVO Kunshan	Thermoplastic Injection			TP								DFM / Kick off								23-34-8-3			
+TP-2022-02-50-1036					2022	2	1036.0	5200	RmB	Top Shell		2000000	MAHLE	Cold sprue		H	4320.0						2.53	AVO Kunshan	Thermoplastic Injection			TP								DFM / Kick off								28-43-12-1			
+TP-2022-02-50-1037					2022	2	1037.0	3200	RmB	Bottom Shell		2000000	MAHLE	Cold sprue		H	4320.0						2.53	AVO Kunshan	Thermoplastic Injection			TP								DFM / Kick off								28-43-12-2			
+TP-2022-02-50-1038					2022	2	1038.0	1900	RmB	Separator		2000000	MAHLE	Cold sprue		H	5760.0						2.53	AVO Kunshan	Thermoplastic Injection			TP								DFM / Kick off								28-43-12-3			
+TP-2022-02-60-1039					2022	2	1039.0	12000	RmB	Plastic shell		600000	MAHLE	Cold sprue		H	3323.0						2.76	AVO Kunshan	Thermoplastic Injection			TP								DFM / Kick off											
+ST-2022-08-150-1040					2022	8	1040.0			Printed Circuit Board		6400000	MAHLE			V	20329.0						2.76	AVO Kunshan	Stamping			ST								DFM / Kick off											
+TP-2022-02-150-1041					2022	2	1041.0	23550	USD	Base plate		1600000	BOSCH	Cold sprue		H	3086.0						3.22	AVO Monterrey	Thermoplastic Injection			TP								In use								50-0753			
+ST-2022-01-40-1045					2022	1	1045.0	2623,46	USD	Brush Box sub-assy		400000	KINETEC			V	10800.0							AVO Monterrey	Stamping			ST								DFM / Kick off											
+ST-2022-01-80-1046					2022	1	1046.0	4475,31	USD	BrushBox Base		800000	KINETEC			V	36000.0						3.22	AVO Monterrey	Stamping			ST								DFM / Kick off								53-0802			
+ST-2022-01-80-1047					2022	1	1047.0	5709,88	USD	Brush box upper		800000	KINETEC			V	36000.0						3.22	AVO Monterrey	Stamping			ST								DFM / Kick off								53-0803			
+ST-2022-0-0-1048					2022	0	1048.0			Brush box sub assy		0												AVO Monterrey	Stamping			ST																			
+ST-2022-01-40-1048					2022	1	1048.0	2623,46	USD	Brush box sub assy		400000	KINETEC			V	10800.0							AVO Monterrey	Stamping			ST								DFM / Kick off											
+ST-2022-01-80-1049					2022	1	1049.0	2380	USD	Brush Box base		800000	KINETEC	Cold sprue		V	36000.0						3.22	AVO Monterrey	Stamping			ST								DFM / Kick off								53-0796			
+ST-2022-01-80-1050					2022	1	1050.0	4629,6	USD	Brush box upper		800000	KINETEC			V	36000.0						3.22	AVO Monterrey	Stamping			ST								DFM / Kick off								53-0797			
+TP-2022-04-50-1051					2022	4	1051.0	21370	EURO	Isolator CMC DCLV OBC2P		4000000	MAHLE	Cold sprue		H	11520.0						2.53	AVO El Fahs	Thermoplastic Injection			TP								In use								A14396733			
+ST-2012-01-60-1042					2012	1	1042.0			Lead frame TRICO		5000000	TRICO			V	21600.0						2.99	AVO Monterrey	Stamping			ST								In use								50-0771 (ST)			
+ST-2012-01-60-1043					2012	1	1043.0			Lead frame TRICO		5000000	TRICO			V	14400.0						2.99	AVO Monterrey	Stamping			ST								In use								50-0771			
+TP-2022-08-120-1044					2022	8	1044.0	100000	EURO	Commutator Housing SIM2 (AS)		16000000	INTEVA	HR direct on part		H	20329.0						4.83	AVO El Fahs	Thermoplastic Injection			TP								In use								A60110819			
+ST-1995-04-35-173					1995	4	173.0			SUPPORT A BORNE PR/GR 24V NOIR		80000000	VALEO			V	288000.0						2.99	AVO El Fahs	Stamping			ST								Mold scraped											
+TP-1995-16-50-173					1995	16	173.0			SUPPORT A borne PR/GR 24V NOIR		24000000	VALEO	Cold runner		V	34560.0						2.99	AVO El Fahs	Thermoplastic Injection			TP								Production end								A53350796			
+ST-2022-01-40-1052					2022	1	1052.0	65000	RmB	Brush box		10000000	NIDEC			V	43200.0						4.14	AVO Kunshan	Stamping			ST								In use								N111200001			
+ST-2022-01-40-1053					2022	1	1053.0	9700	USD	Terminal A		10000000	Dong Yang			V	43200.0						2.99	AVO Monterrey	Stamping			ST								DFM / Kick off								53-0826			
+ST-2022-01-40-1054					2022	1	1054.0	4300	USD	Terminal B		10000000	Dong Yang			V	43200.0						2.99	AVO Monterrey	Stamping			ST								DFM / Kick off								53-0827			
+ST-2022-01-40-1055					2022	1	1055.0	4000	USD	Terminal C		10000000	Dong Yang			V	43200.0						2.99	AVO Monterrey	Stamping			ST								DFM / Kick off								53-0828			
+ST-2022-01-40-1056					2022	1	1056.0			Terminal D		10000000	Dong Yang			V	43200.0						2.99	AVO Monterrey	Stamping			ST								DFM / Kick off								53-0829			
+ST-2022-01-80-1059					2022	1	1059.0	3400	USD	Contact plate		10000000	Dong Yang			V	43200.0						3.45	AVO Monterrey	Stamping			ST								DFM / Kick off								53-0831			
+ST-2022-01-80-1058					2022	1	1058.0	3400	USD	Terminal E		10000000	Dong Yang			V	43200.0						2.99	AVO Monterrey	Stamping			ST								DFM / Kick off								53-0830			
+TP-2022-04-80-1057					2022	4	1057.0			Brush holder unit		4000000	Dong Yang	HR on sprue		V	5400.0						2.99	AVO Monterrey	Thermoplastic Injection			TP								In use											
+TS-2011-24-150-1060					2011	24	1060.0	3155	EURO	Jonc - Cup		75000	CYCLAM	Cold runner		V	5184.0							CYCLAM Amiens	Thermoset Injection			TS								In use											
+TS-2022-24-150-1061					2022	24	1061.0	3155	EURO	Jonc - Cup		75000	CYCLAM	Cold runner		V	5184.0							CYCLAM Amiens	Thermoset Injection			TS								DFM / Kick off											
+ST-1999-01-5-1062					1999	1	1062.0			LH LEAD FRAME WITH GROUND(NEW) (separation)		50000000	VALEO			V	36000.0							AVO Monterrey	Stamping			ST								In use											
+ST-1999-01-5-1063					1999	1	1063.0			RH LEAD FRAME WITH GROUND(NEW) (separation)		50000000	VALEO			V	36000.0							AVO Monterrey	Stamping			ST								In use											
+ST-2023-01-80-1063					2023	1	1063.0	41000	RmB	Terminal		10000000	BYD			V	21600.0						2.99	AVO Kunshan	Stamping			ST								In use								B32370002, B32370003			
+TP-2023-08-180-1064					2023	8	1064.0	90000	RmB	Motor anti jamming shell		8000000	BYD	HR on sprue		H	13824.0						3.68	AVO Kunshan	Thermoplastic Injection			TP								Fine tuning								B32310001			
+ST-2023-01-80-1065					2023	1	1065.0	24000	RmB	Terminal right		10000000	BYD			V	21600.0						2.99	AVO Kunshan	Stamping			ST								In use								B32370003, B32370002			
+ST-2023-01-80-1066					2023	1	1066.0	41000	RmB	Grounding blade		10000000	BYD			V	21600.0						3.45	AVO Kunshan	Stamping			ST								DFM / Kick off								B32370001			
+CP-2010-01-120-1067					2010	1	1067.0	4500	EURO	Rondelle de frottement		10000000	CYCLAM			V	2040.0							CYCLAM Amiens	Compression			CP								DFM / Kick off											
+ST-2023-0-0-1068					2023	0	1068.0					0												CYCLAM Amiens	Stamping			ST																			
+ST-2023-01-80-1068					2023	1	1068.0	2250	EURO	Anneau de membrane		5000000	CYCLAM			V	8571.0							CYCLAM Amiens	Stamping			ST								In use											
+ST-2023-01-80-1069					2023	1	1069.0	1130	EURO	Entretoise		2000000	CYCLAM			V	2857.0							CYCLAM Amiens	Stamping			ST								In use											
+TP-2023-08-120-1070					2023	8	1070.0	515300	RmB	Collector box no dust		16000000	INTEVA	HR direct on part		H	16457.0							AVO Kunshan	Thermoplastic Injection			TP								Production end											
+ST-2023-01-60-1071					2023	1	1071.0	5900	USD	TERMINAL CONNECT A		10000000	Dong Yang			V	36000.0						3.22	AVO Monterrey	Stamping			ST								DFM / Kick off								53-0832			
+ST-2023-01-60-1072					2023	1	1072.0	6400	USD	TERMINAL Connect B		10000000	DY			V	36000.0						3.22	AVO Monterrey	Stamping			ST								DFM / Kick off								53-0833			
+ST-2023-01-60-1073					2023	1	1073.0	7800	USD	BrushBox		10000000	DY			V	36000.0						4.14	AVO Monterrey	Stamping			ST								DFM / Kick off								53-0834			
+TS-2023-04-50-1074					2023	4	1074.0	3700	USD	Graphit Bearing		1600000	AVO Carbon Plast	Cold sprue		H	7855.0						4.37	AVO El Fahs	Thermoset Injection			TS								Fine tuning											
+TP-2023-04-90-1075					2023	4	1075.0	16000	USD	Bearing Sheet		4000000	DY Auto Mexico 	Cold sprue		H	6400.0							AVO Monterrey	Thermoplastic Injection			TP								In use											
+ST-2012-01-60-1076					2012	1	1076.0			Contact plate		10000000	VALEO			V	36000.0						3.45	AVO Kunshan	Stamping			ST								In use								A10220005			
+ST-2014-01-60-1077					2014	1	1077.0			PFC terminal		10000	Dong Yang			V	36000.0						3.45	AVO Kunshan	Stamping			ST								In use								D11320013			
+ST-2014-01-60-1078					2014	1	1078.0			PFC terminal		1000000	Dong Yang			V	36000.0						3.45	AVO Kunshan	Stamping			ST								In use								D11320014			
+ST-2015-01-60-1079					2015	1	1079.0			Brush box		10000000	Dong Yang			V	36000.0						3.45	AVO Kunshan	Stamping			ST								In use								D11520001			
+ST-2013-01-60-1080					2013	1	1080.0			Brush Box A		10000000	UP28			V	36000.0						3.22	AVO Kunshan	Stamping			ST								In use								D21220007			
+ST-2014-01-60-1081					2014	1	1081.0			Brush Box B		10000000	UP28			V	36000.0						3.22	AVO Kunshan	Stamping			ST								In use								D21220007			
+ST-2014-01-60-1082					2014	1	1082.0			Copper plate		10000000	UP28			V	36000.0						3.45	AVO Kunshan	Stamping			ST								In use								D21220008			
+ST-2014-01-60-1083					2014	1	1083.0			Terminal-Female		10000000	VALEO			V	36000.0						3.45	AVO Kunshan	Stamping			ST								In use								V11460001			
+ST-2015-01-60-1084					2015	1	1084.0			LEAD FRAME		10000000	VALEO			V	36000.0						3.45	AVO Kunshan	Stamping			ST								In use								V11520001			
+ST-2017-01-60-1085					2017	1	1085.0			Terminal-Fe		10000000	VALEO			V	36000.0						3.45	AVO Kunshan	Stamping			ST								In use								V11620001			
+ST-2017-01-60-1086					2017	1	1086.0			Brush box		10000000	VALEO			V	36000.0						3.45	AVO Kunshan	Stamping			ST								In use								V11620002			
+ST-2014-01-60-1087					2014	1	1087.0			Brush box		10000000	VALEO			V	54000.0						3.45	AVO Kunshan	Stamping			ST								In use								A60110800			
+TS-2023-04-50-1088					2023	4	1088.0	5800	USD	Graphit Bearing		1600000	Midwest Molding, Inc	Cold sprue		H	9600.0							AVO Monterrey	Thermoset Injection			TS								Production end											
+ST-2023-02-80-1090					2023	2	1090.0	11410	USD	Brush Holder Stay		300000	DONG YANG			V	86400.0						3.45	AVO Monterrey	Stamping			ST								Fine tuning											
+TP-2023-08-110-1091					2023	8	1091.0	11266	USD	Solenoid coil		8000000	KOSTAL	Cold sprue		H	15026.0						2.99	AVO Monterrey	Thermoplastic Injection			TP								Fine tuning								16-0114			
+ST-2023-01-30-1092					2023	1	1092.0	40000	RmB	Right terminal		10000000	KOSTAL			V	54000.0						2.76	AVO Monterrey	Stamping			ST								Fine tuning								53-0841			
+ST-2023-01-30-1093					2023	1	1093.0	30000	RmB	Top cover		10000000	KOSTAL			V	54000.0						2.76	AVO Monterrey	Stamping			ST								Fine tuning								53-0839			
+ST-2023-01-30-1094					2023	1	1094.0	4200	USD	Lower cover		10000000	KOSTAL			V	54000.0						2.76	AVO Monterrey	Stamping			ST								Fine tuning								53-0837			
+ST-2023-01-50-1095					2023	1	1095.0	7000	USD	Shield		10000000	KOSTAL			V	43200.0						2.76	AVO Monterrey	Stamping			ST								Fine tuning								53-0838			
+CP-2010-01-30-1096					2010	1	1096.0			D16		10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1097					2010	1	1097.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1098					2010	1	1098.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1099					2010	1	1099.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1100					2010	1	1100.0					10000000	CYCLAM			V								CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1101					2010	1	1101.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1102					2010	1	1102.0					10000000	CYCLAM	Cold sprue		V	65.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1103					2010	1	1103.0					10000000	CYCLAM			V	72.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1104					2010	1	1104.0					10000000	CYCLAM			V	72.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1105					2010	1	1105.0					10000000	CYCLAM			V	72.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1106					2010	1	1106.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1107					2010	1	1107.0					10000000	CYCLAM			V	72.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1108					2010	1	1108.0					10000000	CYCLAM			V	72.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1109					2010	1	1109.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1110					2010	1	1110.0					10000000	CYCLAM	Cold sprue		V	72.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1111					2010	1	1111.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1112					2010	1	1112.0					10000000	CYCLAM	Cold sprue		V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1113					2010	1	1113.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1114					2010	1	1114.0					10000000	CYCLAM			V	72.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1115					2010	1	1115.0					10000000	CYCLAM			V	72.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1116					2010	1	1116.0					10000000	CYCLAM			V	72.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1117					2010	1	1117.0					10000000	CYCLAM			V	72.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1118					2010	1	1118.0					10000000	CYCAM			V	72.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1119					2010	1	1119.0					10000000	CYCLAM			V	72.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1120					2010	1	1120.0					10000000	CYCLAM			V	72.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1121					2010	1	1121.0					10000000	CYCLAM			V	120.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1122					2010	1	1122.0					10000000	CYCLAM			V	72.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1123					2010	1	1123.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1124					2010	1	1124.0					10000000	CYCLAM			V	72.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1125					2010	1	1125.0					10000000	CYCLAM			V	72.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1126					2010	1	1126.0					10000000	CYCLAM			V	72.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1127					2010	1	1127.0					10000000	CYCLAM			V	65.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1128					2010	1	1128.0					10000000	CYCLAM			V	72.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1129					2010	1	1129.0					10000000	CYCLAM			V	120.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1130					2010	1	1130.0					10000000	CYCLAM			V	120.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1131					2010	1	1131.0					10000000	CYCLAM			V	120.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1132					2010	1	1132.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1133					2010	1	1133.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								DFM / Kick off											
+ST-2023-0-0-1134					2023	0	1134.0					0												CYCLAM Amiens	Stamping			ST																			
+CP-2010-01-50-1134					2010	1	1134.0					10000000	CYCLAM			V	72.0							CYCLAM Amiens	Compression			CP								DFM / Kick off											
+CP-2010-01-50-1135					2010	1	1135.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1136					2010	1	1136.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1137					2010	1	1137.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1138					2010	1	1138.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1139					2010	1	1139.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1140					2010	1	1140.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1141					2010	1	1141.0					10000000	CYCLAM			V	72.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1142					2010	1	1142.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1143					2010	1	1143.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1144					2010	1	1144.0					10000000	CYCLAM			V	120.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1145					2010	1	1145.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1146					2010	1	1146.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1147					2010	1	1147.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1148					2010	1	1148.0					10000000	CYCLAM			V	120.0							CYCLAM Amiens	Compression			CP								In use											
+ST-2023-01-80-1149					2023	1	1149.0	15621	USD	Deep Shield		12000000	KOSTAL			V	21600.0						3.22	AVO Monterrey	Stamping			ST								In use								53-0840 			
+ST-2023-01-80-1150					2023	1	1150.0	3347	USD	Lower cover		1200000	KOSTAL			V	43200.0							AVO Monterrey	Stamping			ST								In use											
+CP-2010-01-50-1151					2010	1	1151.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1152					2010	1	1152.0					10000000	CYCLAM			V	72.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1153					2010	1	1153.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1154					2010	1	1154.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1155					2010	1	1155.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1156					2010	1	1156.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1157					2010	1	1157.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1158					2010	1	1158.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1159					2010	1	1159.0					10000000	CYCLAM			V	72.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1160					2010	1	1160.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1161					2010	1	1161.0					10000000	CYCLAM			H	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1162					2010	1	1162.0					10000000	CYCLAM			V	72.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1163					2010	1	1163.0					10000000	CYCLAM			V	120.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1164					2010	1	1164.0					10000000	CYCLAM			V	120.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1165					2010	1	1165.0					10000000	CYCLAM			V	72.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1166					2010	1	1166.0					10000000	CYCLAM			V	72.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1167					2010	1	1167.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1168					2010	1	1168.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1169					2010	1	1169.0					10000000	CYCLAM			V	120.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1170					2010	1	1170.0					10000000	CYCAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1171					2010	1	1171.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1172					2010	1	1172.0					10000000	CYCLAM			V	120.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1173					2010	1	1173.0			Jonc - Cup		10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1174					2010	1	1174.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-120-1175					2010	1	1175.0					10000000	CYCLAM			V	120.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1176					2010	1	1176.0					10000000	CYCLAM			V	120.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1177					2010	1	1177.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1178					2010	1	1178.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1179					2010	1	1179.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1180					2010	1	1180.0					10000000	CYCLAM			V	90.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1181					2010	1	1181.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1182					2010	1	1182.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1183					2010	1	1183.0					10000000	CYCLAM			V	120.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1184					2010	1	1184.0					10000000	CYCLAM			V	72.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1185					2010	1	1185.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1186					2010	1	1186.0					10000000	CYCLAM			V	90.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1187					2010	1	1187.0					10000000	CYCLAM			V	72.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1188					2010	1	1188.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1189					2010	1	1189.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1190					2010	1	1190.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1191					2010	1	1191.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1192					2010	1	1192.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1193					2010	1	1193.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1194					2010	1	1194.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1195					2010	1	1195.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1196					2010	1	1196.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1197					2010	1	1197.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1198					2010	1	1198.0					10000000	CYCLAM			V	72.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1199					2010	1	1199.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1200					2010	1	1200.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1201					2010	1	1201.0					10000000	CYCLAM			V	72.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1202					2010	1	1202.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1203					2010	1	1203.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1204					2010	1	1204.0					10000000	CYCLAM			V	72.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1205					2010	1	1205.0					10000000	CYCLAM			V	144.0							CYCLAM Amiens	Compression			CP								In use											
+CP-2010-01-50-1206					2010	1	1206.0					10000000	CYCLAM			V	120.0							CYCLAM Amiens	Compression			CP								In use											
+TP-2024-01-50-1207					2024	1	1207.0	8000	EURO	Brush Box		1000	VW	Cold sprue		H	1271.0						2.99	AVO Poitiers	Thermoplastic Injection			TP								Fine tuning								2-22255Y02			
+ST-2024-01-50-1208					2024	1	1208.0	46000	RmB	Contact washer		1000	VW			V	3086.0						3.22	AVO Poitiers	Stamping			ST								Fine tuning								2-22255Y07			
+ST-2024-01-100-1209					2024	1	1209.0	6000	RmB	Bushing		20000000	AVO Carbon Kunhsan			V	21600.0						2.53	AVO Kunshan	Stamping			ST								DFM / Kick off								O1820004			
+ST-2024-01-25-1211					2024	1	1211.0	3900	USD	Terminal		8000000	BOSCH			V	54000.0						2.99	AVO Monterrey	Stamping			ST								DFM / Kick off								53-2004			
+ST-2024-01-25-1212					2024	1	1212.0	3900	USD	Terminal		8000000	BOSCH			V	54000.0						2.99	AVO Monterrey	Stamping			ST								DFM / Kick off								53-2005			
+ST-2024-01-25-1210					2024	1	1210.0	3900	USD	Terminal		8000000	BOSCH			V	54000.0						2.99	AVO Monterrey	Stamping			ST								DFM / Kick off								53-2003			
+TP-2024-04-120-1213					2024	4	1213.0	29500	USD	Brush holder unit (base)		4000000	Dong Yong	HR on sprue		H	5760.0							AVO Monterrey	Thermoplastic Injection			TP								Fine tuning											
+TP-2024-04-60-1214					2024	4	1214.0	17000	USD	Brush holder unit		4000000	Dong Yang	HR on sprue		H	5760.0							AVO Monterrey	Thermoplastic Injection			TP								Fine tuning											
+ST-2024-01-60-1215					2024	1	1215.0	6400	USD	TERMINAL A - TYPE Q		6000000	Dong Yang			V	54000.0							AVO Monterrey	Stamping			ST								DFM / Kick off								53-0842, 53-0843			
+ST-2024-01-60-1216					2024	1	1216.0	6400	USD	Terminal A type P		6000000	Dong Yang			V	54000.0							AVO Monterrey	Stamping			ST								DFM / Kick off								53-0835, 53-0836			
+TP-2024-08-100-1217					2024	8	1217.0	90000	RmB	SLINGER		8000000	MESAC	HR on sprue		H	13824.0							AVO Kunshan	Thermoplastic Injection			TP								Fine tuning								O12410002			
+TP-2024-08-75-1218					2024	8	1218.0	190000	RmB	Brush holder		8000000	MESAC	HR direct on part		V								AVO Kunshan	Thermoplastic Injection			TP								Fine tuning								O12410001			
+ST-2024-01-80-1219					2024	1	1219.0	50000	RmB	Terminal E		10000000	MESAC			V								AVO Kunshan	Stamping			ST								In use								A451D141BD, A451D345BD			
+TP-2024-04-100-1220					2024	4	1220.0	36000	EURO	Brush Box		4000000	VW	HR direct on part		H	5760.0							AVO El Fahs	Thermoplastic Injection			TP								Fine tuning											
+ST-2024-01-60-1221					2024	1	1221.0	8400	EURO	Contact Washer		30000000	VW			V	43200.0							AVO El Fahs	Stamping			ST								Fine tuning								A60102401			
+TP-2024-04-50-1222					2024	4	1222.0	93960	RmB	Bushing EWP		4000000	FEILONG	HR on sprue		H	6646.0							AVO Kunshan	Thermoplastic Injection			TP								Fine tuning								K0124011			
+ST-2024-01-25-1223					2024	1	1223.0	3060	USD	Contact strap		6000000	BOSCH			V	54000.0							AVO Monterrey	Stamping			ST								DFM / Kick off											
+TP-2024-08-75-1224					2024	8	1224.0	140000	RmB	Brush holder		8000000	MELCO	HR direct on part		V								AVO Kunshan	Thermoplastic Injection			TP								DFM / Kick off								O12410003			
+TS-2024-04-50-1225					2024	4	1225.0	11500	EURO	Graphit Bearing		1600000	HELLA GmbH & Co. KGaA	Cold sprue		H	3840.0							AVO Plast	Thermoset Injection			TS								Fine tuning											
+TS-2024-96-75-1228					2024	96	1228.0			Seal SIM2 (AS & Elec)		12000000	HONG KONG AMBITION RUBBER PLASTIC			V	21827.0							AVO El Fahs	Thermoset Injection			TS								In use								A60110820			
+TP-2024-04-100-1229					2024	4	1229.0	28600	USD	Overmolded brush holder		4000000	DONG YANG	HR on sprue		V	2400.0							AVO Monterrey	Thermoplastic Injection			TP								DFM / Kick off											
+TP-2024-04-50-1230					2024	4	1230.0	11000	EURO	BUSH		4000000	ADVIK	HR on sprue		H	4937.0								Thermoplastic Injection			TP								Fine tuning											
+TP-2024-04-50-1231					2024	4	1231.0	11000	EURO	BUSH FLANGE		4000000	ADVIK	HR on sprue		H	4937.0								Thermoplastic Injection			TP								Fine tuning											
+TP-2024-04-50-1232					2024	4	1232.0	17000	USD	Overmolded seal		4000000	Dong Yang	HR on sprue		H	4937.0							AVO Monterrey	Thermoplastic Injection			TP								DFM / Kick off											
+TS-2024-04-50-1227					2024	4	1227.0	11365	EURO	Graphit Bearing		1600000	KOLEKTOR	Cold sprue		H	4320.0							AVO El Fahs	Thermoset Injection			TS								Fine tuning											
+ST-2024-01-50-1233					2024	1	1233.0	6900	EURO	Terminal male		12000000	VALEO			V	54000.0							AVO El Fahs	Stamping			ST								Fine tuning								A60101918			
+ST-2024-01-80-1234					2024	1	1234.0	6200	EURO	Brush box (continous)		12000000	VALEO			V	36000.0							AVO El Fahs	Stamping			ST								In use								A60101924			
+ST-2024-01-80-1235					2024	1	1235.0	5800	EURO	Brush box (reversible)		12000000	VALEO			V	36000.0							AVO El Fahs	Stamping			ST								In use								A60101911			
+ST-2024-01-80-1236					2024	1	1236.0	6200	EURO	Contact Tip		12000000	VALEO			V	36000.0							AVO El Fahs	Stamping			ST								In use								A60101923, A60101922			
+ST-2024-01-35-1237					2024	1	1237.0	4000	EURO	Contact Tip		12000000	VALEO			V	28800.0							AVO El Fahs	Stamping			ST								In use								A60101921			
+ST-2024-01-40-1238					2024	1	1238.0	2300	EURO	Contact plate		12000000	NIDEC			V	86400.0							AVO El Fahs	Stamping			ST								DFM / Kick off								A503.671			
+ST-2024-01-40-1239					2024	1	1239.0	2300	EURO	Contact plate		12000000	NIDEC			V	86400.0							AVO El Fahs	Stamping			ST								DFM / Kick off								A503.672			
+ST-2024-01-40-1240					2024	1	1240.0	5000	EURO	Contact plate		12000000	NIDEC			V	86400.0							AVO El Fahs	Stamping			ST								DFM / Kick off								A503.668			
+ST-2024-01-40-1241					2024	1	1241.0	5000	EURO	Contact plate		12000000	NIDEC			V	86400.0							AVO El Fahs	Stamping			ST								DFM / Kick off								A503.667			
+ST-2024-01-50-1242					2024	1	1242.0	5000	EURO	Contact plate		12000000	NIDEC			V	86400.0							AVO El Fahs	Stamping			ST								DFM / Kick off								A503.666			
+ST-2024-01-50-1243					2024	1	1243.0	5000	EURO	Power pin		12000000	NIDEC			V	86400.0							AVO El Fahs	Stamping			ST								DFM / Kick off								A503.665			
+ST-2024-01-50-1244					2024	1	1244.0	5000	EURO	Power pin		12000000	NIDEC			V	86400.0							AVO El Fahs	Stamping			ST								DFM / Kick off								A503.664			
+ST-2024-01-50-1245					2024	1	1245.0	5000	EURO	Power pin		12000000	NIDEC			V	86400.0							AVO El Fahs	Stamping			ST								DFM / Kick off								A503.663			
+ST-2024-01-50-1246					2024	1	1246.0	3600	USD	TAB		3000000	TI Automotive			V	43200.0							AVO Monterrey	Stamping			ST								DFM / Kick off								53-0558			
+ST-2024-01-30-1247					2024	1	1247.0	3000	USD	WHISKER		100000	VALEO			V	54000.0							AVO Monterrey	Stamping			ST								DFM / Kick off								53-0592			
+
+

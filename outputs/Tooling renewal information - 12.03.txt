@@ -1,0 +1,11 @@
+=== Mold status ===
+Topic	 ID tool	PN'S	Warranty extension	PO N°	date debut de renovation ou nouveau moule	date qualification de renovation ou nouveau moule(estimation)	Type
+connecteur CMFB chez Inteplast	TP-2015-04-50-663	A503.711 ; A503.713 ; A503.655 ;A504.342	4000000	21149	2024-07-24 00:00:00	S25- 2025 (will be re-negociated)	refurbishement
+11TA chez inteplast	TP-2011-04-150-457 ; TP-2014-04-150-577 ; TP-2013-04-150-521	A08116090I ; A08116093L ; A13116656KC ; A13116592KC	4000000	20682	2024-06-12 00:00:00	S7 2025	refurbishement
+contact tip 921 chez polybest	ST-2017-01-35-791	 A60101921	3000000	21327	27-Aout-2024	2024-09-27 00:00:00	refurbishement
+nouveau moule chez ABC Rubber	TS-2024-96-75-1228	A60110820	12000000	Paid by supplier	2024-04-29 00:00:00	2024-10-15 00:00:00	new mold
+Housing VM4 chez Plasteel	TP-2017-08-80-763	A60101134	2800000	21044	2024-02-08 00:00:00	2024-11-14 00:00:00	Refurbishement
+10C chez plasticum	TP-2013-04-200-518	AA16106796T and AA08106102B and AA12106513D and AA12106553H and A996746B	2200000	22145	2024-12-02 00:00:00	S52 2024	Refurbishement
+10C chez Plasteel	TP-2016-04-200-694 	AA16106796T and AA08106102B and AA12106513D and AA12106553H and A996746B	1400000	22171	2024-12-03 00:00:00	S52 2024	Refurbishement
+
+
