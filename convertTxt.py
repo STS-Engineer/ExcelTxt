@@ -1,8 +1,8 @@
-from flask import Flask, request, render_template, send_file, jsonify
+from flask import Flask, request, jsonify, render_template_string
 import pandas as pd
 import os
 import requests
-
+from werkzeug.utils import secure_filename
 app = Flask(__name__)
 UPLOAD_FOLDER = 'uploads'
 OUTPUT_FOLDER = 'outputs'
@@ -108,7 +108,7 @@ def upload_form():
     <body>
         <h2>Upload XLSX File to launch the analysis AI</h2>
         <form action="/convert" method="post" enctype="multipart/form-data">
-            <input type="file" name="file" accept=".xlsx" required>
+            <input type="file" name="file" accept=".xlsx,.csv" required>
             <br><br>
             <input type="submit" value="Convert">
         </form>
@@ -120,44 +120,97 @@ def upload_form():
 @app.route('/convert', methods=['POST'])
 def convert_file():
     if 'file' not in request.files:
-        return "No file part"
+        return jsonify({"error": "No file uploaded"}), 400
 
     file = request.files['file']
     if file.filename == '':
-        return "No selected file"
+        return jsonify({"error": "No selected file"}), 400
 
-    if file:
-        filepath = os.path.join(UPLOAD_FOLDER, file.filename)
+    try:
+        # Secure filename and determine file extension
+        filename = secure_filename(file.filename)
+        file_ext = os.path.splitext(filename)[1].lower()
+        filepath = os.path.join(UPLOAD_FOLDER, filename)
         file.save(filepath)
 
-        # Convert XLSX to TXT
-        df = pd.read_excel(filepath, sheet_name=None)  # Read all sheets
-        txt_filename = os.path.splitext(file.filename)[0] + '.txt'
+        txt_filename = os.path.splitext(filename)[0] + '.txt'
         txt_filepath = os.path.join(OUTPUT_FOLDER, txt_filename)
 
+        if file_ext == ".xlsx":
+            df_dict = pd.read_excel(filepath, sheet_name=None)
+        elif file_ext == ".csv":
+            df_dict = {"CSV Sheet": pd.read_csv(filepath)}
+        else:
+            return jsonify({"error": "Unsupported file format. Only XLSX and CSV are allowed."}), 400
+
         with open(txt_filepath, 'w', encoding='utf-8') as txt_file:
-            for sheet_name, data in df.items():
+            for sheet_name, data in df_dict.items():
                 txt_file.write(f'=== {sheet_name} ===\n')
                 txt_file.write(data.to_csv(sep='\t', index=False, header=True))
                 txt_file.write('\n\n')
 
         # Create a new item in Monday.com
-        item_id = create_monday_item(file.filename)
+        item_id = create_monday_item(filename)
         if not item_id:
-            return "Failed to create item in Monday.com"
+            return jsonify({"error": "Failed to create item in Monday.com"}), 500
 
-        # Upload the original XLSX to the XLSX column
-        xlsx_upload_response = upload_to_monday(item_id, filepath, COLUMN_XLSX_ID)
+        # Upload files to Monday.com
+        upload_responses = {}
+        if file_ext == ".xlsx":
+            upload_responses["xlsx_upload_response"] = upload_to_monday(item_id, filepath, COLUMN_XLSX_ID)
+        elif file_ext == ".csv":
+            upload_responses["csv_upload_response"] = upload_to_monday(item_id, filepath, COLUMN_XLSX_ID)
 
-        # Upload the converted TXT file to the TXT column
-        txt_upload_response = upload_to_monday(item_id, txt_filepath, COLUMN_TXT_ID)
+        upload_responses["txt_upload_response"] = upload_to_monday(item_id, txt_filepath, COLUMN_TXT_ID)
 
-        return jsonify({
-            "item_id": item_id,
-            "xlsx_upload_response": xlsx_upload_response,
-            "txt_upload_response": txt_upload_response
-        })
+        # 🎉 Show a success message
+        success_html = f"""
+        <!doctype html>
+        <html>
+        <head>
+            <style>
+                body {{
+                    font-family: Arial, sans-serif;
+                    background-color: #f4f4f4;
+                    text-align: center;
+                    padding: 50px;
+                }}
+                .container {{
+                    background: white;
+                    padding: 20px;
+                    border-radius: 10px;
+                    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+                    display: inline-block;
+                }}
+                h2 {{ color: #28a745; }}
+                p {{ color: #333; }}
+                .button {{
+                    background-color: #007bff;
+                    color: white;
+                    padding: 10px 20px;
+                    text-decoration: none;
+                    border-radius: 5px;
+                    display: inline-block;
+                    margin-top: 10px;
+                }}
+                .button:hover {{
+                    background-color: #0056b3;
+                }}
+            </style>
+        </head>
+        <body>
+            <div class="container">
+                <h2>✅ File Conversion Successful!</h2>
+                <p>Your file <b>{filename}</b> has been successfully converted and uploaded to Monday.com.</p>
+                <a href="/" class="button">Upload Another File</a>
+            </div>
+        </body>
+        </html>
+        """
+        return render_template_string(success_html)
 
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
 
 if __name__ == '__main__':
     app.run(debug=True)
